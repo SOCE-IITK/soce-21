@@ -1,0 +1,46 @@
+<section id="faculties" style="   background-image: linear-gradient(180deg, #222222 0%, #000000 50%);">
+
+    <section class="faculty_header">
+        <div class="alpha"><br>
+            <h1 data-aos="slide-down" class="activities_heading"> FACULTY </h1><br>
+            <hr data-aos="slide-up" id="rule">
+        </div>
+
+        <div class="subheading">
+            <h3 id="subheading1">Faculty Members in the Civil Engineering Department</h3>
+        </div>
+    </section>
+
+    <section class="faculty_section">
+
+        <%faculty.forEach(function (faculty){%>
+            <div class="container_faculty">
+                <div class="card">
+
+                    <div class="content">
+                        <div class="imgBx">
+                            <img src=<%=faculty.image%> alt="">
+                        </div>
+                        <div class="contentBx">
+                            <h3>Prof. <%=faculty.name%><br><span>
+                                        <%=faculty.post%> <br>
+                                            Room: <%=faculty.room%> <br>
+                                                Tel: <%=faculty.tel%> <br>
+                                                    <a href=<%=faculty.mail%> target="_blank"><%=faculty.mail.substring(7,100)%></a> <br>
+                                                    <a href=<%=faculty.homepage%> target="_blank"> Homepage </a>
+                                    </span></h3>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <% }) %>
+
+    </section>
+    <div style="text-align:center;">
+        <i class="fas fa-chevron-up" style="color: #fff;" onclick="upFaculty()" aria-hidden="true"></i>
+    </div>
+
+</section>

@@ -1,0 +1,27 @@
+<section class="department" id="department">
+    <div class="alpha">
+        <h1 data-aos="slide-down" class="activities_heading" style="margin-top: 1%;"> DEPARTMENTAL GET-TOGETHER </h1><br>
+        <hr data-aos="slide-up" id="rule" style="width: 55%;">
+    </div>
+
+
+
+    <!--  -->
+    <div class="slideshow-container">
+      <% images.forEach(function(image){ %> 
+        <div  class="mySlides fade" style="text-align: center;">
+            <div class="numbertext"> </div>
+            <img src=<%=image%>  style="width:80%; ">
+          </div>
+      <% }) %>  
+        <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+        <a class="next" onclick="plusSlides(1)">&#10095;</a>
+        
+        </div>
+
+        <div style="text-align:center;">
+            <i class="fas fa-chevron-up" style="color: #fff;" onclick="upDepartment()" aria-hidden="true"></i>
+        </div>
+    
+    <!--  -->
+</section>

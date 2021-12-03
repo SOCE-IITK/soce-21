@@ -1,0 +1,53 @@
+<section class="placement" id="placements">
+    <div class="alpha">
+        <h1 data-aos="slide-down" class="activities_heading" style="margin-top: 1%;"> PLACEMENT POSTULATES </h1><br>
+        <hr data-aos="slide-up" id="rule" style="width: 45%;">
+    </div>
+
+   
+    <div class="place_cards">
+        <%chats.forEach(function (chat){%>
+            <figure class="snip1336">
+                <img src="<%=chat.dp%>" alt="cover">
+                <figcaption>
+                    <img src="img/Student-section/placement/icon.svg" alt="profile" class="profile">
+                    <table>
+                        <tr style="height: 3em;">
+                            <td>
+                                <h2>
+                                    <%=chat.name%>
+                                </h2>
+                            </td>
+                        </tr>
+                        <tr style="height: 2em;">
+                            <td>
+                                    <span>
+                                        <small style="color:#6B7AA1;">
+                                        <%=chat.work%>
+                                        </small>
+                                    </span>
+                            </td>
+                        </tr>
+                        <tr style="height: 4em;">
+                            <td>
+                                <p>
+                                    <%=chat.text.substring(0,110) %>....
+                                </p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><b>
+                                <a href=<%=chat.link%> target="_blank" class="info"> Read More > </a></b>
+                            </td>
+                        </tr>
+                    </table>
+                </figcaption>
+            </figure>
+            <% }) %>
+    </div>
+
+    <div style="text-align:center;">
+        <i class="fas fa-chevron-up" style="color: #fff; margin-bottom: 25px;" onclick="upPlacements()" aria-hidden="true"></i>
+      </div>
+    <!-- coping end -->
+</section>

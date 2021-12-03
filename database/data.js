@@ -1,0 +1,16 @@
+var images=["/img/Activities/get-together/1.jpg","/img/Activities/get-together/2.jpg","/img/Activities/get-together/3.jpg","/img/Activities/get-together/5.jpg","/img/Activities/get-together/6.jpg",
+"/img/Activities/get-together/7.jpg",
+"/img/Activities/get-together/8.jpg",
+"/img/Activities/get-together/9.jpg",
+"/img/Activities/get-together/10.jpg",
+"/img/Activities/get-together/11.jpg",
+"/img/Activities/get-together/12.jpg",
+"/img/Activities/get-together/13.jpg",
+"/img/Activities/get-together/14.jpg",
+"/img/Activities/get-together/15.jpg",
+"/img/Activities/get-together/16.jpg",
+"/img/Activities/get-together/17.jpg",
+"/img/Activities/get-together/18.jpg",
+"/img/Activities/get-together/19.jpg",
+"/img/Activities/get-together/20.jpg",];
+module.exports=images;

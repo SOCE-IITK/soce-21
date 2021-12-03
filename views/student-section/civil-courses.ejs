@@ -1,0 +1,24 @@
+<section id="civil-courses">
+    <div class="alpha">
+        <h1 data-aos="slide-down" class="activities_heading" style="margin-top: 1%;">OUR COURSES </h1><br>
+        <hr data-aos="slide-up" id="rule" style="width: 35%;">
+    </div>
+
+
+    <div class="civil_card_deck">
+        <% course.forEach(function(courses){ %> 
+        <div data-aos="zoom-in" class="civil_card">
+            
+            <h3><a style="color:#f5ba61 ;" href=<%=courses.link%> target="_blank"><%=courses.name%></a><br>
+            <small style="font-size: 0.8rem; color: rgb(255, 255, 255);"><%=courses.course_name%></small>
+        </h3>
+    
+        </div>
+        <% }) %> 
+      </div>
+  
+      <div style="text-align: center;">
+          <i class="fas fa-chevron-up" id="high" onclick="upCourses()" aria-hidden="true"></i>
+      </div>
+
+</section>

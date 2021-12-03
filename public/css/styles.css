@@ -1,0 +1,620 @@
+/* font style for nav menu */
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Condensed&family=Ubuntu:wght@300&display=swap');
+
+/* font style for text */
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+
+/* --------------------------------NAVIGATION SECTION----------------------------- */
+
+.header {
+    min-height: 100vh;
+    width: 100%;
+    background-image: url("/img/Home/bg-main.png");
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+#down {
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transition: 0.5s;
+    color: #fff;
+    font-size: 2rem;
+}
+
+#down:hover {
+    cursor: pointer;
+    font-size: 3rem;
+    left: 49.5%;
+}
+
+#high {
+    margin-top: 3%;
+    font-size: 2rem;
+    color: white;
+    transition: 0.5s;
+}
+
+#high:hover {
+    cursor: pointer;
+    font-size: 3rem;
+}
+
+nav {
+    display: flex;
+    padding: 2% 6%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#logo {
+    height: 4rem;
+    width: 4rem;
+}
+
+.nav-links {
+    flex: 1;
+    text-align: right;
+}
+
+.nav-links ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 8px 12px;
+    position: relative;
+}
+
+.nav-links ul li a {
+    color: #ffff;
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-family: 'Ubuntu Condensed', sans-serif;
+    transition: 0.5s;
+}
+
+.nav-links ul li a:hover {
+    font-weight: 800;
+}
+
+.nav-links ul li::after {
+    content: '';
+    width: 0%;
+    height: 3px;
+    background: orange;
+    display: block;
+    margin: auto;
+    transition: 0.5s;
+}
+
+.nav-links ul li:hover::after {
+    width: 100%;
+}
+
+.text-box {
+    width: 50%;
+    color: #ffff;
+    position: absolute;
+    left: 5%;
+    top: 25%;
+    font-family: 'Oswald', sans-serif;
+    line-height: 1.2;
+}
+
+.text-box h1 {
+    font-weight: 700;
+    font-size: 5rem;
+    font-style: normal;
+    color: rgb(251, 253, 254);
+    text-decoration: none;
+}
+
+.text-box p {
+    font-size: 2rem;
+    margin-top: 4%;
+}
+
+nav .bar {
+    display: none;
+}
+
+
+/* -------------------ABOUT SECTION-------------------------------------- */
+
+.about-us1 {
+    height: 100vh;
+    width: 100%;
+    /* background-image: linear-gradient(180deg, #222222 0%, #000000 50%); */
+    background-image: url("/img/Home/bg-about.png");
+    background-size: cover;
+    background-position: left;
+    position: relative;
+}
+
+.about-us1 h1 {
+    font-family: 'Oswald', sans-serif;
+    padding: 1%;
+    font-size: 40px;
+}
+
+.content-box {
+    width: 50%;
+    color: #ffff;
+    position: absolute;
+    left: 4%;
+    right: 60%;
+}
+
+.content-box h1 {
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(255, 189, 89);
+    text-decoration: underline #eeebeb;
+    text-underline-offset: 20%;
+    margin-top: 6vh;
+}
+
+.content-box h5 {
+    font-family: 'Jost', sans-serif;
+    color: black;
+    padding: 10px 20px;
+    background-color: rgb(255, 189, 89);
+    text-align: center;
+    width: 20%;
+    border-radius: 2vh;
+}
+
+.content-box p {
+    font-size: 1.5rem;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(217, 217, 217);
+    text-decoration: none;
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+    line-height: 4vh;
+}
+
+.content-box a {
+    color: #ffff;
+}
+
+
+/* ----------------main highlights------------------------------- */
+
+.Main_Highlights {
+    /**background-image: linear-gradient(180deg, #222222 50%, #000000 50%);**/
+    background-image: url("/img/Home/bg-highlight.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    /**padding-top: 0.85%;
+    padding-bottom: 0.85%;
+    padding-left: 2%;
+    padding-right: 2%;**/
+}
+
+.Main_Highlights h1 {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    padding: 1%;
+    font-weight: 700;
+    font-size: 40px;
+    font-style: normal;
+    color: rgb(255, 189, 89);
+    text-decoration: underline #eeebeb;
+    text-underline-offset: 20%;
+}
+
+.Main_Highlights p {
+    font-size: 1.5rem;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(217, 217, 217);
+    text-decoration: none;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    line-height: 4vh;
+}
+
+.card_deck {
+    margin-top: 5%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    align-items: center;
+    width: 20%;
+}
+
+.card :hover {
+    opacity: 1;
+    ;
+    color: #FFBD59;
+}
+
+.card h3 {
+    font-family: 'Jost', sans-serif;
+    padding: 12px 16px;
+    color: white;
+    background-color: #222222;
+    text-align: center;
+}
+
+.card_image {
+    width: 100%;
+}
+
+
+/* -----------------------Recent activities---------------- */
+
+.recent {
+    /* background-image: linear-gradient(180deg, #222222 0%, #000000 50%); */
+    background-image: url("/img/Home/bg-recent.jpg");
+    background-color: #000;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
+.recent h1 {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    padding: 1%;
+    font-weight: 700;
+    font-size: 40px;
+    font-style: normal;
+    color: rgb(255, 189, 89);
+    text-decoration: underline #eeebeb;
+    text-underline-offset: 20%;
+}
+
+
+/* ---------------------------contact us------------------------ */
+
+.contact-us {
+    background-color: #222222;
+    background-image: url("/img/Home/bg-contact.png");
+    background-repeat: no-repeat;
+    background-size: bottom right;
+    background-position: right;
+    min-height: 100vh;
+    left: 4%;
+}
+
+.contact-us h1 {
+    font-family: 'Oswald', sans-serif;
+    padding-top: 1%;
+    padding-left: 4%;
+    font-weight: 700;
+    font-size: 40px;
+    font-style: normal;
+    color: rgb(255, 189, 89);
+    text-decoration: underline #eeebeb;
+    text-underline-offset: 20%;
+}
+
+.contact-us div {
+    color: #ffff;
+    margin-left: 5%;
+}
+
+.contact-us h3 {
+    margin-top: 2%;
+    font-size: 1.5rem;
+}
+
+.contact-us p {
+    margin-left: 43px;
+    font-size: 1.2rem;
+}
+
+.contact-us .f {
+    margin-right: 20px;
+    color: #FFBD59;
+}
+
+.contact-us .f:hover {
+    cursor: pointer;
+}
+
+.contact-us .social {
+    margin-top: 3%;
+    margin-left: -4%;
+    font-size: 3rem;
+    margin-right: 6%;
+    transition: 0.5s;
+}
+
+.contact-us .social:hover {
+    cursor: pointer;
+}
+
+.contact-us #instagram:hover {
+    color: rgb(270, 0, 100);
+}
+
+.contact-us #facebook:hover {
+    color: rgb(66, 103, 178);
+}
+
+.contact-us #linked:hover {
+    color: rgb(14, 120, 190);
+}
+
+.contact-us #dis:hover {
+    color: rgb(116, 138, 220);
+}
+
+.contact-us #youtube:hover {
+    color: rgb(221, 54, 54);
+}
+
+.contact-us a {
+    text-decoration: none;
+    color: #ffff;
+}
+
+@media(max-width:1024px) {
+    .nav-links ul li {
+        font-size: 5.2rem;
+        display: block;
+        text-align: center;
+    }
+    .nav-links ul li a {
+        font-size: 2rem;
+    }
+    .nav-links {
+        position: fixed;
+        background: black;
+        height: 100vh;
+        width: 100vw;
+        right: -100vw;
+        top: 0;
+        z-index: 2;
+        transition: 1s;
+    }
+    nav .bar {
+        display: block;
+        color: #ffff;
+        font-size: 50px;
+        cursor: pointer;
+        margin: 30px;
+    }
+    .nav-links ul {
+        padding: 40px;
+    }
+    .section1 {
+        text-align: center;
+        background-position: center;
+    }
+    .content-box,
+    .text-box {
+        text-align: center;
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .content-box p {
+        font-family: 'Oswald', sans-serif;
+    }
+    /* ---------------about-us */
+    .content-box h5 {
+        width: 40%;
+        padding: 15px 20px;
+        margin-left: 30%;
+    }
+    /* ------------------recent activities */
+    .card {
+        width: 60%;
+        margin-top: 2%;
+        text-align: center;
+        align-items: center;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .Main_Highlights {
+        text-align: center;
+    }
+    /* -----------------contact us */
+    .contact-us {
+        background-image: none;
+        background-position: bottom;
+        background-size: contain;
+        text-align: center;
+    }
+    .contact-us div {
+        text-align: center;
+        width: 80vw;
+    }
+    .contact-us h1 {
+        padding-top: 10%;
+        padding-bottom: 10%;
+        font-size: 3rem;
+        text-decoration: underline #eeebeb;
+        text-underline-offset: 20%;
+    }
+    .contact-us h3 {
+        text-align: center;
+        font-size: 2.2rem;
+    }
+    .contact-us div {
+        margin-left: 8%;
+    }
+    .contact-us p {
+        text-align: center;
+        font-size: 1.5rem;
+        margin-left: 10px;
+        margin-top: 5px;
+    }
+    .contact-us .f {
+        /* margin-left: 20px; */
+        margin-right: 5px;
+        font-size: 2rem;
+    }
+    .contact-us .social {
+        font-size: 2.5rem;
+        margin-right: 10%;
+        margin-top: 5%;
+    }
+}
+
+
+/* ------------------------MOBILE VIEW------------------------------------- */
+
+@media(max-width:737px) {
+    /* ---------------------NAVIGATION-------------------------- */
+    .text-box h1 {
+        font-size: 3.5rem;
+    }
+    .text-box p {
+        font-size: 1.2rem;
+        line-height: 1.5;
+        font-weight: bolder;
+    }
+    .nav-links ul li {
+        font-size: 1.2rem;
+        display: block;
+        text-align: center;
+    }
+    .nav-links ul li a {
+        font-size: 2rem;
+    }
+    .nav-links {
+        position: absolute;
+        background: black;
+        height: 100vh;
+        width: 100vw;
+        right: -100vw;
+        top: 0;
+        z-index: 2;
+        /* text-align: left; */
+        transition: 1s;
+    }
+    nav .bar {
+        display: block;
+        color: #ffff;
+        font-size: 22px;
+        cursor: pointer;
+        margin: 30px;
+    }
+    .nav-links ul {
+        padding: 40px;
+    }
+    .content-box h1 {
+        font-size: 2rem;
+    }
+    .content-box p {
+        font-size: 1.2rem;
+    }
+    /* ---------------------------------ABOUT--------------------------------- */
+    .section1 {
+        text-align: center;
+        background-position: center;
+    }
+    .content-box,
+    .text-box {
+        text-align: center;
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .content-box p {
+        font-size: 1rem;
+        font-family: 'Oswald', sans-serif;
+    }
+    /* ---------------------main highlights media queries------------------- */
+    .card {
+        width: 60%;
+        text-align: center;
+        align-items: center;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .Main_Highlights {
+        background-image: linear-gradient(180deg, #1a1818f1 0%, #000000 50%);
+        min-height: 100vh;
+        background-size: cover;
+        padding-top: 0.85%;
+        padding-bottom: 0.85%;
+        padding-left: 2%;
+        padding-right: 2%;
+    }
+    .Main_Highlights h1 {
+        font-family: 'Oswald', sans-serif;
+        padding: 1%;
+        font-weight: 700;
+        font-size: 40px;
+        font-style: normal;
+        color: rgb(255, 189, 89);
+        text-decoration: underline #eeebeb;
+        text-underline-offset: 20%;
+        margin: 10%;
+    }
+    .Main_Highlights p {
+        font-size: 1rem;
+        font-weight: 400;
+        font-style: normal;
+        color: rgb(217, 217, 217);
+        text-decoration: none;
+        margin: 10%;
+        line-height: 4vh;
+    }
+    .Main_Highlights h3 {
+        margin-bottom: 10%;
+    }
+    /* -------------------contact-us----------------------- */
+    .contact-us {
+        background-position: bottom;
+        background-size: contain;
+        text-align: center;
+    }
+    .contact-us div {
+        text-align: center;
+        width: 80vw;
+    }
+    .contact-us h1 {
+        padding-top: 10%;
+        padding-bottom: 10%;
+        font-size: 2rem;
+        text-decoration: underline #eeebeb;
+        text-underline-offset: 20%;
+    }
+    .contact-us h3 {
+        text-align: center;
+        font-size: 1.2rem;
+    }
+    .contact-us p {
+        text-align: center;
+        font-size: 0.8rem;
+        margin-left: 10px;
+        margin-top: 5px;
+    }
+    .contact-us .f {
+        /* margin-left: 20px; */
+        margin-right: 5px;
+        font-size: 1rem;
+    }
+    .contact-us .social {
+        font-size: 1.5rem;
+        margin-left: 5%;
+        margin-top: 10%;
+    }
+}

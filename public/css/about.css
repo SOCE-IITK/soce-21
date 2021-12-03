@@ -1,0 +1,44 @@
+.about_soce{
+    display: grid;
+    width: 80vw;
+    column-gap: 5%;
+    grid-template-columns: repeat(3,1fr);
+    margin-left: 10% ;
+
+}
+
+.item1,.item2{
+    color: #fff;
+    text-align: justify;
+    line-height: 1.5;
+    font-size: 1.2rem;
+    font-family: 'Ubuntu Condensed', sans-serif;;
+}
+.item1{
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+
+
+iframe{
+    height: 80vh;
+    width: 24vw;
+}
+
+
+@media(max-width:1024px){
+    .about_soce{
+        grid-template-columns: repeat(1,1fr);
+    }
+    iframe{
+      display: none;
+    }
+
+    .about_heading{
+        font-size: 1.8rem;
+    }
+
+    #rule{
+        border-bottom: 4px solid rgb(255, 72, 0);
+    }
+}

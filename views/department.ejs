@@ -1,0 +1,79 @@
+<%- include('partials/header') %>
+    <div id="loading">
+        <div class='loader'>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <br>
+            <h3>Loading...</h3>
+        </div>
+    </div>
+
+    <section class="department_header" id="department">
+        <nav>
+            <a href="/">
+                <img data-aos="slide-right" src="/img/SoCE-logo.svg" alt="" id="logo" class="logo"></a>
+            <div class="nav-links" id="nav-links">
+                <i class="fa fa-times bar " onclick="hideMenu()" aria-hidden="true"></i>
+                <ul>
+                    <li data-aos="slide-left"><a href="/">Home</a></li>
+                    <li data-aos="slide-left"><a href="/activities">Activities</a></li>
+                    <li data-aos="slide-left"> <a href="/department">Department</a> </li>
+                    <li data-aos="slide-left"><a href="/student-section">Student's Section</a></li>
+                    <!-- <li data-aos="slide-left"><a href="">Placement Postulates</a></li> -->
+                    <li data-aos="slide-left"><a href="/teams">Team</a></li>
+                </ul>
+            </div>
+            <i class="fa fa-bars bar" onclick="showMenu()" aria-hidden="true"></i>
+        </nav>
+
+        <div class="alpha">
+            <h1 data-aos="slide-down" class="department_heading"> DEPARTMENT </h1><br>
+            <hr data-aos="slide-up" id="rule">
+        </div>
+
+
+        <div data-aos="zoom-in" class="department_card_deck">
+
+            <div data-aos="zoom-in" class="activities_card" id="facul" onclick="faculty()">
+                <img class="department_card_image" src="/img/Department/icon1.jpg" alt="SoCE IITK">
+
+                <h3>DEPARTMENT FACULTY</h3>
+
+
+            </div>
+
+            <div data-aos="zoom-in" class="department_card" id="paten" onclick="patent()">
+                <img class="department_card_image" src="/img/Department/icon2.jpg" alt="SoCE IITK">
+
+                <h3>RESEARCH & PATENT</h3>
+
+
+            </div>
+            <div data-aos="zoom-in" class="department_card" id="award" onclick="awards()">
+                <img class="department_card_image" src="/img/Department/icon3.jpg" alt="SoCE IITK">
+
+                <h3>AWARDS & ACHIEVEMENTS</h3>
+
+
+            </div>
+            <div data-aos="zoom-in" class="department_card" id="alumn" onclick="alumni()">
+                <img class="department_card_image" src="/img/Department/icon4.jpg" alt="SoCE IITK">
+
+                <h3>FAMOUS <br> ALUMNI</h3>
+
+
+            </div>
+
+        </div>
+
+    </section>
+    <%- include('department/faculty') %>
+        <%- include('department/research') %>
+            <%- include('department/achievements') %>
+                <%- include('department/famous-alumni') %>
+
+
+                    <script src="/js/slider.js"></script>
+                    <%- include('partials/footer') %>
