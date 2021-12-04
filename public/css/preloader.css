@@ -14,7 +14,7 @@
     width: 200px;
     height: 200px;
     /* background: #1a1a1a; */
-    /* background-image: url(/SoCE-logo.png); */
+    background-image: url(/SoCE-logo.png); 
     display: flex;
     justify-content: center;
     align-items: center;
