@@ -1,4 +1,4 @@
-# Society-of-civil-engineers-IITK 
+# SoCE-IITK New Website 2021
 <code><img height="100" src = "public/img/SoCE-logo.svg"></code>
 
 New Site for SoCE-IITK [Under Construction] 🏗👷🏻‍♂️👷🏻‍♀️🚧
@@ -14,7 +14,7 @@ New Site for SoCE-IITK [Under Construction] 🏗👷🏻‍♂️👷🏻‍♀�
 
 
 
-## Bookmarks 📝
+## Bookmarks 📝 (Courtesy Shubham)
 
 - [Canva-SoCE](https://www.canva.com/design/DAEsiQTOrrM/Tq0m9SvyOg_elmVW0HdLgA/view?website#2:title-page)
 - [Website](https://www.canva.com/design/DAEsiQTOrrM/Tq0m9SvyOg_elmVW0HdLgA/view?website#2:contact-page)
@@ -24,7 +24,7 @@ New Site for SoCE-IITK [Under Construction] 🏗👷🏻‍♂️👷🏻‍♀�
 - [Student](https://www.canva.com/design/DAEuYHUTsPM/kaX1nOe1rP7Kr3-03QEFqg/view?website#2)
 
 ## Folders 📄
--    <code><img height="30" src = "public/img/SoCE-logo.svg"></code> [database](database/)
+-   <code><img height="30" src = "public/img/SoCE-logo.svg"></code> [database](database/)
 -   <code><img height="30" src = "public/img/SoCE-logo.svg"></code> [views](views/)
 -   <code><img height="30" src = "public/img/SoCE-logo.svg"></code> [img](public/img/)
 -   <code><img height="30" src = "public/img/SoCE-logo.svg"></code> [css](public/css/)
