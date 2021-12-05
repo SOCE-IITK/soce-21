@@ -6,6 +6,7 @@
     text-align: center;
     background-image: url("/img/bg-default.png");
     background-size: cover;
+    background-attachment: fixed;
 }
 #resume p{
   padding-bottom: 1%;
@@ -213,6 +214,7 @@ p{
     text-align: center;
     background-image: url("/img/bg-default.png");
     background-size: cover;
+    background-attachment: fixed;
 }
 
 .branch_card_deck{
@@ -323,6 +325,7 @@ p{
   text-align: center;
   background-image: url("/img/bg-default.png");
   background-size: cover;
+  background-attachment: fixed;
 }
 
 .civil_card_deck{
@@ -369,6 +372,7 @@ p{
  min-height: 110vh;
  background-image: url("/img/bg-default.png");
  background-size: cover;
+ background-attachment: fixed;
 }
 
 /* ----------copied css --------- */

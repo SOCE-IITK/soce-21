@@ -5,6 +5,7 @@
     min-height: 100vh;
     width: 100%;
     background-image: url("/img/bg-global.png");
+    background-attachment: fixed;
     background-size: cover;
     background-position: center;
     position: relative;
@@ -24,12 +25,12 @@
     text-align:center;
 }
 
-#rule{
+/* #rule{
     border-bottom: 7px solid rgb(255, 72, 0);
     display:inline-block;
     width: 400px;
     margin-bottom: 4%;
-}
+} */
 
 .activities_card_deck{
     display: flex;
@@ -236,9 +237,10 @@ a{
 
   .fun_events{
     display: none;
-    min-height: 150vh;
+    min-height: 100vh;
     width: 100%;
     background-image: url("/img/bg-default.png");
+    background-attachment: fixed;
     /* background-color: black; */
     background-size: cover;
     background-repeat: no-repeat;
@@ -362,6 +364,7 @@ a{
 .strength{
     display: none;
     background-image: url("/img/bg-default.png");
+    background-attachment: fixed;
     min-height: 100vh;
     width: 100%;
     background-repeat: no-repeat;
@@ -408,6 +411,7 @@ a{
   min-height: 100vh;
   width: 100vw;
   background-image: url("/img/bg-global.png");
+  background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -440,6 +444,7 @@ a{
 .department{
     display: none;
     background-image: url("/img/bg-default.png");
+    background-attachment: fixed;
     min-height: 100vh;
     width: 100%;
     background-repeat: no-repeat;

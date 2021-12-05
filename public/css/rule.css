@@ -1,0 +1,79 @@
+.rule{
+    border-bottom:4px solid rgb(255, 72, 0);
+    display:inline-block;
+    width: 80vw;
+    margin-bottom: 4%;
+}
+
+#activity_rule{
+    width: 35vw;
+}
+
+#department_rule{
+    width: 30vw;
+}
+
+#student_rule{
+    width: 40vw;
+}
+
+#team_rule{
+    width: 20vw;
+}
+
+#fun_events_rule{
+    width: 35vw;
+}
+
+#strength_rule{
+    width: 30vw;
+}
+
+#alumni_rule{
+    width: 35vw;
+}
+
+#together_rule{
+    width: 6 0vw;
+}
+
+#faculty_rule{
+    width: 25vw;
+}
+
+#famous_rule{
+    width: 35vw;
+}
+
+#achievements_rule{
+    width: 55vw;
+}
+
+#resume_rule{
+    width: 25vw;
+}
+#mates_rule{
+    width: 40vw;
+}
+#course_rule{
+    width: 40vw;
+}
+#placement_rule{
+    width: 50vw;
+}
+#research_rule{
+    width: 30vw;
+}
+@media(max-width:1024px){
+    #research_rule,#activity_rule,#department_rule,#student_rule,#team_rule,#fun_events_rule,#strength_rule,#alumni_rule,
+    #together_rule,#famous_rule,#faculty_rule,#achivements_rule,#resume_rule,#mates_rule,#course_rule,#placement_rule{
+        width: 55vw;
+    }
+}
+
+@media(max-width:768px){
+    #research_rule,#activity_rule,#department_rule,#student_rule,#team_rule,#fun_events_rule,#strength_rule,#alumni_rule,
+    #together_rule,#famous_rule,#faculty_rule,#achivements_rule,#resume_rule,#mates_rule,#course_rule,#placement_rule{
+        width: 80vw;
+    }
+}
