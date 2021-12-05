@@ -105,8 +105,9 @@ p {
     font-weight: normal;
     font-size: 42px;
     position: relative;
-    margin: 1%;
+    margin: 50px;
     margin-left: 57px;
+    margin-bottom: 0;
 }
 
 .container01 {
