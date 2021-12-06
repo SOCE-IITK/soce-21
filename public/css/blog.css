@@ -1,7 +1,7 @@
 body{
     background-color:black;
     background-image: linear-gradient(0deg, #36295e, #1c1045);
-    font-family: sans-serif ;
+    font: 1.2em "Fira Sans", serif;
     color: white;
     font-size:3vh;
     width:96vw;
@@ -10,10 +10,24 @@ body{
     background-repeat: no-repeat;
     background-size:cover;
 }
+.top{
+    background-position: center;
+    display:flex;
+    text-align: center;
+    align-items: center;
+    position: relative;
+    justify-content: center;
+
+}
+.logopp{
+    height: 10vh;
+    width: 10vh;
+    margin-top: 2vh;
+}
 .head{
-	font-family:"northwestbold";
-	font-size: 8vh;
-	color:white;
+    font: small-caps bold 24px/1 sans-serif;
+	font-size: 7vh;
+	color:#EDFFA9;
     text-align: center;
     display:flex;
     justify-content: center;
@@ -23,9 +37,9 @@ body{
 .head p{
     display:flex;
 	justify-content: center;
-	border:1vh solid white;
-	padding-top:5vmin;
-	padding-bottom:5vmin;
+	/* border:1vh solid #B0EFEB; */
+	/* padding-top:5vmin; */
+	/* padding-bottom:5vmin; */
     width:70vw;
 }  
 
@@ -67,8 +81,11 @@ a :hover {
     color: #88E0EF;
   }
 @media screen and (max-width:1200px){
+    bofy{
+        font-size:4vh;
+    }
     .head{
-        font-size:12vw;
+        font-size:4vw;
         text-align: center;
         width:90vw;
         margin-left:5vw;
@@ -76,11 +93,12 @@ a :hover {
     }
     .head p{
       margin-left:0vw;
-      padding: 10%;
+      padding: 5%;
+      /* border:0.5vh solid #EDFFA9; */
     }
     body{
         width:100vw;
-        font-size:4vw;
+        font-size:2vw;
     }
     .blog{
         width:80vw;
@@ -92,7 +110,7 @@ a :hover {
         width:80vw;
         margin:initial;
         max-height:initial;
-        
+        margin-bottom:1vh ;
     }
     .img1{
         float:left;
