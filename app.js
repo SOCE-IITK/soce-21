@@ -34,8 +34,18 @@ app.get('/teams', function (req, res) {
     res.render('teams', { cordi: cordi, secy: secy, title: "Teams" });
 })
 
+
 app.get('/:name',(req,res)=>{
-    res.render('post',{name:req.params.name});
+    var img;
+    for(var i = 0; i<chats.length; i++){
+        if(req.params.name==chats[i].name){
+            img = chats[i].thumbnail;
+        }
+        if(i >= chats.length){
+            img="";
+        }
+    }
+    res.render('post',{name:req.params.name,thumbnail:img});
 })
 app.listen(PORT, () => {
     console.log("server started on port 3000");
