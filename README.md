@@ -6,7 +6,7 @@ New Site for SoCE-IITK [Under Construction] 🏗👷🏻‍♂️👷🏻‍♀�
 
 ## Contributors 👷🏻‍♂️👷🏻‍♀️
 -   <code><img height="30" src = "https://avatars.githubusercontent.com/u/85317992?s=400&u=06648b4d578f580cf25a14cd5006292fd625f8ce&v=4"></code> [Aman](https://github.com/amanks-20)
--   <code><img height="30" src = "https://github.com/SOCE-IITK/soce/blob/master/sections/team/img/abhishek20.jpg"></code> [Abhishek](https://github.com/kabhishek20)
+-   <code><img height="30" src = "public/img/team/w4.jpg"></code> [Abhishek](https://github.com/kabhishek20)
 -   <code><img height="30" src = "https://avatars.githubusercontent.com/u/84412731?v=4"></code> [Faiza](https://github.com/faizak31)
 -   <code><img height="30" src = "https://github.com/SOCE-IITK/soce/blob/master/sections/team/img/saurabh20.jpg"></code> [Saurabh](https://github.com/sahay-saurabh)
 -   <code><img height="30" src = "https://github.com/SOCE-IITK/soce/blob/master/sections/team/img/shubham20.jpg"></code> [Shubham](https://github.com/Shubham-707)
