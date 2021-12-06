@@ -20,7 +20,7 @@ New Site for SoCE-IITK [Under Construction] 🏗👷🏻‍♂️👷🏻‍♀�
 
 
 
-## Bookmarks 📝 (Courtesy Shubham)
+## Canva Site Layouts 📝 (Courtesy Shubham)
 
 - [Canva-SoCE](https://www.canva.com/design/DAEsiQTOrrM/Tq0m9SvyOg_elmVW0HdLgA/view?website#2:title-page)
 - [Website](https://www.canva.com/design/DAEsiQTOrrM/Tq0m9SvyOg_elmVW0HdLgA/view?website#2:contact-page)
