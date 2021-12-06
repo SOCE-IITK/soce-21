@@ -1,12 +1,21 @@
 var secy = [
     {
+        name: "Kaushal Kumar Jha",
+        post: "Secretary, Content Writing",
+        fb: "https://www.facebook.com/kaushal.jha.71404",
+        insta: "https://www.instagram.com/kaushalkj2955/",
+        linkedin: "https://www.linkedin.com/in/kaushal-kumar-jha-314982214",
+        mail: "mailto:kaushalkj20@iitk.ac.in",
+        image: "img/team/c1.jpg"
+    },
+    {
         name: "Kritika Bansal",
         post: "Secretary, Content Writing",
         fb: "https://www.facebook.com/kritika.bansal.587606",
         insta: "https://instagram.com/kritika_bansal2?utm_medium=copy_link",
         linkedin: "https://www.linkedin.com/in/kritika-bansal-0a2b88217",
         mail: "mailto:kritikab20@iitk.ac.in",
-        image: "img/team/c1.jpg"
+        image: "img/team/c2.jpg"
     },
     {
         name: "Om Jee",
@@ -15,7 +24,7 @@ var secy = [
         insta: "https://soce-iitk.github.io/soce/sections/team/#",
         linkedin: "https://www.linkedin.com/in/om-jee-322b12212",
         mail: "mailto:omjee20@iitk.ac.in",
-        image: "img/team/c2.jpg"
+        image: "img/team/c3.jpg"
     },
     {
         name: "Prabhat Kumar Meena",
@@ -24,7 +33,7 @@ var secy = [
         insta: "https://www.instagram.com/prabhhatkumarr/",
         linkedin: "https://soce-iitk.github.io/soce/sections/team/#",
         mail: "mailto:prabhatm20@iitk.ac.in",
-        image: "img/team/c3.jpg"
+        image: "img/team/c4.jpg"
     },
     {
         name: "Sanidhya Shrivastava",
@@ -33,7 +42,16 @@ var secy = [
         insta: "https://www.instagram.com/sanidhya.shrivastava.1402/?utm_medium=copy_link",
         linkedin: "https://soce-iitk.github.io/soce/sections/team/#",
         mail: "mailto:sanidhyash20@iitk.ac.in",
-        image: "img/team/c4.jpg"
+        image: "img/team/c5.jpg"
+    },
+    {
+        name: "Shobhit Lamba",
+        post: "Secretary, Content Writing",
+        fb: "https://www.facebook.com/shobhit.lamba.507/",
+        insta: "https://www.instagram.com/shobhiit.2159/",
+        linkedin: "#",
+        mail: "mailto:shobhit20@iitk.ac.in",
+        image: "img/team/c6.jpg"
     },
     {
         name: "Ajeet Kushwaha",
@@ -243,22 +261,13 @@ var secy = [
         image: "img/team/w2.jpg"
     },
     {
-        name: "Kaushal Kumar Jha",
-        post: "Secretary, Web Development",
-        fb: "https://www.facebook.com/kaushal.jha.71404",
-        insta: "https://www.instagram.com/kaushalkj2955/",
-        linkedin: "https://www.linkedin.com/in/kaushal-kumar-jha-314982214",
-        mail: "mailto:kaushalkj20@iitk.ac.in",
-        image: "img/team/w3.jpg"
-    },
-    {
         name: "Kumar Abhishek",
         post: "Secretary, Web Development",
         fb: "https://www.facebook.com/kabhishek20/",
         insta: "https://www.instagram.com/k_abhishek.15/",
         linkedin: "https://www.linkedin.com/in/kumar-abhishek-629303216/",
         mail: "mailto:kabhishek20@iitk.ac.in",
-        image: "img/team/w4.jpg"
+        image: "img/team/w3.jpg"
     },
     {
         name: "Saurabh Sahay",
@@ -267,16 +276,7 @@ var secy = [
         insta: "https://www.instagram.com/sahay.saurabh/",
         linkedin: "https://www.linkedin.com/in/saurabh-sahay-b20797197/",
         mail: "mailto:ssahay20@iitk.ac.in",
-        image: "img/team/w5.jpg"
-    },
-    {
-        name: "Shobhit Lamba",
-        post: "Secretary, Web Development",
-        fb: "https://www.facebook.com/shobhit.lamba.507/",
-        insta: "https://www.instagram.com/shobhiit.2159/",
-        linkedin: "#",
-        mail: "mailto:shobhit20@iitk.ac.in",
-        image: "img/team/w6.jpg"
+        image: "img/team/w4.jpg"
     },
     {
         name: "Yuvraj Singh",
@@ -285,7 +285,7 @@ var secy = [
         insta: "https://www.instagram.com/__yuvisofficial/",
         linkedin: "https://www.linkedin.com/in/yuvraj-singh-b6955b1aa",
         mail: "mailto:syuvraj20@iitk.ac.in",
-        image: "img/team/w7.jpg"
+        image: "img/team/w5.jpg"
     }
 ]
 
