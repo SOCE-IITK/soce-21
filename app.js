@@ -10,6 +10,7 @@ const secy = require('./database/secretary');
 const alumni = require('./database/alumni');
 const faculty = require('./database/faculty');
 const award = require('./database/achievement')
+const web = require('./database/web')
 
 const PORT=process.env.PORT || 3000;
 
@@ -31,7 +32,7 @@ app.get('/student-section', function (req, res) {
     res.render('student-section', { course: course, chats: chats, title: "Student-section" });
 })
 app.get('/teams', function (req, res) {
-    res.render('teams', { cordi: cordi, secy: secy, title: "Teams" });
+    res.render('teams', { cordi: cordi, secy: secy, web: web, title: "Teams" });
 })
 
 

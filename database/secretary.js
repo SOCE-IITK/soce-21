@@ -63,7 +63,7 @@ var secy = [
         image: "img/team/d1.jpg"
     },
     {
-        name: "Aman",
+        name: "Aman Kumar Singh",
         post: "Secretary, Design",
         fb: "https://www.facebook.com/amanks20",
         insta: "https://www.instagram.com/protonaman",
