@@ -11,7 +11,9 @@
     box-sizing: border-box;
     scroll-behavior: smooth;
 }
-
+body{
+    overflow-y: scroll;
+}
 
 /* --------------------------------NAVIGATION SECTION----------------------------- */
 
@@ -502,7 +504,7 @@ nav .bar {
         background: black;
         height: 100vh;
         width: 100vw;
-        right: -100vw;
+        right: -100%;
         top: 0;
         z-index: 2;
         /* text-align: left; */
