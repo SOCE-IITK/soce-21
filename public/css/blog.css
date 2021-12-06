@@ -40,7 +40,6 @@ body{
     border:2px solid white;
     border-radius:3px;
     width:20vw;
-    
     max-height:20vw;
     object-fit: cover;
     object-position: top;
@@ -57,15 +56,27 @@ b{
     float:right;
     margin-left:2vw;
 }
+a {
+    color: #FBF46D;
+    text-decoration: none;
+    /* no underline */
+  }
+  
+a :hover {
+    text-decoration: underline;
+    color: #88E0EF;
+  }
 @media screen and (max-width:1200px){
     .head{
         font-size:12vw;
         text-align: center;
         width:90vw;
         margin-left:5vw;
+
     }
     .head p{
       margin-left:0vw;
+      padding: 10%;
     }
     body{
         width:100vw;
@@ -81,6 +92,7 @@ b{
         width:80vw;
         margin:initial;
         max-height:initial;
+        
     }
     .img1{
         float:left;
