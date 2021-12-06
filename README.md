@@ -5,12 +5,12 @@ New Site for SoCE-IITK [Under Construction] 🏗👷🏻‍♂️👷🏻‍♀�
 
 
 ## Contributors 👷🏻‍♂️👷🏻‍♀️
--   <code><img height="40" src = "public/img/team/d2.jpg"></code> [Aman KS](https://github.com/amanks-20)
--   <code><img height="40" src = "public/img/team/w4.jpg"></code> [Kumar Abhishek](https://github.com/kabhishek20)
--   <code><img height="40" src = "public/img/team/w2.jpg"></code> [Faiza Khan](https://github.com/faizak31)
--   <code><img height="40" src = "public/img/team/w5.jpg"></code> [Saurabh Sahay](https://github.com/sahay-saurabh)
--   <code><img height="40" src = "public/img/team/d5.jpg"></code> [Shubham Kumar](https://github.com/Shubham-707)
--   <code><img height="40" src = "public/img/team/w7.jpg"></code> [Yuvraj Singh](https://github.com/Yuvraj1171)
+<code><img height="40" src = "public/img/team/d2.jpg"></code> [Aman KS](https://github.com/amanks-20)
+<code><img height="40" src = "public/img/team/w4.jpg"></code> [Kumar Abhishek](https://github.com/kabhishek20)
+<code><img height="40" src = "public/img/team/w2.jpg"></code> [Faiza Khan](https://github.com/faizak31)
+<code><img height="40" src = "public/img/team/w5.jpg"></code> [Saurabh Sahay](https://github.com/sahay-saurabh)
+<code><img height="40" src = "public/img/team/d5.jpg"></code> [Shubham Kumar](https://github.com/Shubham-707)
+<code><img height="40" src = "public/img/team/w7.jpg"></code> [Yuvraj Singh](https://github.com/Yuvraj1171)
 
 
 
