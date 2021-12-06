@@ -1,126 +1,141 @@
-body{
-    background-color:black;
-    background-image: linear-gradient(0deg, #36295e, #1c1045);
-    font: 1.2em "Fira Sans", serif;
-    color: white;
-    font-size:3vh;
-    width:96vw;
-    background-position: center;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-size:cover;
+body {
+  background-color: black;
+  background-image: linear-gradient(0deg, #36295e, #1c1045);
+  font: 1.2em "Fira Sans", serif;
+  color: white;
+  font-size: 3vh;
+  width: 96vw;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
-.top{
-    background-position: center;
-    display:flex;
-    text-align: center;
-    align-items: center;
-    position: relative;
-    justify-content: center;
 
+.top {
+  background-position: center;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  position: relative;
+  justify-content: center;
 }
-.logopp{
-    height: 10vh;
-    width: 10vh;
-    margin-top: 2vh;
-}
-.head{
-    font: small-caps bold 24px/1 sans-serif;
-	font-size: 7vh;
-	color:#EDFFA9;
-    text-align: center;
-    display:flex;
-    justify-content: center;
-    align-items: center;
-    position: relative;
-}
-.head p{
-    display:flex;
-	justify-content: center;
-	/* border:1vh solid #B0EFEB; */
-	/* padding-top:5vmin; */
-	/* padding-bottom:5vmin; */
-    width:70vw;
-}  
 
+.logopp {
+  height: 10vh;
+  width: 10vh;
+  margin-top: 2vh;
+}
 
-.blog{
-    width:85vw;
-    margin-left:5vw;
-    text-align:justify;
-    word-spacing: 5px;
+.head {
+  font: small-caps bold 24px/1 sans-serif;
+  font-size: 7vh;
+  color: #EDFFA9;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
 }
-.blog img{
-    border:2px solid white;
-    border-radius:3px;
-    width:20vw;
-    max-height:20vw;
-    object-fit: cover;
-    object-position: top;
-    margin-bottom:1vh ;
+
+.head p {
+  display: flex;
+  justify-content: center;
+  /* border:1vh solid #B0EFEB; */
+  /* padding-top:5vmin; */
+  /* padding-bottom:5vmin; */
+  width: 70vw;
 }
-b{
-    text-transform: uppercase;
+
+.blog {
+  width: 85vw;
+  margin-left: 5vw;
+  text-align: justify;
+  word-spacing: 5px;
 }
-.img1{
-    float:left;
-    margin-right:2vw;
+
+.blog img {
+  border: 2px solid white;
+  border-radius: 3px;
+  width: 20vw;
+  max-height: 20vw;
+  object-fit: cover;
+  object-position: top;
+  margin-bottom: 1vh;
 }
-.img2{
-    float:right;
-    margin-left:2vw;
+
+b {
+  text-transform: uppercase;
 }
+
+.img1 {
+  float: left;
+  margin-right: 2vw;
+}
+
+.img2 {
+  float: right;
+  margin-left: 2vw;
+}
+
 a {
-    color: #FBF46D;
-    text-decoration: none;
-    /* no underline */
-  }
-  
-a :hover {
-    text-decoration: underline;
-    color: #88E0EF;
-  }
-@media screen and (max-width:1200px){
-    bofy{
-        font-size:4vh;
-    }
-    .head{
-        font-size:4vw;
-        text-align: center;
-        width:90vw;
-        margin-left:5vw;
+  color: #FBF46D;
+  text-decoration: none;
+  /* no underline */
+}
 
-    }
-    .head p{
-      margin-left:0vw;
-      padding: 5%;
-      /* border:0.5vh solid #EDFFA9; */
-    }
-    body{
-        width:100vw;
-        font-size:4vw;
-    }
-    .blog{
-        width:80vw;
-        margin-left:10vw;
-    }
-    .blog img{
-        border:2px solid white;
-        border-radius:3px;
-        width:80vw;
-        margin:initial;
-        max-height:initial;
-        margin-bottom:1vh ;
-    }
-    .img1{
-        float:left;
-        margin-right:initial;
-    }
-    .img2{
-        float:left;
-        margin-left:initial;
-    }
-    b{
-        font-size:170%;
-    }
+a :hover {
+  text-decoration: underline;
+  color: #88E0EF;
+}
+
+@media screen and (max-width:1200px) {
+  bofy {
+    font-size: 4vh;
+  }
+
+  .head {
+    font-size: 4vw;
+    text-align: center;
+    width: 90vw;
+    margin-left: 5vw;
+  }
+
+  .head p {
+    margin-left: 0vw;
+    padding: 5%;
+    /* border:0.5vh solid #EDFFA9; */
+  }
+
+  body {
+    width: 100vw;
+    font-size: 4vw;
+  }
+
+  .blog {
+    width: 80vw;
+    margin-left: 10vw;
+  }
+
+  .blog img {
+    border: 2px solid white;
+    border-radius: 3px;
+    width: 80vw;
+    margin: initial;
+    max-height: initial;
+    margin-bottom: 1vh;
+  }
+
+  .img1 {
+    float: left;
+    margin-right: initial;
+  }
+
+  .img2 {
+    float: left;
+    margin-left: initial;
+  }
+
+  b {
+    font-size: 170%;
+  }
 }
