@@ -1,4 +1,3 @@
-        dp: "/img/Student-section/placement/Shuaib-Alam.jpeg",
 var chats = [{
     name: "Jeetendra Kumar Patel (Y16)",
     work: "IOCL",
