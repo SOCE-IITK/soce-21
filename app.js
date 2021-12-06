@@ -38,13 +38,16 @@ app.get('/teams', function (req, res) {
 app.get('/:name',(req,res)=>{
     var img;
     for(var i = 0; i<chats.length; i++){
-        if(req.params.name==chats[i].name){
+        if(chats[i].og==req.params.name){
             img = chats[i].thumbnail;
+            // console.log(img);
         }
         if(i >= chats.length){
             img="";
         }
     }
+    console.log(img);
+    // console.log(req.params.name);
     res.render('post',{name:req.params.name,thumbnail:img});
 })
 app.listen(PORT, () => {

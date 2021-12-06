@@ -5,6 +5,7 @@ var chats = [{
     dp: "/img/Student-section/placement/jeetendra_y16.jpg",
     link: "/Jeetendra_Kumar_Patel",
     thumbnail: "/img/Student-section/placement/thumbnail/1.jpg",
+    og:"Jeetendra_Kumar_Patel"
   },
   {
     name: "Shuaib Alam (Y18)",
@@ -13,6 +14,7 @@ var chats = [{
     dp: "/img/Student-section/placement/Shuaib-Alam.jpeg",
     link: "/Shuaib_Alam",
     thumbnail: "/img/Student-section/placement/thumbnail/2.jpg",
+    og:"Shuaib_Alam"
   },
   {
     name: "Chitwan Garg (Y16)",
@@ -21,6 +23,7 @@ var chats = [{
     dp: "/img/Student-section/placement/chitwan-garg-y17.jpg",
     link: "/Chitwan_Garg",
     thumbnail: "/img/Student-section/placement/thumbnail/3.jpg",
+    og:"Chitwan_Garg"
   },
   {
     name: "Ashutosh Ranjan (Y17)",
@@ -29,6 +32,7 @@ var chats = [{
     dp: "/img/Student-section/placement/Ashutosh-Ranjan.jpeg",
     link: "/Ashutosh_Ranjan",
     thumbnail: "/img/Student-section/placement/thumbnail/4.jpg",
+    og:"Ashutosh_Ranjan"
   },
   {
     name: "Dishaa Rajora ",
@@ -37,6 +41,7 @@ var chats = [{
     dp: "/img/Student-section/placement/dishaa-rajora.jpg",
     link: "/Dishaa_Rajora",
     thumbnail: "/img/Student-section/placement/thumbnail/5.jpg",
+    og:"Dishaa_Rajora"
   },
   {
     name: "Krishan Kumar (Y17)",
@@ -45,6 +50,7 @@ var chats = [{
     dp: "/img/Student-section/placement/Krishan-Kumar.jpg",
     link: "/Krishan_Kumar",
     thumbnail: "/img/Student-section/placement/thumbnail/6.jpg",
+    og:"Krishan_Kumar"
   },
   {
     name: "Vishal Agarwal (Y17)",
@@ -53,6 +59,7 @@ var chats = [{
     dp: "/img/Student-section/placement/Vishal-Agarwal.jpg",
     link: "/Vishal_Agarwal",
     thumbnail: "/img/Student-section/placement/thumbnail/7.jpg",
+    og:"Vishal_Agarwal"
   },
   {
     name: "Shashi Shekhar (Y17)",
@@ -61,6 +68,7 @@ var chats = [{
     dp: "/img/Student-section/placement/Shashi-Shekhar.jpg",
     link: "/Shashi_Shekhar",
     thumbnail: "/img/Student-section/placement/thumbnail/8.jpg",
+    og:"Shashi_Shekhar"
   },
   {
     name: "Samyak Jain (Y17)",
@@ -69,6 +77,7 @@ var chats = [{
     dp: "/img/Student-section/placement/Samyak-Jain.jpg",
     link: "/Samyak_Jain",
     thumbnail: "/img/Student-section/placement/thumbnail/9.jpg",
+    og:"Samyak_Jain"
   },
   {
     name: "Rajat Ghoshal (Y17)",
@@ -77,6 +86,7 @@ var chats = [{
     dp: "/img/Student-section/placement/Rajat-Ghoshal.jpeg",
     link: "/Rajat_Ghoshal",
     thumbnail: "/img/Student-section/placement/thumbnail/10.jpg",
+    og:"Rajat_Ghoshal"
   },
   {
     name: "Vineet Shukla (Y17)",
@@ -85,6 +95,7 @@ var chats = [{
     dp: "/img/Student-section/placement/Vineet-Shukla.jpg",
     link: "/Vineet_Shukla",
     thumbnail: "/img/Student-section/placement/thumbnail/11.jpg",
+    og:"Vineet_Shukla"
   },
   {
     name: "Krishna Deo (Y17)",
@@ -93,6 +104,7 @@ var chats = [{
     dp: "/img/Student-section/placement/Krishna-Deo.jpg",
     link: "/Krishna_Deo",
     thumbnail: "/img/Student-section/placement/thumbnail/12.jpg",
+    og:"Krishna_Deo"
   },
   {
     name: "Gourav Kamboj (Y17)",
@@ -101,6 +113,7 @@ var chats = [{
     dp: "/img/Student-section/placement/Gourav-Kamboj.jpg",
     link: "/Gaurav_Kamboj",
     thumbnail: "/img/Student-section/placement/thumbnail/13.jpg",
+    og:"Gaurav_Kamboj"
   },
   {
     name: "Rahul Gauriyar (Y16)",
@@ -109,6 +122,7 @@ var chats = [{
     dp: "/img/Student-section/placement/Rahul-Gauriyar.jpg",
     link: "/Rahul_Gauriyar",
     thumbnail: "/img/Student-section/placement/thumbnail/14.jpg",
+    og:"Rahul_Gauriyar"
   },
   {
     name: "Mudit Kumar (Y17)",
@@ -117,6 +131,7 @@ var chats = [{
     dp: "/img/Student-section/placement/mudit-kumar-y17.jpeg",
     link: "/Mudit_Kumar",
     thumbnail: "/img/Student-section/placement/thumbnail/15.jpg",
+    og:"Mudit_Kumar"
   },
   {
     name: "Dishant Parewa",
@@ -125,6 +140,7 @@ var chats = [{
     dp: "/img/Student-section/placement/dishant-parewa-y17.jpg",
     link: "/Dishant_Parewa",
     thumbnail: "/img/Student-section/placement/thumbnail/16.jpg",
+    og:"Dishant_Parewa"
   },
 
 ]
