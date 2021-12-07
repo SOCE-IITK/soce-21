@@ -69,7 +69,13 @@
    * │ └─── [strength.ejs](views/activities/strength.ejs)
    * ├─── [blogs](views/blogs/)
    * ├─── [department](views/department/)
+   * │ ├─── [achievements.ejs](views/activities/achievements.ejs)
+   * │ ├─── [faculty.ejs](views/activities/faculty.ejs)
+   * │ ├─── [famous-alumni.ejs](views/activities/famous-alumni.ejs)
+   * │ └─── [research.ejs](views/activities/research.ejs)
    * ├─── [partials](views/partials/)
+   * │ ├─── [footer.ejs](views/activities/footer.ejs)
+   * │ └─── [header.ejs](views/activities/header.ejs)   
    * └─── [student-section](views/student-section/)
 
 #### Canva Site Layouts 📝 (Courtesy Shubham)
