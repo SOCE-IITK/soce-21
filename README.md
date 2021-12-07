@@ -1,6 +1,6 @@
 # SoCE-IITK 2021
 <code><img height="100" src = "public/img/SoCE-logo.svg"></code>
-## SoCE IITK 2021 website hosted at [https://soce-iitk.herokuapp.com/](https://soce-iitk.herokuapp.com/) 🎉🎉
+## SoCE IITK 2021 website @ [https://soce-iitk.herokuapp.com/](https://soce-iitk.herokuapp.com/) 🎉🎉
 
 
 ## Website Developed By 💻
