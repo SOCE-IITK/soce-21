@@ -13,8 +13,8 @@
 - ###  [Yuvraj Singh](https://github.com/Yuvraj1171)
 
 ## Folders 📄
- * ├─── [database](database/)
-    ├─── [achievement.js ](database/achievement.js)
+ * ├─── [database](database/)   
+   * ├─── [achievement.js ](database/achievement.js)
    * ├─── [alumni.js](database/alumni.js)
    * ├─── [coordi.js](database/coordi.js)
    * ├─── [data.js](database/data.js)
