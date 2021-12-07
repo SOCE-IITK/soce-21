@@ -90,6 +90,7 @@
    * └─── [teams.ejs](views/activities/teams.ejs)
  * ├─── [LICENSE](LICENSE)
  * ├─── [README](README.md)
+ * └─── [sitemap.xml](sitemap.xml)
    
 
 #### Canva Site Layouts 📝 (Courtesy Shubham)
