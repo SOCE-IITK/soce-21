@@ -14,6 +14,14 @@
 
 ## Folders 📄
  * [database](database/)
+   * [achievement.js ](database/achievement.js)
+   * [alumni.js](database/alumni.js)
+   * [coordi.js](database/coordi.js)
+   * [data.js](database/data.js)
+   * [faculty.js](database/faculty.js)
+   * [placement.js](database/placement.js)
+   * [secretary.js](database/secretary.js)
+   * [web.js](database/web.js)
  * [views](views/)
  * [public](public)
    * [css](public/css/)
