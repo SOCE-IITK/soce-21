@@ -29,34 +29,34 @@
    * ├─── [img](public/img/)
    * │  │   ├───Ashutosh-Ranjan
    * │  │   ├───Chitwan-Garg
-     │*  │   ├───Dishaa-Rajora
-     │*  │   ├───Dishant-Parewa
-     │*  │   ├───Gourav-Kamboj
-     │*  │   ├───Jeetendra-Kumar
-     │*  │   ├───Krishan-Kumar
-     │*  │   ├───Krishna-Deo
-     │*  │   ├───Mudit-Kumar
-     │*  │   ├───Rahul-Gauriyar
-     │*  │   ├───Rajat-Ghoshal
-     │*  │   ├───Samyak-Jain
-     │*  │   ├───Shashi-Shekhar
-     │*  │   ├───Shuaib-Alam
-     │*  │   ├───Vineet-Shukla
-     │*  │   └───Vishal-Agarwal
-     │*  ├───Department
-     │*  │   ├───alumni
-     │*  │   ├───faculty
-     │*  │   └───research
-     │*  ├───Home
-     │*  │   ├───highlights
-     │*  │   └───recent
-     │*  ├───preloader
-     │*  ├───Student-section
-     │*  │   ├───branchmates
-     │*  │   ├───placement
-     │*  │   │   └───thumbnail
-     │*  │   └───resume
-     │*  └───team
+   * │  │   ├───Dishaa-Rajora
+   * │  │   ├───Dishant-Parewa
+   * │  │   ├───Gourav-Kamboj
+   * │  │   ├───Jeetendra-Kumar
+   * │  │   ├───Krishan-Kumar
+   * │  │   ├───Krishna-Deo
+   * │  │   ├───Mudit-Kumar
+   * │  │   ├───Rahul-Gauriyar
+   * │  │   ├───Rajat-Ghoshal
+   * │  │   ├───Samyak-Jain
+   * │  │   ├───Shashi-Shekhar
+   * │  │   ├───Shuaib-Alam
+   * │  │   ├───Vineet-Shukla
+   * │  │   └───Vishal-Agarwal
+   * │  ├───Department
+   * │  │   ├───alumni
+   * │  │   ├───faculty
+   * │  │   └───research
+   * │  ├───Home
+   * │  │   ├───highlights
+   * │  │   └───recent
+   * │  ├───preloader
+   * │  ├───Student-section
+   * │  │   ├───branchmates
+   * │  │   ├───placement
+   * │  │   │   └───thumbnail
+   * │  │   └───resume
+   * │  └───team
    * └─── [js](public/js/)
      * ├─── [aos.js](public/js/aos.js)
      * ├─── [script.js](public/js/scriot.js)
