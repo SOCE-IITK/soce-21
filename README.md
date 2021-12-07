@@ -35,17 +35,6 @@
 ├───public
 │   ├───css
 │   ├───fontawesome-free-5.15.4-web
-│   │   ├───css
-│   │   ├───js
-│   │   ├───less
-│   │   ├───metadata
-│   │   ├───scss
-│   │   ├───sprites
-│   │   ├───svgs
-│   │   │   ├───brands
-│   │   │   ├───regular
-│   │   │   └───solid
-│   │   └───webfonts
 │   ├───fonts
 │   ├───img
 │   │   ├───Activities
