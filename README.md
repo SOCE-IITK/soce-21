@@ -13,12 +13,13 @@
 - ###  [Yuvraj Singh](https://github.com/Yuvraj1171)
 
 ## Folders 📄
--   <code><img height="30" src = "public/img/SoCE-logo.svg"></code> [database](database/)
--   <code><img height="30" src = "public/img/SoCE-logo.svg"></code> [views](views/)
--   <code><img height="30" src = "public/img/SoCE-logo.svg"></code> [img](public/img/)
--   <code><img height="30" src = "public/img/SoCE-logo.svg"></code> [css](public/css/)
--   <code><img height="30" src = "public/img/SoCE-logo.svg"></code> [js](public/js/)
--   <code><img height="30" src = "public/img/SoCE-logo.svg"></code> [fonts](public/fonts/)
+-   [database](database/)
+-   [views](views/)
+-   [public](public)
+-   - [img](public/img/)
+-   - [css](public/css/)
+-   - [js](public/js/)
+-   - [fonts](public/fonts/)
 
 #### Canva Site Layouts 📝 (Courtesy Shubham)
 
@@ -30,5 +31,5 @@
 - [Student](https://www.canva.com/design/DAEuYHUTsPM/kaX1nOe1rP7Kr3-03QEFqg/view?website#2)
 
 
-Copyrights 2021, SoCE IITK
+#### Copyrights 2021, SoCE IITK
 
