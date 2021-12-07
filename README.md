@@ -30,7 +30,7 @@
    * ├─── [js](public/js/)
  * ├─── [views](views/)
    * ├─── [activities](views/activities/)
-   * ├─── [blogs]views/blogs/)
+   * ├─── [blogs](views/blogs/)
    * ├─── [department](views/department/)
    * ├─── [partials](views/partials/)
    * ├─── [student-section](views/student-section/)
