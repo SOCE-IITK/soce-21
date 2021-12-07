@@ -6,8 +6,8 @@ New Site for SoCE-IITK [Under Construction] 🏗👷🏻‍♂️👷🏻‍♀�
 
 ## Contributors 👷🏻‍♂️👷🏻‍♀️
 <code><img height="50" src = "public/img/team/d2.jpg"></code> 
-<code><img height="50" src = "public/img/team/w4.jpg"></code> 
 <code><img height="50" src = "public/img/team/w2.jpg"></code> 
+<code><img height="50" src = "public/img/team/w3.jpg"></code> 
 <code><img height="50" src = "public/img/team/w4.jpg"></code> 
 <code><img height="50" src = "public/img/team/d5.jpg"></code> 
 <code><img height="50" src = "public/img/team/w5.jpg"></code> 
