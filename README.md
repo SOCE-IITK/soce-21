@@ -86,8 +86,8 @@
    * ├─── [about.ejs](views/activities/about.ejs
    * ├─── [activities.ejs](views/activities/activities.ejs)
    * ├─── [department.ejs](views/activities/department.ejs)
-   * ├─── [index.ejs](views/activities/index.ejs
-   * ├─── [post.ejs](views/activities/post.ejs
+   * ├─── [index.ejs](views/activities/index.ejs)
+   * ├─── [post.ejs](views/activities/post.ejs)
    * ├─── [student-section.ejs](views/acREADMEtivities/student-section.ejs)
    * └─── [teams.ejs](views/activities/teams.ejs)
  * ├─── [LICENSE](LICENSE)
