@@ -36,7 +36,7 @@ app.get('/teams', function (req, res) {
     res.render('teams', { cordi: cordi, secy: secy, web: web, title: "Teams" });
 })
 
-app.get('/sitemap',(req,res)=>{
+app.get('/sitemap.xml',(req,res)=>{
     res.contentType('application/xml');
     res.sendFile(path.join(__dirname,'sitemap.xml'));
 })
