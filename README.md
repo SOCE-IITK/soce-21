@@ -29,6 +29,11 @@
    * ├─── [img](public/img/)
    * ├─── [js](public/js/)
  * ├─── [views](views/)
+   * ├─── [activities](public/activities/)
+   * ├─── [blogs](public/fontawesome-free-5.15.4-web/)
+   * ├─── [department](public/department/)
+   * ├─── [partials](public/partials/)
+   * ├─── [student-section](public/student-section/)
 
 ## Repository Tree
 ├───database
