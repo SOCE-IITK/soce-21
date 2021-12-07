@@ -12,7 +12,7 @@
 - ###  [Shubham Kumar](https://github.com/Shubham-707)
 - ###  [Yuvraj Singh](https://github.com/Yuvraj1171)
 
-## Folders 📄
+## Repository Tree 📄
  * ├─── [database](database/)   
    * ├─── [achievement.js ](database/achievement.js)
    * ├─── [alumni.js](database/alumni.js)
