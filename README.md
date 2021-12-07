@@ -58,6 +58,9 @@
      *  │   └───resume
      *  └───team
    * ├─── [js](public/js/)
+     * ├─── [aos.js](public/js/aos.js)
+     * ├─── [script.js](public/js/scriot.js)
+     * ├─── [slider.js](public/js/slider.js)
  * ├─── [views](views/)
    * ├─── [activities](views/activities/)
    * ├─── [blogs](views/blogs/)
