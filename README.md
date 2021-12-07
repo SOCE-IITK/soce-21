@@ -27,8 +27,8 @@
    * ├─── [fontawesome-free-5.15.4-web](public/fontawesome-free-5.15.4-web/)
    * ├─── [fonts](public/fonts/)
    * ├─── [img](public/img/)
-     │*  │   ├───Ashutosh-Ranjan
-     │*  │   ├───Chitwan-Garg
+   * │  │   ├───Ashutosh-Ranjan
+   * │  │   ├───Chitwan-Garg
      │*  │   ├───Dishaa-Rajora
      │*  │   ├───Dishant-Parewa
      │*  │   ├───Gourav-Kamboj
