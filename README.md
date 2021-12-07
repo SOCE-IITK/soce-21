@@ -85,8 +85,7 @@
 
 #### Canva Site Layouts 📝 (Courtesy Shubham)
 
-- [Canva-SoCE](https://www.canva.com/design/DAEsiQTOrrM/Tq0m9SvyOg_elmVW0HdLgA/view?website#2:title-page)
-- [Website](https://www.canva.com/design/DAEsiQTOrrM/Tq0m9SvyOg_elmVW0HdLgA/view?website#2:contact-page)
+- [SoCE Website](https://www.canva.com/design/DAEsiQTOrrM/Tq0m9SvyOg_elmVW0HdLgA/view?website#2:title-page)
 - [About-Us](https://www.canva.com/design/DAEuaxDQGYc/XGKazHkNxQipher1FWnJDQ/view?website#2)
 - [Activities](https://www.canva.com/design/DAEsivoIJ5Y/MLQnIQQE1s7_kb_s_vXRPg/view?website#2:activities)
 - [Department](https://www.canva.com/design/DAEuYPG-TmA/X53Ir4oGb76Tg8_xrosrhg/view?website#2)
