@@ -16,10 +16,10 @@
 -   [database](database/)
 -   [views](views/)
 -   [public](public)
--   - [img](public/img/)
--   - [css](public/css/)
--   - [js](public/js/)
--   - [fonts](public/fonts/)
+   - [img](public/img/)
+   - [css](public/css/)
+   - [js](public/js/)
+   - [fonts](public/fonts/)
 
 #### Canva Site Layouts 📝 (Courtesy Shubham)
 
