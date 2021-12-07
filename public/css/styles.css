@@ -527,6 +527,16 @@ nav .bar {
         font-size: 1.2rem;
     }
     /* ---------------------------------ABOUT--------------------------------- */
+    
+    .about-us1 {
+        height: 100vh;
+        width: 100%;
+        background-image: linear-gradient(180deg, #222222 0%, #000000 50%);
+        /* background-image: url("/img/Home/bg-about.png"); */
+        background-size: cover;
+        background-position: bottom right;
+        position: relative;
+    }  
     .section1 {
         text-align: center;
         background-position: center;
@@ -551,7 +561,6 @@ nav .bar {
         margin-left: auto;
     }
     .Main_Highlights {
-        background-image: linear-gradient(180deg, #1a1818f1 0%, #000000 50%);
         min-height: 100vh;
         background-size: cover;
         padding-top: 0.85%;
