@@ -13,13 +13,13 @@
 - ###  [Yuvraj Singh](https://github.com/Yuvraj1171)
 
 ## Folders 📄
--   [database](database/)
--   [views](views/)
--   [public](public)
-   - [img](public/img/)
-   - [css](public/css/)
-   - [js](public/js/)
-   - [fonts](public/fonts/)
+ * [database](database/)
+ * [views](views/)
+ * [public](public)
+   * [css](public/css/)
+   * [fonts](public/fonts/)
+   * [img](public/img/)
+   * [js](public/js/)
 
 #### Canva Site Layouts 📝 (Courtesy Shubham)
 
