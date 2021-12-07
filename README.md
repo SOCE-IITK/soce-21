@@ -13,7 +13,7 @@
 - ###  [Yuvraj Singh](https://github.com/Yuvraj1171)
 
 ## Folders 📄
- * ├───[database](database/)
+ * ├─── [database](database/)
    * [achievement.js ](database/achievement.js)
    * [alumni.js](database/alumni.js)
    * [coordi.js](database/coordi.js)
@@ -22,12 +22,12 @@
    * [placement.js](database/placement.js)
    * [secretary.js](database/secretary.js)
    * [web.js](database/web.js)
- * ├───[public](public)
+ * ├─── [public](public)
    * [css](public/css/)
    * [fonts](public/fonts/)
    * [img](public/img/)
    * [js](public/js/)
- * ├───[views](views/)
+ * ├─── [views](views/)
 
 ## Repository Tree
 ├───database
