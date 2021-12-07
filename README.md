@@ -27,6 +27,36 @@
    * ├─── [fontawesome-free-5.15.4-web](public/fontawesome-free-5.15.4-web/)
    * ├─── [fonts](public/fonts/)
    * ├─── [img](public/img/)
+     *  │   ├───Ashutosh-Ranjan
+     *  │   ├───Chitwan-Garg
+     *  │   ├───Dishaa-Rajora
+     *  │   ├───Dishant-Parewa
+     *  │   ├───Gourav-Kamboj
+     *  │   ├───Jeetendra-Kumar
+     *  │   ├───Krishan-Kumar
+     *  │   ├───Krishna-Deo
+     *  │   ├───Mudit-Kumar
+     *  │   ├───Rahul-Gauriyar
+     *  │   ├───Rajat-Ghoshal
+     *  │   ├───Samyak-Jain
+     *  │   ├───Shashi-Shekhar
+     *  │   ├───Shuaib-Alam
+     *  │   ├───Vineet-Shukla
+     *  │   └───Vishal-Agarwal
+     *  ├───Department
+     *  │   ├───alumni
+     *  │   ├───faculty
+     *  │   └───research
+     *  ├───Home
+     *  │   ├───highlights
+     *  │   └───recent
+     *  ├───preloader
+     *  ├───Student-section
+     *  │   ├───branchmates
+     *  │   ├───placement
+     *  │   │   └───thumbnail
+     *  │   └───resume
+     *  └───team
    * ├─── [js](public/js/)
  * ├─── [views](views/)
    * ├─── [activities](views/activities/)
