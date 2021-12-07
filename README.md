@@ -77,6 +77,11 @@
    * │ ├─── [footer.ejs](views/activities/footer.ejs)
    * │ └─── [header.ejs](views/activities/header.ejs)   
    * └─── [student-section](views/student-section/)
+   * │ ├─── [branchmates.ejs](views/activities/branchmates.ejs)
+   * │ ├─── [civil-courses.ejs](views/activities/civil-courses.ejs)
+   * │ ├─── [](views/activities/placement.ejs)
+   * │ └─── [rresumes.ejs](views/activities/resumes.ejs)
+   
 
 #### Canva Site Layouts 📝 (Courtesy Shubham)
 
