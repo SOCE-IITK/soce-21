@@ -27,46 +27,46 @@
    * ├─── [fontawesome-free-5.15.4-web](public/fontawesome-free-5.15.4-web/)
    * ├─── [fonts](public/fonts/)
    * ├─── [img](public/img/)
-     *  │   ├───Ashutosh-Ranjan
-     *  │   ├───Chitwan-Garg
-     *  │   ├───Dishaa-Rajora
-     *  │   ├───Dishant-Parewa
-     *  │   ├───Gourav-Kamboj
-     *  │   ├───Jeetendra-Kumar
-     *  │   ├───Krishan-Kumar
-     *  │   ├───Krishna-Deo
-     *  │   ├───Mudit-Kumar
-     *  │   ├───Rahul-Gauriyar
-     *  │   ├───Rajat-Ghoshal
-     *  │   ├───Samyak-Jain
-     *  │   ├───Shashi-Shekhar
-     *  │   ├───Shuaib-Alam
-     *  │   ├───Vineet-Shukla
-     *  │   └───Vishal-Agarwal
-     *  ├───Department
-     *  │   ├───alumni
-     *  │   ├───faculty
-     *  │   └───research
-     *  ├───Home
-     *  │   ├───highlights
-     *  │   └───recent
-     *  ├───preloader
-     *  ├───Student-section
-     *  │   ├───branchmates
-     *  │   ├───placement
-     *  │   │   └───thumbnail
-     *  │   └───resume
-     *  └───team
-   * ├─── [js](public/js/)
+     │*  │   ├───Ashutosh-Ranjan
+     │*  │   ├───Chitwan-Garg
+     │*  │   ├───Dishaa-Rajora
+     │*  │   ├───Dishant-Parewa
+     │*  │   ├───Gourav-Kamboj
+     │*  │   ├───Jeetendra-Kumar
+     │*  │   ├───Krishan-Kumar
+     │*  │   ├───Krishna-Deo
+     │*  │   ├───Mudit-Kumar
+     │*  │   ├───Rahul-Gauriyar
+     │*  │   ├───Rajat-Ghoshal
+     │*  │   ├───Samyak-Jain
+     │*  │   ├───Shashi-Shekhar
+     │*  │   ├───Shuaib-Alam
+     │*  │   ├───Vineet-Shukla
+     │*  │   └───Vishal-Agarwal
+     │*  ├───Department
+     │*  │   ├───alumni
+     │*  │   ├───faculty
+     │*  │   └───research
+     │*  ├───Home
+     │*  │   ├───highlights
+     │*  │   └───recent
+     │*  ├───preloader
+     │*  ├───Student-section
+     │*  │   ├───branchmates
+     │*  │   ├───placement
+     │*  │   │   └───thumbnail
+     │*  │   └───resume
+     │*  └───team
+   * └─── [js](public/js/)
      * ├─── [aos.js](public/js/aos.js)
      * ├─── [script.js](public/js/scriot.js)
      * └─── [slider.js](public/js/slider.js)
  * ├─── [views](views/)
    * ├─── [activities](views/activities/)
-     * ├─── [alumniTalks.ejs](views/activities/alumniTalks.ejs)
-     * ├─── [departmental.ejs](views/activities/departmental.ejs)
-     * ├─── [fun_events.ejs](views/activities/fun_events.ejs)
-     * └─── [strength.ejs](views/activities/strength.ejs)
+     │* ├─── [alumniTalks.ejs](views/activities/alumniTalks.ejs)
+     │* ├─── [departmental.ejs](views/activities/departmental.ejs)
+     │* ├─── [fun_events.ejs](views/activities/fun_events.ejs)
+     │* └─── [strength.ejs](views/activities/strength.ejs)
    * ├─── [blogs](views/blogs/)
    * ├─── [department](views/department/)
    * ├─── [partials](views/partials/)
