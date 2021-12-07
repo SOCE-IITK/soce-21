@@ -83,7 +83,7 @@
    * │ ├─── [civil-courses.ejs](views/activities/civil-courses.ejs)
    * │ ├─── [placement.ejs](views/activities/placement.ejs)
    * │ └─── [resumes.ejs](views/activities/resumes.ejs)
-   * ├─── [about.ejs](views/activities/about.ejs
+   * ├─── [about.ejs](views/activities/about.ejs)
    * ├─── [activities.ejs](views/activities/activities.ejs)
    * ├─── [department.ejs](views/activities/department.ejs)
    * ├─── [index.ejs](views/activities/index.ejs)
