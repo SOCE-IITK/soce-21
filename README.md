@@ -8,9 +8,9 @@ New Site for SoCE-IITK [Under Construction] 🏗👷🏻‍♂️👷🏻‍♀�
 <code><img height="50" src = "public/img/team/d2.jpg"></code> 
 <code><img height="50" src = "public/img/team/w4.jpg"></code> 
 <code><img height="50" src = "public/img/team/w2.jpg"></code> 
-<code><img height="50" src = "public/img/team/w5.jpg"></code> 
+<code><img height="50" src = "public/img/team/w4.jpg"></code> 
 <code><img height="50" src = "public/img/team/d5.jpg"></code> 
-<code><img height="50" src = "public/img/team/w7.jpg"></code> 
+<code><img height="50" src = "public/img/team/w5.jpg"></code> 
 - [Aman Kumar Singh](https://github.com/amanks-20)
 - [Kumar Abhishek](https://github.com/kabhishek20)
 - [Faiza Khan](https://github.com/faizak31)
