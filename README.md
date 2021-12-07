@@ -68,57 +68,6 @@
    * ├─── [partials](views/partials/)
    * ├─── [student-section](views/student-section/)
 
-## Repository Tree
-├───database
-├───public
-│   ├───css
-│   ├───fontawesome-free-5.15.4-web
-│   ├───fonts
-│   ├───img
-│   │   ├───Activities
-│   │   │   ├───alumtalk
-│   │   │   ├───fun-events
-│   │   │   ├───get-together
-│   │   │   └───strengths
-│   │   ├───blogs
-│   │   │   ├───Ashutosh-Ranjan
-│   │   │   ├───Chitwan-Garg
-│   │   │   ├───Dishaa-Rajora
-│   │   │   ├───Dishant-Parewa
-│   │   │   ├───Gourav-Kamboj
-│   │   │   ├───Jeetendra-Kumar
-│   │   │   ├───Krishan-Kumar
-│   │   │   ├───Krishna-Deo
-│   │   │   ├───Mudit-Kumar
-│   │   │   ├───Rahul-Gauriyar
-│   │   │   ├───Rajat-Ghoshal
-│   │   │   ├───Samyak-Jain
-│   │   │   ├───Shashi-Shekhar
-│   │   │   ├───Shuaib-Alam
-│   │   │   ├───Vineet-Shukla
-│   │   │   └───Vishal-Agarwal
-│   │   ├───Department
-│   │   │   ├───alumni
-│   │   │   ├───faculty
-│   │   │   └───research
-│   │   ├───Home
-│   │   │   ├───highlights
-│   │   │   └───recent
-│   │   ├───preloader
-│   │   ├───Student-section
-│   │   │   ├───branchmates
-│   │   │   ├───placement
-│   │   │   │   └───thumbnail
-│   │   │   └───resume
-│   │   └───team
-│   └───js
-└───views
-    ├───activities
-    ├───blogs
-    ├───department
-    ├───partials
-    └───student-section
-
 #### Canva Site Layouts 📝 (Courtesy Shubham)
 
 - [Canva-SoCE](https://www.canva.com/design/DAEsiQTOrrM/Tq0m9SvyOg_elmVW0HdLgA/view?website#2:title-page)
