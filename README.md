@@ -1,23 +1,16 @@
-# SoCE-IITK New Website 2021
+# SoCE-IITK 2021
 <code><img height="100" src = "public/img/SoCE-logo.svg"></code>
+## SoCE IITK 2021 website hosted at [https://soce-iitk.herokuapp.com/](https://soce-iitk.herokuapp.com/) 🎉🎉
 
-New Site for SoCE-IITK [Under Construction] 🏗👷🏻‍♂️👷🏻‍♀️🚧
 
-
-## Contributors 👷🏻‍♂️👷🏻‍♀️
-<code><img height="50" src = "public/img/team/d2.jpg"></code> 
-<code><img height="50" src = "public/img/team/w2.jpg"></code> 
-<code><img height="50" src = "public/img/team/w3.jpg"></code> 
-<code><img height="50" src = "public/img/team/w4.jpg"></code> 
-<code><img height="50" src = "public/img/team/d5.jpg"></code> 
-<code><img height="50" src = "public/img/team/w5.jpg"></code> 
-- [Aman Kumar Singh](https://github.com/amanks-20)
-- [Kumar Abhishek](https://github.com/kabhishek20)
-- [Faiza Khan](https://github.com/faizak31)
-- [Saurabh Sahay](https://github.com/sahay-saurabh)
-- [Shubham Kumar](https://github.com/Shubham-707)
-- [Yuvraj Singh](https://github.com/Yuvraj1171)
-
+## Website Developed By 💻
+<code><img height="80" src = "public/img/team/d2.jpg"></code><code><img height="80" src = "public/img/team/w2.jpg"></code><code><img height="80" src = "public/img/team/w3.jpg"></code><code><img height="80" src = "public/img/team/w4.jpg"></code><code><img height="80" src = "public/img/team/d5.jpg"></code><code><img height="80" src = "public/img/team/w5.jpg"></code> 
+- ###  [Aman Kumar Singh](https://github.com/amanks-20)
+- ###  [Faiza Khan](https://github.com/faizak31)
+- ###  [Kumar Abhishek](https://github.com/kabhishek20)
+- ###  [Saurabh Sahay](https://github.com/sahay-saurabh)
+- ###  [Shubham Kumar](https://github.com/Shubham-707)
+- ###  [Yuvraj Singh](https://github.com/Yuvraj1171)
 
 
 ## Canva Site Layouts 📝 (Courtesy Shubham)
