@@ -23,10 +23,11 @@
    * [secretary.js](database/secretary.js)
    * [web.js](database/web.js)
  * ├─── [public](public)
-   * [css](public/css/)
-   * [fonts](public/fonts/)
-   * [img](public/img/)
-   * [js](public/js/)
+   * ├─── [css](public/css/)
+   * ├─── [fontawesome-free-5.15.4-web](public/fontawesome-free-5.15.4-web/)
+   * ├─── [fonts](public/fonts/)
+   * ├─── [img](public/img/)
+   * ├─── [js](public/js/)
  * ├─── [views](views/)
 
 ## Repository Tree
