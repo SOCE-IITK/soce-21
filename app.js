@@ -1,5 +1,6 @@
 const express = require('express');
 const app = express();
+const path=require('path')
 app.set('view engine', 'ejs');
 app.use(express.static('public'));
 const images = require('./database/data');
@@ -35,6 +36,10 @@ app.get('/teams', function (req, res) {
     res.render('teams', { cordi: cordi, secy: secy, web: web, title: "Teams" });
 })
 
+app.get('/sitemap',(req,res)=>{
+    res.contentType('application/xml');
+    res.sendFile(path.join(__dirname,'sitemap.xml'));
+})
 
 app.get('/:name',(req,res)=>{
     var img;
@@ -47,10 +52,12 @@ app.get('/:name',(req,res)=>{
             img="";
         }
     }
-    console.log(img);
+    // console.log(img);
     // console.log(req.params.name);
     res.render('post',{name:req.params.name,thumbnail:img});
 })
+
+
 app.listen(PORT, () => {
     console.log("server started on port 3000");
 });
