@@ -6,7 +6,7 @@ var secy19 = [
         insta: "https://www.instagram.com/invites/contact/?i=t0w0pwliqhqv&utm_content=2iiwccr",
         linkedin: "",
         mail: "mailto:kaushalkj20@iitk.ac.in",
-        image: "img/team/c1.jpg"
+        image: "img/team20/harsh.jpg"
     },
     {
         name: "Nidhi Kansal",
@@ -24,7 +24,7 @@ var secy19 = [
         insta: "https://www.instagram.com/_navshruti_singh_",
         linkedin: "",
         mail: "nshruti@iitk.ac.in",
-        image: "img/team/c3.jpg"
+        image: "img/team20/navshruti.jpg"
     },
     {
         name: "Raj Karan Kumar",
@@ -33,7 +33,7 @@ var secy19 = [
         insta: "https://www.instagram.com/raj_karan_3081/",
         linkedin: "",
         mail: "mailto:rajkaran@iitk.ac.in",
-        image: "img/team/c4.jpg"
+        image: "img/team20/raj.jpg"
     },
     {
         name: "Rishabh Arora",
@@ -42,7 +42,7 @@ var secy19 = [
         insta: "https://www.instagram.com/rishabh.ar0ra/",
         linkedin: "https://www.linkedin.com/in/rishabh-arora-8b2124199",
         mail: "mailto:risharo@iitk.ac.in",
-        image: "img/team/c5.jpg"
+        image: "img/team20/rishabh.jpg"
     },
     {
         name: "Sonam Meena",
@@ -51,7 +51,7 @@ var secy19 = [
         insta: "https://www.instagram.com/sonamjorwal_02/?hl=en",
         linkedin: "https://www.linkedin.com/in/sonam-meena-7354091b7",
         mail: "mailto:sonamm@iitk.ac.in",
-        image: "img/team/c6.jpg"
+        image: "img/team20/sonam.jpeg"
     },
     {
         name: "Yash Laddha",
@@ -60,7 +60,7 @@ var secy19 = [
         insta: "https://www.instagram.com/invites/contact/?i=z1pupthh439q&utm_content=f4t4hii",
         linkedin: "",
         mail: "mailto:yladdha@iitk.ac.in",
-        image: "img/team/d1.jpg"
+        image: "img/team20/yash.jpg"
     },
     {
         name: "Janhavi Bhoge",
@@ -69,7 +69,7 @@ var secy19 = [
         insta: "https://www.instagram.com/janhavinainamohanbhoge/",
         linkedin: "https://www.linkedin.com/in/janhavi-b-38b8801b2",
         mail: "mailto:janhavim@iitk.ac.in",
-        image: "/img/team/d2.jpg"
+        image: "img/team20/jahnvi.jpg"
     },
     {
         name: "Rohit Sharma",
@@ -78,7 +78,7 @@ var secy19 = [
         insta: "https://www.instagram.com/nil",
         linkedin: "https://linkedin.com/nil",
         mail: "mailto:rohitsh@iitk.ac.i",
-        image: "img/team/d3.jpg"
+        image: "img/team20/rohit.jpg"
     },
     {
         name: "Nitin Patil",
@@ -87,7 +87,7 @@ var secy19 = [
         insta: "https://instagram.com/nitin11041?igshid=avjp1ayg4xxv",
         linkedin: "https://www.linkedin.com/in/nitin-patil-b7869b1aa",
         mail: "mailto:nitinp@iitk.ac.in",
-        image: "img/team/d4.jpg"
+        image: "img/team20/nitin.jpg"
     },
     {
         name: "Shreya Vaish",
@@ -96,7 +96,7 @@ var secy19 = [
         insta: "https://www.instagram.com/rantcat__vaish/",
         linkedin: "https://www.linkedin.com/in/shreya-vaish-4694491b0/",
         mail: "mailto:vaishrey@iitk.ac.in",
-        image: "img/team/d5.jpg"
+        image: "img/team20/shreya.png"
     },
 
     {
@@ -106,7 +106,7 @@ var secy19 = [
         insta: "https://www.instagram.com/aryann_ag/",
         linkedin: "https://www.linkedin.com/in/aryan-agarwal-6480771b6",
         mail: "mailto:aryanag@iitk.ac.in",
-        image: "img/team/d5.jpg"
+        image: "img/team20/aryan.jpg"
     },
 
     {
@@ -116,7 +116,7 @@ var secy19 = [
         insta: "https://instagram.com/devansh_jain2013?igshid=la8trokivu3l",
         linkedin: "https://www.linkedin.com/in/devansh-jain-1987bb1b2",
         mail: "mailto:devanshj@iitk.ac.in",
-        image: "img/team/d5.jpg"
+        image: "img/team20/devansh.jpg"
     },
 
     {
@@ -126,7 +126,7 @@ var secy19 = [
         insta: "https://www.instagram.com/thlegend_of_artist/?hl=en",
         linkedin: "https://www.linkedin.com/in/govind-gupta-b96b1b197/",
         mail: "mailto:govindg@iitk.ac.in",
-        image: "img/team/d5.jpg"
+        image: "img/team20/Govind.jpeg"
     },
 
     {
@@ -136,7 +136,7 @@ var secy19 = [
         insta: "https://www.instagram.com/nil",
         linkedin: "https://linkedin.com/nil",
         mail: "mailto:hitesh@iitk.ac.in",
-        image: "img/team/d5.jpg"
+        image: "img/team20/hitesh.jpg"
     },
 
     {
@@ -146,7 +146,7 @@ var secy19 = [
         insta: "https://www.instagram.com/rohankj01/",
         linkedin: "https://www.linkedin.com/in/rohankj01/",
         mail: "mailto:rohankj@iitk.ac.in",
-        image: "img/team/d5.jpg"
+        image: "img/team20/rohan.jpg"
     },
 
     {
@@ -156,7 +156,7 @@ var secy19 = [
         insta: "https://www.instagram.com/its.easy.here/?hl=en",
         linkedin: "https://www.linkedin.com/in/saral-verma-3b2b041b0/",
         mail: "mailto:svsaral@iitk.ac.in",
-        image: "img/team/d5.jpg"
+        image: "img/team20/saral.jpg"
     },
 
 
