@@ -41,6 +41,10 @@ app.get('/sitemap.xml',(req,res)=>{
     res.sendFile(path.join(__dirname,'sitemap.xml'));
 })
 
+app.get("/googlea473733a38625fec.html",(req,res)=>{
+    res.contentType('application/html');
+    res.sendFile(path.join(__dirname,'googlea473733a38625fec.html'));
+})
 app.get('/:name',(req,res)=>{
     var img;
     for(var i = 0; i<chats.length; i++){
