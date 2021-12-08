@@ -1,5 +1,41 @@
 var secy19 = [
     {
+        name: "Janhavi Bhoge",
+        post: "Secretary, Content",
+        fb: "https://www.facebook.com/janhavi.bhoge.5",
+        insta: "https://www.instagram.com/janhavinainamohanbhoge/",
+        linkedin: "https://www.linkedin.com/in/janhavi-b-38b8801b2",
+        mail: "mailto:janhavim@iitk.ac.in",
+        image: "img/team20/jahnvi.jpg"
+    },
+    {
+        name: "Rohit Sharma",
+        post: "Secretary, Content",
+        fb: "https://www.facebook.com/profile.php?id=100003925016375",
+        insta: "https://www.instagram.com/nil",
+        linkedin: "https://linkedin.com/nil",
+        mail: "mailto:rohitsh@iitk.ac.i",
+        image: "img/team20/rohit.jpg"
+    },
+    {
+        name: "Nitin Patil",
+        post: "Secretary, Design",
+        fb: "https://www.facebook.com/profile.php?id=100003897020422",
+        insta: "https://instagram.com/nitin11041?igshid=avjp1ayg4xxv",
+        linkedin: "https://www.linkedin.com/in/nitin-patil-b7869b1aa",
+        mail: "mailto:nitinp@iitk.ac.in",
+        image: "img/team20/nitin.jpg"
+    },
+    {
+        name: "Shreya Vaish",
+        post: "Secretary, Design",
+        fb: "https://www.facebook.com/profile.php?id=100000947592369",
+        insta: "https://www.instagram.com/rantcat__vaish/",
+        linkedin: "https://www.linkedin.com/in/shreya-vaish-4694491b0/",
+        mail: "mailto:vaishrey@iitk.ac.in",
+        image: "img/team20/shreya.png"
+    },
+    {
         name: "Harsh Kumar Gautam",
         post: "Secretary, Events",
         fb: "https://www.facebook.com/harsh.gautam.7370",
@@ -63,43 +99,6 @@ var secy19 = [
         image: "img/team20/yash.jpg"
     },
     {
-        name: "Janhavi Bhoge",
-        post: "Secretary, Content",
-        fb: "https://www.facebook.com/janhavi.bhoge.5",
-        insta: "https://www.instagram.com/janhavinainamohanbhoge/",
-        linkedin: "https://www.linkedin.com/in/janhavi-b-38b8801b2",
-        mail: "mailto:janhavim@iitk.ac.in",
-        image: "img/team20/jahnvi.jpg"
-    },
-    {
-        name: "Rohit Sharma",
-        post: "Secretary, Content",
-        fb: "https://www.facebook.com/profile.php?id=100003925016375",
-        insta: "https://www.instagram.com/nil",
-        linkedin: "https://linkedin.com/nil",
-        mail: "mailto:rohitsh@iitk.ac.i",
-        image: "img/team20/rohit.jpg"
-    },
-    {
-        name: "Nitin Patil",
-        post: "Secretary, Design",
-        fb: "https://www.facebook.com/profile.php?id=100003897020422",
-        insta: "https://instagram.com/nitin11041?igshid=avjp1ayg4xxv",
-        linkedin: "https://www.linkedin.com/in/nitin-patil-b7869b1aa",
-        mail: "mailto:nitinp@iitk.ac.in",
-        image: "img/team20/nitin.jpg"
-    },
-    {
-        name: "Shreya Vaish",
-        post: "Secretary, Design",
-        fb: "https://www.facebook.com/profile.php?id=100000947592369",
-        insta: "https://www.instagram.com/rantcat__vaish/",
-        linkedin: "https://www.linkedin.com/in/shreya-vaish-4694491b0/",
-        mail: "mailto:vaishrey@iitk.ac.in",
-        image: "img/team20/shreya.png"
-    },
-
-    {
         name: "Aryan Agarwal",
         post: "Secretary, Web",
         fb: "https://www.facebook.com/aryan.agarwal.969952",
@@ -108,7 +107,6 @@ var secy19 = [
         mail: "mailto:aryanag@iitk.ac.in",
         image: "img/team20/aryan.jpg"
     },
-
     {
         name: "Devansh Jain",
         post: "Secretary, Web",
@@ -118,7 +116,6 @@ var secy19 = [
         mail: "mailto:devanshj@iitk.ac.in",
         image: "img/team20/devansh.jpg"
     },
-
     {
         name: "Govind Gupta",
         post: "Secretary, Web",
@@ -128,7 +125,6 @@ var secy19 = [
         mail: "mailto:govindg@iitk.ac.in",
         image: "img/team20/Govind.jpeg"
     },
-
     {
         name: "Hitesh Kumar",
         post: "Secretary, Web",
@@ -138,7 +134,6 @@ var secy19 = [
         mail: "mailto:hitesh@iitk.ac.in",
         image: "img/team20/hitesh.jpg"
     },
-
     {
         name: "Rohan Kumar",
         post: "Secretary, Web",
@@ -148,7 +143,6 @@ var secy19 = [
         mail: "mailto:rohankj@iitk.ac.in",
         image: "img/team20/rohan.jpg"
     },
-
     {
         name: "Saral Verma",
         post: "Secretary, Web",
@@ -158,9 +152,6 @@ var secy19 = [
         mail: "mailto:svsaral@iitk.ac.in",
         image: "img/team20/saral.jpg"
     },
-
-
-    
 ]
 
 module.exports = secy19;
