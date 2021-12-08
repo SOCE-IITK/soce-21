@@ -12,6 +12,8 @@ const alumni = require('./database/alumni');
 const faculty = require('./database/faculty');
 const award = require('./database/achievement')
 const web = require('./database/web')
+const cordi19=require('./database/team20/cordi19')
+const secy19=require('./database/team20/secy19')
 
 const PORT=process.env.PORT || 3000;
 
@@ -34,6 +36,10 @@ app.get('/student-section', function (req, res) {
 })
 app.get('/teams', function (req, res) {
     res.render('teams', { cordi: cordi, secy: secy, web: web, title: "Teams" });
+})
+
+app.get('/team20',(req,res)=>{
+    res.render('teams20',{secy19:secy19,cordi19:cordi19,title:"Team 2020"});
 })
 
 app.get('/sitemap.xml',(req,res)=>{
