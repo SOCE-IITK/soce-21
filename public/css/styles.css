@@ -5,6 +5,7 @@
 /* font style for text */
 
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap');
+  /* Scroll Bar */
 ::-webkit-scrollbar {
     width: 5px;
   }
@@ -248,8 +249,7 @@ nav .bar {
     color: rgb(217, 217, 217);
     text-decoration: none;
     margin-top: 2vh;
-    margin-bottom: 2vh;
-    line-height: 4vh;
+    margin: 2vw;
 }
 
 .card_deck {

@@ -1,3 +1,8 @@
+#preloader-logo{
+    height: 12rem;
+    width: 12em;
+}
+
 #loading{
     position: fixed;
     display: flex;
@@ -26,7 +31,7 @@
 
 .loader span{
     position: absolute;
-    display: block;
+    display: none;
 
 }
 
