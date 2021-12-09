@@ -101,7 +101,7 @@ var faculty = [{
   {
     name: "Chinmoy Kolay",
     post: "Assistant Professor",
-    mail: "mailto:@iitk.ac.in",
+    mail: "mailto:ckolay@iitk.ac.in",
     room: "201 WS-II",
     tel: "(91-512) 259 6282",
     homepage: "http://www.iitk.ac.in/new/chinmoy-kolay",
