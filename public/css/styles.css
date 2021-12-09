@@ -17,13 +17,13 @@
    
   /* Handle */
   ::-webkit-scrollbar-thumb {
-    background: rgb(255,222,89); 
+    background: rgb(231, 189, 89); 
     border-radius: 10px;
   }
   
   /* Handle on hover */
   ::-webkit-scrollbar-thumb:hover {
-    background: rgb(255,222,89); 
+    background: rgb(231,189,89); 
   }
 * {
     margin: 0;
