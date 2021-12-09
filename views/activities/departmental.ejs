@@ -11,7 +11,7 @@
       <% images.forEach(function(image){ %> 
         <div  class="mySlides fade" style="text-align: center;">
             <div class="numbertext"> </div>
-            <img src=<%=image%>  style="width:80%; ">
+            <img loading = "lazy"  src=<%=image%>  style="width:80%; ">
           </div>
       <% }) %>  
         <a class="prev" onclick="plusSlides(-1)">&#10094;</a>

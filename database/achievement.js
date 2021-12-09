@@ -1,5 +1,29 @@
 var award=[
     {
+        text:"Prof. Gaurav Tiwari's publication has been awarded IGS-Roorkee Chapter YGE Award 2021(Best Paper published in the area of Rock Mechanics)"
+    },
+    {
+        text:"Prof. Durgesh C. Rai has been awarded the 2021 John B. Scalzi Research Award during The Masonry Society’s Annual Meeting in Nashville, Tennessee."
+    },
+    {
+        text:"Prof. Sachchida N. Tripathi has been invited to join the Advisory Board of Journal, Environmental Science: Atmospheres, published by the Royal Society of Chemistry."
+    },
+    {
+        text:"Prof. Mukesh Sharma has been appointed as an honorary non-remunerative member of the WHO Global Air Pollution and Health - Technical Advisory Group (GAPH-TAG)."
+    },
+    {
+        text:"PhD student Mr Akshat Verma received a certificate of merit from American Chemical Society (ACS) Fall 2020 virtual meeting."
+    },
+    {
+        text:"Prof. Sachchidanand Tripathi has received the prestigious J.C. Bose Fellowship from SERB, DST."
+    },
+    {
+        text:"New programme DIIT program in three broad areas: (i) Geodesy (ii) Navigation and Mapping and (iii) Remote Sensing and GIS."
+    },
+    {
+        text:"Prof. Sachchidanand Tripathi has been elected as the Fellow of Indian National Science Academy."
+    },
+    {
         text:"Prof. Partha Chakroborty has been chosen as the recipient of the Excellence in Teaching Award 2020"
     },
     {
