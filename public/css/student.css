@@ -364,11 +364,11 @@ p{
 .snip1336 figcaption a:hover {
   opacity: 1;
   box-shadow: 0 1px 1px 1px #ebeef0;
-  background-color: #F6D167;
+  background-color: black;
   transition: background-color .2s;
   text-emphasis-color: black;
   border-radius: 10px;
-  color: #141414;
+  color: white;
 }
 
 .snip1336 .profile {
