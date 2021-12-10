@@ -130,10 +130,11 @@ a{
 
   .flex-container > div {
 
-    margin:2% 5%;
+    margin:5% 5%;
     padding: 40px;
     font-size: 30px;
     width: 70%;
+    height: 20vh;
 
   }
 
