@@ -70,10 +70,12 @@ body {
 }
 
 .blog {
-  width: 85vw;
-  margin-left: 5vw;
-  text-align: justify;
+  width: 70vw;
+  margin-left: auto;
+  margin-right: auto;
   word-spacing: 5px;
+  text-align: justify;
+
 }
 
 .blog img {
