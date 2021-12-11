@@ -1,33 +1,5 @@
 /*----------------------RESUME------*/
 
-
-
-.card_deck_resume {
-  margin-top: 5%;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
-  align-items: center;
-}
-
-.card_resume {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  transition: 0.3s;
-  align-items: center;
-  width: 20%;
-}
-
-.card_resume :hover {
-  opacity: 1;
-  size: 20vh;
-  color: #FFBD59;
-}
-
-
-.card_image_resume {
-  width: 100%;
-}
-
 #resume{
   display: none;
     min-height: 100vh;
@@ -39,31 +11,91 @@
 #resume p{
   padding-bottom: 1%;
 }
-#resume a :hover{
-  opacity: 1;
-  box-shadow: 0 4px 8px 4px #81bae0;;
-  color: #FFBD59;
+.flex-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    color: #fff;
+  }
+
+  .flex-container div {
+
+    margin:2% 5%;
+    padding: 40px;
+    font-size: 30px;
+
+  }
+
+.andhapaisa{
+    height: 50vh;
 }
 
-    /* -----------------------Resume Media Query--------------------- */
-    @media(max-width:1024px) {
-      .card_resume {
-        width: 60%;
-        text-align: center;
-        align-items: center;
-        margin-right: auto;
-        margin-left: auto;
-        margin-top:3vh;
-        margin-bottom: 3vh;
-    }
-    #resume a :hover{
-      opacity: 1;
-      box-shadow: none;
-      margin: 5vh;
-    }
-    }
+.andhapaisa h2{
+    font-family: 'Ubuntu Condensed', sans-serif;
+    position: relative;
+    top: 70%;
+}
 
-    @media(max-width:1024px) {
+a{
+    text-decoration: none;
+    color: #fff;
+    transition : 0.5s;
+}
+
+#intern{
+    background-image: url("/img/Student-section/resume/1.png");
+    background-size: cover;
+    transition: 0.5s;
+}
+.andhapaisa{
+  height: 19rem;
+}
+
+#intern:hover{
+    border-radius: 6% 6%;
+    background-repeat: no-repeat;
+    box-shadow: 0 8px 8px 8px silver;
+}
+
+
+
+#placement{
+    background-image: url("/img/Student-section/resume/1.png");
+    background-size: cover;
+    transition: 0.5s;
+}
+
+#placement:hover{
+    border-radius: 6% 6%;
+    background-repeat: no-repeat;
+    box-shadow: 0 8px 8px 8px silver;
+}
+
+.andhapaisa h2{
+    display: inline-block;
+  }
+
+ .andhapaisa h2::after {
+    content: '';
+    width: 0px;
+    height: 3px;
+    display: block;
+    background:#fff;
+    transition: 300ms;
+  }
+
+  .andhapaisa h2:hover::after {
+    width: 100%;
+  }
+
+    /* -----------------------Resume Media Query--------------------- */
+@media(max-width:1024px) {
+  .andhapaisa{
+      width: 60vw;
+      margin: 30%;
+      padding: 20%;
+      height: 35vh;
+  }
   #resume p{
         margin-bottom: 2%;
       }
@@ -102,10 +134,21 @@
     padding: 40px;
     font-size: 30px;
     width: 70%;
-    height: 30vh;
+    height: 28vh;
 
   }
 
+.andhapaisa{
+    height: 50vh;
+    margin: 30%;
+    padding: 20%;
+}
+
+.andhapaisa h2{
+    font-family: 'Ubuntu Condensed', sans-serif;
+    position: relative;
+    top: 70%;
+}
 
 a{
     text-decoration: none;
@@ -113,7 +156,47 @@ a{
     transition : 0.5s;
 }
 
+#intern{
+    background-image: url("/img/Student-section/resume/1.png");
+    background-size: cover;
+    transition: 1s;
+}
 
+
+#intern:hover{
+    border-radius: 5% 5%;
+    background-repeat: no-repeat;
+}
+
+
+
+#placement{
+    background-image: url("/img/Student-section/resume/1.png");
+    background-size: cover;
+    transition: 1s;
+}
+
+#placement:hover{
+    border-radius: 5% 5%;
+    background-repeat: no-repeat;
+}
+
+.andhapaisa h2{
+    display: inline-block;
+  }
+
+ .andhapaisa h2::after {
+    content: '';
+    width: 0px;
+    height: 3px;
+    display: block;
+    background:#fff;
+    transition: 300ms;
+  }
+
+  .andhapaisa h2:hover::after {
+    width: 100%;
+  }
 p{
   font-weight: 200;
   padding: 5%;
@@ -121,6 +204,8 @@ p{
 }
 
   }
+
+
 
   /* -----------------------Branchmates--------------------- */
 
@@ -282,7 +367,7 @@ p{
   box-shadow: 0 2px 2px 2px #f5ba61;
 }
 
-/* -------------placement Postulates----------- */
+/* -------------placement----------- */
 .placement{
   display: none;
  min-height: 110vh;
@@ -354,7 +439,7 @@ p{
   margin: 10px 0;
   display: inline-block;
   opacity: 0.65;
-  width: 50%;
+  width: 47%;
   text-align: center;
   text-decoration: none;
   font-weight: 600;
@@ -364,11 +449,11 @@ p{
 .snip1336 figcaption a:hover {
   opacity: 1;
   box-shadow: 0 1px 1px 1px #ebeef0;
-  background-color: black;
+  background-color: #000000a8;
   transition: background-color .2s;
-  text-emphasis-color: black;
+  text-emphasis-color: white;
   border-radius: 10px;
-  color: white;
+
 }
 
 .snip1336 .profile {
