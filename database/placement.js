@@ -6,7 +6,7 @@ var chats = [
     dp: "/img/Student-section/placement/dishant-parewa-y17.jpg",
     link: "/Dishant_Parewa",
     thumbnail: "/img/Student-section/placement/thumbnail/16.jpg",
-    og:"Dishant_Parewa"
+    og: "Dishant_Parewa"
   },
 
   {
@@ -16,7 +16,7 @@ var chats = [
     dp: "/img/Student-section/placement/mudit-kumar-y17.jpeg",
     link: "/Mudit_Kumar",
     thumbnail: "/img/Student-section/placement/thumbnail/15.jpg",
-    og:"Mudit_Kumar"
+    og: "Mudit_Kumar"
   },
 
   {
@@ -26,7 +26,7 @@ var chats = [
     dp: "/img/Student-section/placement/Rahul-Gauriyar.jpg",
     link: "/Rahul_Gauriyar",
     thumbnail: "/img/Student-section/placement/thumbnail/14.jpg",
-    og:"Rahul_Gauriyar"
+    og: "Rahul_Gauriyar"
   },
 
   {
@@ -36,7 +36,7 @@ var chats = [
     dp: "/img/Student-section/placement/Gourav-Kamboj.jpg",
     link: "/Gaurav_Kamboj",
     thumbnail: "/img/Student-section/placement/thumbnail/13.jpg",
-    og:"Gaurav_Kamboj"
+    og: "Gaurav_Kamboj"
   },
 
   {
@@ -46,7 +46,7 @@ var chats = [
     dp: "/img/Student-section/placement/Krishna-Deo.jpg",
     link: "/Krishna_Deo",
     thumbnail: "/img/Student-section/placement/thumbnail/12.jpg",
-    og:"Krishna_Deo"
+    og: "Krishna_Deo"
   },
 
   {
@@ -56,7 +56,7 @@ var chats = [
     dp: "/img/Student-section/placement/Vineet-Shukla.jpg",
     link: "/Vineet_Shukla",
     thumbnail: "/img/Student-section/placement/thumbnail/11.jpg",
-    og:"Vineet_Shukla"
+    og: "Vineet_Shukla"
   },
 
   {
@@ -66,7 +66,7 @@ var chats = [
     dp: "/img/Student-section/placement/Rajat-Ghoshal.jpeg",
     link: "/Rajat_Ghoshal",
     thumbnail: "/img/Student-section/placement/thumbnail/10.jpg",
-    og:"Rajat_Ghoshal"
+    og: "Rajat_Ghoshal"
   },
 
   {
@@ -76,7 +76,7 @@ var chats = [
     dp: "/img/Student-section/placement/Samyak-Jain.jpg",
     link: "/Samyak_Jain",
     thumbnail: "/img/Student-section/placement/thumbnail/9.jpg",
-    og:"Samyak_Jain"
+    og: "Samyak_Jain"
   },
 
   {
@@ -86,7 +86,7 @@ var chats = [
     dp: "/img/Student-section/placement/Shashi-Shekhar.jpg",
     link: "/Shashi_Shekhar",
     thumbnail: "/img/Student-section/placement/thumbnail/8.jpg",
-    og:"Shashi_Shekhar"
+    og: "Shashi_Shekhar"
   },
 
   {
@@ -96,7 +96,7 @@ var chats = [
     dp: "/img/Student-section/placement/Vishal-Agarwal.jpg",
     link: "/Vishal_Agarwal",
     thumbnail: "/img/Student-section/placement/thumbnail/7.jpg",
-    og:"Vishal_Agarwal"
+    og: "Vishal_Agarwal"
   },
 
   {
@@ -106,7 +106,7 @@ var chats = [
     dp: "/img/Student-section/placement/Krishan-Kumar.jpg",
     link: "/Krishan_Kumar",
     thumbnail: "/img/Student-section/placement/thumbnail/6.jpg",
-    og:"Krishan_Kumar"
+    og: "Krishan_Kumar"
   },
 
   {
@@ -116,7 +116,7 @@ var chats = [
     dp: "/img/Student-section/placement/dishaa-rajora.jpg",
     link: "/Dishaa_Rajora",
     thumbnail: "/img/Student-section/placement/thumbnail/5.jpg",
-    og:"Dishaa_Rajora"
+    og: "Dishaa_Rajora"
   },
 
   {
@@ -126,7 +126,7 @@ var chats = [
     dp: "/img/Student-section/placement/Ashutosh-Ranjan.jpeg",
     link: "/Ashutosh_Ranjan",
     thumbnail: "/img/Student-section/placement/thumbnail/4.jpg",
-    og:"Ashutosh_Ranjan"
+    og: "Ashutosh_Ranjan"
   },
 
   {
@@ -136,7 +136,7 @@ var chats = [
     dp: "/img/Student-section/placement/chitwan-garg-y17.jpg",
     link: "/Chitwan_Garg",
     thumbnail: "/img/Student-section/placement/thumbnail/3.jpg",
-    og:"Chitwan_Garg"
+    og: "Chitwan_Garg"
   },
 
   {
@@ -146,7 +146,7 @@ var chats = [
     dp: "/img/Student-section/placement/Shuaib-Alam.jpeg",
     link: "/Shuaib_Alam",
     thumbnail: "/img/Student-section/placement/thumbnail/2.jpg",
-    og:"Shuaib_Alam"
+    og: "Shuaib_Alam"
   },
 
   {
@@ -156,7 +156,7 @@ var chats = [
     dp: "/img/Student-section/placement/jeetendra_y16.jpg",
     link: "/Jeetendra_Kumar_Patel",
     thumbnail: "/img/Student-section/placement/thumbnail/1.jpg",
-    og:"Jeetendra_Kumar_Patel"
+    og: "Jeetendra_Kumar_Patel"
   },
 
 ]
