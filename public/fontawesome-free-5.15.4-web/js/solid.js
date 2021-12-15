@@ -2,7 +2,7 @@
  * Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
  */
-(function () {
+(function() {
   'use strict';
 
   var _WINDOW = {};
@@ -14,8 +14,8 @@
   } catch (e) {}
 
   var _ref = _WINDOW.navigator || {},
-      _ref$userAgent = _ref.userAgent,
-      userAgent = _ref$userAgent === void 0 ? '' : _ref$userAgent;
+    _ref$userAgent = _ref.userAgent,
+    userAgent = _ref$userAgent === void 0 ? '' : _ref$userAgent;
 
   var WINDOW = _WINDOW;
   var DOCUMENT = _DOCUMENT;
@@ -24,7 +24,7 @@
   var IS_IE = ~userAgent.indexOf('MSIE') || ~userAgent.indexOf('Trident/');
 
   var NAMESPACE_IDENTIFIER = '___FONT_AWESOME___';
-  var PRODUCTION = function () {
+  var PRODUCTION = function() {
     try {
       return "production" === 'production';
     } catch (e) {
@@ -63,12 +63,12 @@
       var ownKeys = Object.keys(source);
 
       if (typeof Object.getOwnPropertySymbols === 'function') {
-        ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function (sym) {
+        ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
           return Object.getOwnPropertyDescriptor(source, sym).enumerable;
         }));
       }
 
-      ownKeys.forEach(function (key) {
+      ownKeys.forEach(function(key) {
         _defineProperty(target, key, source[key]);
       });
     }
@@ -86,8 +86,8 @@
   function defineIcons(prefix, icons) {
     var params = arguments.length > 2 && arguments[2] !== undefined ? arguments[2] : {};
     var _params$skipHooks = params.skipHooks,
-        skipHooks = _params$skipHooks === void 0 ? false : _params$skipHooks;
-    var normalized = Object.keys(icons).reduce(function (acc, iconName) {
+      skipHooks = _params$skipHooks === void 0 ? false : _params$skipHooks;
+    var normalized = Object.keys(icons).reduce(function(acc, iconName) {
       var icon = icons[iconName];
       var expanded = !!icon.icon;
 
@@ -1123,7 +1123,7 @@
     "yin-yang": [496, 512, [], "f6ad", "M248 8C111.03 8 0 119.03 0 256s111.03 248 248 248 248-111.03 248-248S384.97 8 248 8zm0 376c-17.67 0-32-14.33-32-32s14.33-32 32-32 32 14.33 32 32-14.33 32-32 32zm0-128c-53.02 0-96 42.98-96 96s42.98 96 96 96c-106.04 0-192-85.96-192-192S141.96 64 248 64c53.02 0 96 42.98 96 96s-42.98 96-96 96zm0-128c-17.67 0-32 14.33-32 32s14.33 32 32 32 32-14.33 32-32-14.33-32-32-32z"]
   };
 
-  bunker(function () {
+  bunker(function() {
     defineIcons('fas', icons);
   });
 
