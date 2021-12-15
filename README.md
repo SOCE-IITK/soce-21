@@ -29,6 +29,11 @@
    * ├─── [fontawesome-free-5.15.4-web](public/fontawesome-free-5.15.4-web/)
    * ├─── [fonts](public/fonts/)
    * ├─── [img](public/img/)
+   * │  ├───Activities
+   * │  │   ├───alumtalk
+   * │  │   ├───fun-events
+   * │  │   ├───get-together
+   * │  │   └───strengths
    * │  ├───blogs
    * │  │   ├───Ashutosh-Ranjan
    * │  │   ├───Chitwan-Garg
@@ -53,7 +58,6 @@
    * │  ├───Home
    * │  │   ├───highlights
    * │  │   └───recent
-   * │  ├───preloader
    * │  ├───Student-section
    * │  │   ├───branchmates
    * │  │   ├───placement
