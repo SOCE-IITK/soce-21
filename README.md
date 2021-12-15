@@ -26,7 +26,7 @@
    * ├─── [team20](database/team20)
    * └─── [web.js](database/web.js)
 
-   
+
 #### ├─── [public](public)
    * ├─── [css](public/css/)
    * ├─── [fontawesome-free-5.15.4-web](public/fontawesome-free-5.15.4-web/)
@@ -101,9 +101,11 @@
    * ├─── [student-section.ejs](views/acREADMEtivities/student-section.ejs)
    * ├─── [teams.ejs](views/activities/teams.ejs)
    * └─── [teams20.ejs](views/activities/teams20.ejs)
- * ├─── [LICENSE](LICENSE)
- * ├─── [README](README.md)
- * └─── [sitemap.xml](sitemap.xml)
+
+#### ├─── [app.js](app.js)   
+#### ├─── [LICENSE](LICENSE)
+#### ├─── [README](README.md)
+#### └─── [sitemap.xml](sitemap.xml)
 
 
 #### Canva Site Layouts 📝 (Courtesy Shubham)
