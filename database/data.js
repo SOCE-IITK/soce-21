@@ -1,4 +1,9 @@
-var images = ["/img/Activities/get-together/1.jpg", "/img/Activities/get-together/2.jpg", "/img/Activities/get-together/3.jpg", "/img/Activities/get-together/5.jpg", "/img/Activities/get-together/6.jpg",
+var images = [
+  "/img/Activities/get-together/1.jpg",
+  "/img/Activities/get-together/2.jpg",
+  "/img/Activities/get-together/3.jpg",
+  "/img/Activities/get-together/5.jpg",
+  "/img/Activities/get-together/6.jpg",
   "/img/Activities/get-together/7.jpg",
   "/img/Activities/get-together/8.jpg",
   "/img/Activities/get-together/9.jpg",
