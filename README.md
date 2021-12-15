@@ -40,23 +40,6 @@
 -   │  │   ├───fun-events
 -   │  │   ├───get-together
 -   │  │   └───strengths
--   │  ├───blogs
--   │  │   ├───Ashutosh-Ranjan
--   │  │   ├───Chitwan-Garg
--   │  │   ├───Dishaa-Rajora
--   │  │   ├───Dishant-Parewa
--   │  │   ├───Gourav-Kamboj
--   │  │   ├───Jeetendra-Kumar
--   │  │   ├───Krishan-Kumar
--   │  │   ├───Krishna-Deo
--   │  │   ├───Mudit-Kumar
--   │  │   ├───Rahul-Gauriyar
--   │  │   ├───Rajat-Ghoshal
--   │  │   ├───Samyak-Jain
--   │  │   ├───Shashi-Shekhar
--   │  │   ├───Shuaib-Alam
--   │  │   ├───Vineet-Shukla
--   │  │   └───Vishal-Agarwal
 -   │  ├───Department
 -   │  │   ├───alumni
 -   │  │   ├───faculty
@@ -65,10 +48,12 @@
 -   │  │   ├───highlights
 -   │  │   └───recent
 -   │  ├───Student-section
--   │  │   ├───branchmates
--   │  │   ├───placement
--   │  │   │   └───thumbnail
--   │  │   └───resume
+-   │  │  ├───branchmates
+-   │  │  ├───placement-postulates
+-   │  │  │   ├───blogs
+-   │  │  │   ├───dp
+-   │  │  │   └───thumbnail
+-   │  │  └───resume
 -   │  └───team
 -   └─── [js](public/js/)
     -   ├─── [aos.js](public/js/aos.js)
