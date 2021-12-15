@@ -1,242 +1,247 @@
 <%- include('partials/header') %>
 
-  <section class="header" id="header">
-    <nav>
-      <div>
-        <a href="/">
-          <img data-aos="slide-right" src="/img/SoCE-logo.svg" alt="" id="logo"></a>
-      </div>
-      <div class="nav-links" id="nav-links">
-        <i class="fa fa-times bar" onclick="hideMenu()" aria-hidden="true"></i>
-        <ul>
-          <li data-aos="slide-left"><a href="/activities">Activities</a></li>
-          <li data-aos="slide-left"> <a href="/department">Department</a> </li>
-          <li data-aos="slide-left"><a href="/student-section">Student's Section</a></li>
-          <!-- <li data-aos="slide-left"><a href="">Placement Postulates</a></li> -->
-          <li data-aos="slide-left"><a href="/teams">Team</a></li>
-          <li data-aos="slide-left"><a href="#contact-us" onclick="hideMenu()">Contact</a></li>
-
-        </ul>
-      </div>
-      <div>
-      <i class="fa fa-bars bar" onclick="showMenu()" aria-hidden="true"></i>
+<section class="header" id="header">
+  <nav>
+    <div>
+      <a href="/">
+        <img data-aos="slide-right" src="/img/SoCE-logo.svg" alt="" id="logo"></a>
     </div>
-    </nav>
+    <div class="nav-links" id="nav-links">
+      <i class="fa fa-times bar" onclick="hideMenu()" aria-hidden="true"></i>
+      <ul>
+        <li data-aos="slide-left"><a href="/activities">Activities</a></li>
+        <li data-aos="slide-left"> <a href="/department">Department</a> </li>
+        <li data-aos="slide-left"><a href="/student-section">Student's Section</a></li>
+        <!-- <li data-aos="slide-left"><a href="">Placement Postulates</a></li> -->
+        <li data-aos="slide-left"><a href="/teams">Team</a></li>
+        <li data-aos="slide-left"><a href="#contact-us" onclick="hideMenu()">Contact</a></li>
 
-    <div class="text-box">
-      <br>
-      <h1 data-aos="slide-right">Society of</h1>
-      <h1 data-aos="slide-right">Civil Engineers</h1>
-      <p>" The road to success <br> is always under construction! "</p>
+      </ul>
     </div>
     <div>
-      <i class="fas fa-chevron-down" id="down" onclick="about()" aria-hidden="true"></i>
+      <i class="fa fa-bars bar" onclick="showMenu()" aria-hidden="true"></i>
     </div>
-  </section>
+  </nav>
 
-  <section class="about-us1" id="abouts">
+  <div class="text-box">
+    <br>
+    <h1 data-aos="slide-right">Society of</h1>
+    <h1 data-aos="slide-right">Civil Engineers</h1>
+    <p>" The road to success <br> is always under construction! "</p>
+  </div>
+  <div>
+    <i class="fas fa-chevron-down" id="down" onclick="about()" aria-hidden="true"></i>
+  </div>
+</section>
 
-    <div class="content-box">
-      <h1 data-aos="slide-right">About Us</h1>
-      <p data-aos="slide-right">SOCE (Society of Civil Engineers, IIT Kanpur) is a student body.
-        It serves as a link between enrolled Civil Engineering students, alumni and professors at IIT Kanpur.
-        This society is an effort to allow free communication and sharing of ideas and information among all.</p>
-      <a target="_blank" href="/about">
-        <h5 data-aos="slide-right"> Read More &gt;</h5>
+<section class="about-us1" id="abouts">
+
+  <div class="content-box">
+    <h1 data-aos="slide-right">About Us</h1>
+    <p data-aos="slide-right">SOCE (Society of Civil Engineers, IIT Kanpur) is a student body.
+      It serves as a link between enrolled Civil Engineering students, alumni and professors at IIT Kanpur.
+      This society is an effort to allow free communication and sharing of ideas and information among all.</p>
+    <a target="_blank" href="/about">
+      <h5 data-aos="slide-right"> Read More &gt;</h5>
+    </a>
+
+  </div>
+  <div>
+    <i class="fas fa-chevron-down" id="down" onclick="highlights()" aria-hidden="true"></i>
+  </div>
+
+</section>
+
+<!-- Main Highlights -->
+<section class="Main_Highlights" id="highlights">
+
+  <h1 data-aos="slide-right">Main Highlights</h1>
+  <p data-aos="slide-right">We being part of Civil Engineering, try to create awareness about the department by organizing various lecture series, workshops and interactive sessions . We understand the importance of faculty-student interaction and we
+    aim at improving it to best possible level.</p>
+
+  <div class="card_deck">
+
+    <div data-aos="zoom-in" class="card">
+
+      <a href="/activities"><img class="card_image" src="/img/Home/highlights/3.jpg" alt="Activities"></a>
+
+      <a href="/activities">
+        <h3>Activities</h3>
       </a>
 
     </div>
-    <div>
-      <i class="fas fa-chevron-down" id="down" onclick="highlights()" aria-hidden="true"></i>
+
+    <div data-aos="zoom-in" class="card">
+
+      <a href="/department">
+        <img class="card_image" src="/img/Home/highlights/2.jpg" alt="Department"></a>
+
+      <a href="/department">
+        <h3>Department</h3>
+      </a>
+
     </div>
 
-  </section>
+    <div data-aos="zoom-in" class="card">
+      <a href="/student-section"><img class="card_image" src="/img/Home/highlights/1.jpg" alt="Student-section"></a>
 
-  <!-- Main Highlights -->
-  <section class="Main_Highlights" id="highlights">
+      <a href="/student-section">
+        <h3>Student section</h3>
+      </a>
 
-    <h1 data-aos="slide-right">Main Highlights</h1>
-    <p data-aos="slide-right">We being part of Civil Engineering, try to create awareness about the department by organizing various lecture series, workshops and interactive sessions . We understand the importance of faculty-student interaction and we aim at improving it to best possible level.</p>
-
-    <div class="card_deck">
-
-      <div data-aos="zoom-in" class="card">
-
-        <a href="/activities"><img class="card_image" src="/img/Home/highlights/3.jpg" alt="Activities"></a>
-
-        <a href="/activities">
-          <h3>Activities</h3>
-        </a>
-
-      </div>
-
-      <div data-aos="zoom-in" class="card">
-
-        <a href="/department">
-          <img class="card_image" src="/img/Home/highlights/2.jpg" alt="Department"></a>
-
-        <a href="/department">
-          <h3>Department</h3>
-        </a>
-
-      </div>
-
-      <div data-aos="zoom-in" class="card">
-        <a href="/student-section"><img class="card_image" src="/img/Home/highlights/1.jpg" alt="Student-section"></a>
-
-        <a href="/student-section">
-          <h3>Student section</h3>
-        </a>
-
-      </div>
-
-
-
-
-      
     </div>
 
-    <div style="text-align: center;">
-      <i class="fas fa-chevron-down" id="high" onclick="recent()" aria-hidden="true"></i>
-    </div>
-  </section>
 
-  <section class="recent" id="recent">
-    <div>
-      <h1 data-aos="slide-right">Recent Activities</h1>
-    </div>
-    <div class="recent1" data-aos="zoom-in">
-      <div class="blog-slider">
-        <div class="blog-slider__wrp swiper-wrapper">
-          <div class="blog-slider__item swiper-slide">
-            <div class="blog-slider__img">
 
-              <img src="/img/Home/recent/1.PNG" alt="">
-            </div>
-            <div class="blog-slider__content">
-              <span class="blog-slider__code">2021</span>
-              <div class="blog-slider__title">Scribbl.io Game Night</div>
-              <div class="blog-slider__text">SoCE came up with a super fun event: SKRIBBL.IO GAME NIGHT.
-              </div>
-              <a href="https://www.facebook.com/312231476010043/posts/978851399348044/" target="_blank" class="blog-slider__button">READ MORE</a>
-            </div>
+
+
+  </div>
+
+  <div style="text-align: center;">
+    <i class="fas fa-chevron-down" id="high" onclick="recent()" aria-hidden="true"></i>
+  </div>
+</section>
+
+<section class="recent" id="recent">
+  <div>
+    <h1 data-aos="slide-right">Recent Activities</h1>
+  </div>
+  <div class="recent1" data-aos="zoom-in">
+    <div class="blog-slider">
+      <div class="blog-slider__wrp swiper-wrapper">
+        <div class="blog-slider__item swiper-slide">
+          <div class="blog-slider__img">
+
+            <img src="/img/Home/recent/1.PNG" alt="">
           </div>
-          <div class="blog-slider__item swiper-slide">
-            <div class="blog-slider__img">
-              <img src="/img/Home/recent/2.PNG" alt="">
+          <div class="blog-slider__content">
+            <span class="blog-slider__code">2021</span>
+            <div class="blog-slider__title">Scribbl.io Game Night</div>
+            <div class="blog-slider__text">SoCE came up with a super fun event: SKRIBBL.IO GAME NIGHT.
             </div>
-            <div class="blog-slider__content">
-              <span class="blog-slider__code">2021</span>
-              <div class="blog-slider__title">Portrait Making Competition</div>
-              <div class="blog-slider__text">SoCE organised a PORTRAIT making competition "IMAGIMORPHOSIS" for all of you.</div>
-              <a href="https://www.facebook.com/312231476010043/posts/962162301016954/" target="_blank" class="blog-slider__button">READ MORE</a>
-            </div>
+            <a href="https://www.facebook.com/312231476010043/posts/978851399348044/" target="_blank" class="blog-slider__button">READ MORE</a>
           </div>
-
-          <div class="blog-slider__item swiper-slide">
-            <div class="blog-slider__img">
-              <img src="/img/Home/recent/3.PNG" alt="">
-            </div>
-            <div class="blog-slider__content">
-              <span class="blog-slider__code">2021</span>
-              <div class="blog-slider__title">Informal Session for Y20</div>
-              <div class="blog-slider__text">SoCE organized an informal session to help on the Pre-Registration process to help you out with your queries.</div>
-              <a href="https://www.facebook.com/312231476010043/posts/911424002757451/"  target="_blank" class="blog-slider__button">READ MORE</a>
-            </div>
-          </div>
-
         </div>
-        <div class="blog-slider__pagination"></div>
-      </div>
-      <!-- partial -->
-    </div>
-    <div style="text-align: center;">
-      <i class="fas fa-chevron-down" style="margin:0%;" id="high" onclick="contact()" aria-hidden="true"></i>
-    </div>
-    <!--  -->
+        <div class="blog-slider__item swiper-slide">
+          <div class="blog-slider__img">
+            <img src="/img/Home/recent/2.PNG" alt="">
+          </div>
+          <div class="blog-slider__content">
+            <span class="blog-slider__code">2021</span>
+            <div class="blog-slider__title">Portrait Making Competition</div>
+            <div class="blog-slider__text">SoCE organised a PORTRAIT making competition "IMAGIMORPHOSIS" for all of you.</div>
+            <a href="https://www.facebook.com/312231476010043/posts/962162301016954/" target="_blank" class="blog-slider__button">READ MORE</a>
+          </div>
+        </div>
 
-  </section>
-
-  </section>
-
-  <section class="contact-us" id="contact-us">
-    <h1 data-aos="slide-right">Contact us</h1>
-    <div>
-      <h3 data-aos="slide-right"><a target="_blank" href="mailto:soce@iitk.ac.in"><i class="fas fa-envelope f"
-            aria-hidden="true"></i>Email</a></h3>
-      <p data-aos="slide-right">soce@iitk.ac.in</p>
-      <h3 data-aos="slide-right"><a target="_blank" href="callto:+919431452981"><i class="fas fa-phone f"
-            aria-hidden="true"></i>Phone</a></h3>
-      <p data-aos="slide-right">+91 94314 52981</p>
-      <h3 data-aos="slide-right"><a target="_blank"
-          href="https://www.google.com/maps/place/Department+of+Civil+Engineering,+IIT+Kanpur/@26.5126692,80.2311847,17z/data=!3m1!4b1!4m5!3m4!1s0x399c3701c036a993:0x7f377277204c4d10!8m2!3d26.5126692!4d80.2334148"><i
-            class="fas fa-map-marker-alt f" aria-hidden="true"></i>Address</a></h3>
-      <p data-aos="slide-right">IITK, Kalyanpur, Kanpur, Uttar Pradesh 208016</p>
-      <br>
-      <br>
-      <br>
-      <div data-aos="zoom-in" class="icon social101">
-        <a target="_blank" href="https://www.instagram.com/soce.iitk/">
-          <i class="fab fa-instagram social" id="instagram"></i>
-        </a>
-        <a target="_blank" href="https://www.facebook.com/soce.iitk ">
-          <i class="fab fa-facebook social" id="facebook"></i>
-        </a>
-        <a target="_blank" href="">
-          <i class="fab fa-linkedin  social" id="linked"></i>
-        </a>
-        <a target="_blank" href="https://discord.gg/v3XvJzmw">
-          <i class="fab fa-discord social" id="dis"></i>
-        </a>
-        <a target="_blank" href="https://www.youtube.com/channel/UCYxcjF40cekc9YOyIbMDRDQ">
-          <i class="fab fa-youtube social" id="youtube"></i>
-        </a>
+        <div class="blog-slider__item swiper-slide">
+          <div class="blog-slider__img">
+            <img src="/img/Home/recent/3.PNG" alt="">
+          </div>
+          <div class="blog-slider__content">
+            <span class="blog-slider__code">2021</span>
+            <div class="blog-slider__title">Informal Session for Y20</div>
+            <div class="blog-slider__text">SoCE organized an informal session to help on the Pre-Registration process to help you out with your queries.</div>
+            <a href="https://www.facebook.com/312231476010043/posts/911424002757451/" target="_blank" class="blog-slider__button">READ MORE</a>
+          </div>
+        </div>
 
       </div>
+      <div class="blog-slider__pagination"></div>
+    </div>
+    <!-- partial -->
+  </div>
+  <div style="text-align: center;">
+    <i class="fas fa-chevron-down" style="margin:0%;" id="high" onclick="contact()" aria-hidden="true"></i>
+  </div>
+  <!--  -->
 
+</section>
 
+</section>
+
+<section class="contact-us" id="contact-us">
+  <h1 data-aos="slide-right">Contact us</h1>
+  <div>
+    <h3 data-aos="slide-right"><a target="_blank" href="mailto:soce@iitk.ac.in"><i class="fas fa-envelope f" aria-hidden="true"></i>Email</a></h3>
+    <p data-aos="slide-right">soce@iitk.ac.in</p>
+    <h3 data-aos="slide-right"><a target="_blank" href="callto:+919431452981"><i class="fas fa-phone f" aria-hidden="true"></i>Phone</a></h3>
+    <p data-aos="slide-right">+91 94314 52981</p>
+    <h3 data-aos="slide-right"><a target="_blank"
+        href="https://www.google.com/maps/place/Department+of+Civil+Engineering,+IIT+Kanpur/@26.5126692,80.2311847,17z/data=!3m1!4b1!4m5!3m4!1s0x399c3701c036a993:0x7f377277204c4d10!8m2!3d26.5126692!4d80.2334148"><i class="fas fa-map-marker-alt f"
+          aria-hidden="true"></i>Address</a></h3>
+    <p data-aos="slide-right">IITK, Kalyanpur, Kanpur, Uttar Pradesh 208016</p>
+    <br>
+    <br>
+    <br>
+    <div data-aos="zoom-in" class="icon social101">
+      <a target="_blank" href="https://www.instagram.com/soce.iitk/">
+        <i class="fab fa-instagram social" id="instagram"></i>
+      </a>
+      <a target="_blank" href="https://www.facebook.com/soce.iitk ">
+        <i class="fab fa-facebook social" id="facebook"></i>
+      </a>
+      <a target="_blank" href="">
+        <i class="fab fa-linkedin  social" id="linked"></i>
+      </a>
+      <a target="_blank" href="https://discord.gg/v3XvJzmw">
+        <i class="fab fa-discord social" id="dis"></i>
+      </a>
+      <a target="_blank" href="https://www.youtube.com/channel/UCYxcjF40cekc9YOyIbMDRDQ">
+        <i class="fab fa-youtube social" id="youtube"></i>
+      </a>
 
     </div>
-    <div class="Copyrights" style="padding: 2%;">
-      <p> © Copyrights 2021, SoCE IITK</p>
-    </div>
-    <div style="text-align: center; margin-top: 5%;">
-      <i class="fas fa-chevron-up" id="high" onclick="header()" aria-hidden="true"></i>
-    </div>
 
 
 
-  </section>
-
-  <script>
-    var temp = document.getElementById('abouts');
-    function about() {
-      temp.scrollIntoView();
-    }
-
-    var high = document.getElementById("highlights");
-    function highlights() {
-      high.scrollIntoView();
-    }
-
-    var rec = document.getElementById("recent");
-    function recent() {
-      rec.scrollIntoView();
-    }
-
-    var cont = document.getElementById("contact-us");
-    function contact() {
-      cont.scrollIntoView();
-    }
-
-    var head = document.getElementById("header");
-    function header() {
-      head.scrollIntoView();
-    }
-    function menu() {
-      document.getElementById("contact-us").scrollIntoView();
-    }
-  </script>
+  </div>
+  <div class="Copyrights" style="padding: 2%;">
+    <p> © Copyrights 2021, SoCE IITK</p>
+  </div>
+  <div style="text-align: center; margin-top: 5%;">
+    <i class="fas fa-chevron-up" id="high" onclick="header()" aria-hidden="true"></i>
+  </div>
 
 
-  <%- include('partials/footer') %>
+
+</section>
+
+<script>
+  var temp = document.getElementById('abouts');
+
+  function about() {
+    temp.scrollIntoView();
+  }
+
+  var high = document.getElementById("highlights");
+
+  function highlights() {
+    high.scrollIntoView();
+  }
+
+  var rec = document.getElementById("recent");
+
+  function recent() {
+    rec.scrollIntoView();
+  }
+
+  var cont = document.getElementById("contact-us");
+
+  function contact() {
+    cont.scrollIntoView();
+  }
+
+  var head = document.getElementById("header");
+
+  function header() {
+    head.scrollIntoView();
+  }
+
+  function menu() {
+    document.getElementById("contact-us").scrollIntoView();
+  }
+</script>
+
+
+<%- include('partials/footer') %>

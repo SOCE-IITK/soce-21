@@ -428,8 +428,6 @@ var faculty = [{
     image: "img/Department/faculty/vinod.jpg"
   },
 
-
-
 ]
 
 module.exports = faculty;

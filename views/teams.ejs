@@ -1,232 +1,220 @@
 <%- include('partials/header') %>
 
-    <section class="activities_header team_header" id="activities" style="background-color: black;">
-        <nav>
-            <a href="/">
-                <img data-aos="slide-right" src="/img/SoCE-logo.svg" alt="" id="logo" class="logo"></a>
-            <div class="nav-links" id="nav-links">
-                <i class="fa fa-times bar" onclick="hideMenu()" aria-hidden="true"></i>
-                <ul>
-                    <li data-aos="slide-left"><a href="/">Home</a></li>
-                    <li data-aos="slide-left"><a href="/activities">Activities</a></li>
-                    <li data-aos="slide-left"> <a href="/department">Department</a> </li>
-                    <li data-aos="slide-left"><a href="/student-section">Student's Section</a></li>
-                    <!-- <li data-aos="slide-left"><a href="">Placement Postulates</a></li> -->
-                    <li data-aos="slide-left"><a href="/teams">Team</a></li>
-                </ul>
-            </div>
-            <i class="fa fa-bars bar" onclick="showMenu()" aria-hidden="true"></i>
-        </nav>
+<section class="activities_header team_header" id="activities" style="background-color: black;">
+  <nav>
+    <a href="/">
+      <img data-aos="slide-right" src="/img/SoCE-logo.svg" alt="" id="logo" class="logo"></a>
+    <div class="nav-links" id="nav-links">
+      <i class="fa fa-times bar" onclick="hideMenu()" aria-hidden="true"></i>
+      <ul>
+        <li data-aos="slide-left"><a href="/">Home</a></li>
+        <li data-aos="slide-left"><a href="/activities">Activities</a></li>
+        <li data-aos="slide-left"> <a href="/department">Department</a> </li>
+        <li data-aos="slide-left"><a href="/student-section">Student's Section</a></li>
+        <!-- <li data-aos="slide-left"><a href="">Placement Postulates</a></li> -->
+        <li data-aos="slide-left"><a href="/teams">Team</a></li>
+      </ul>
+    </div>
+    <i class="fa fa-bars bar" onclick="showMenu()" aria-hidden="true"></i>
+  </nav>
 
-        <div class="alpha">
-            <h1 data-aos="slide-down" class="activities_heading"> TEAM </h1><br>
-            <hr data-aos="slide-up" id="team_rule" class="rule">
+  <div class="alpha">
+    <h1 data-aos="slide-down" class="activities_heading"> TEAM </h1><br>
+    <hr data-aos="slide-up" id="team_rule" class="rule">
+  </div>
+
+  <div class="subheading">
+    <h3 id="subheading1"><u>FACULTY ADVISOR</u></h3>
+  </div>
+
+  <section class="team_section">
+
+    <div class="container">
+      <div class="card">
+        <div class="content">
+          <div class="imgBx">
+            <img loading="lazy" src="/img/team/chinmoy.jpg" alt="">
+          </div>
+          <div class="contentBx">
+            <h3>Chinmoy Kolay<br><span>Faculty Advisor</span></h3>
+          </div>
         </div>
 
-        <div class="subheading">
-            <h3 id="subheading1"><u>FACULTY ADVISOR</u></h3>
+        <ul class="sci">
+          <li style="--i:1">
+            <a href="https://sites.google.com/view/ckolay" target="_blank"><i class="fas fa-home" aria-hidden="true"></i></a>
+          </li>
+          <li style="--i:2">
+            <a href="mailto:ckolay@iitk.ac.in" target="_blank"><i class="fas fa-envelope" aria-hidden="true"></i></a>
+          </li>
+        </ul>
+      </div>
+
+    </div>
+
+  </section>
+
+  <div class="container" style="text-align: center;">
+    <hr data-aos="slide-up" class="line_team">
+  </div>
+
+  <div class="subheading">
+    <h3 id="subheading1"><u>COORDINATOR</u></h3>
+  </div>
+
+  <section class="team_section">
+
+
+    <%cordi.forEach(function (cordis){%>
+    <div class="container">
+      <div class="card">
+        <div class="content">
+          <div class="imgBx">
+            <img loading="lazy" src="<%=cordis.image%>" alt="">
+          </div>
+          <div class="contentBx">
+            <h3>
+              <%=cordis.name%><br><span>
+                <%=cordis.post%>
+              </span>
+            </h3>
+          </div>
         </div>
 
-        <section class="team_section">
+        <ul class="sci">
+          <li style="--i:1">
+            <a href=<%=cordis.fb%> target="_blank"><i class="fab fa-facebook" aria-hidden="true"></i></a>
+          </li>
+          <li style="--i:2">
+            <a href=<%=cordis.linkedin%> target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
+          </li>
+          <li style="--i:3">
+            <a href=<%=cordis.insta%> target="_blank"><i class="fab fa-instagram" id="insta"></i></a>
+          </li>
+          <li style="--i:4">
+            <a href=<%=cordis.mail%> target="_blank"><i class="fas fa-envelope" aria-hidden="true"></i></a>
+          </li>
+        </ul>
+      </div>
+    </div>
 
-            <div class="container">
-                <div class="card">
-                    <div class="content">
-                        <div class="imgBx">
-                            <img loading="lazy" src="/img/team/chinmoy.jpg" alt="">
-                        </div>
-                        <div class="contentBx">
-                            <h3>Chinmoy Kolay<br><span>Faculty Advisor</span></h3>
-                        </div>
-                    </div>
+    <% }) %>
+  </section>
 
-                    <ul class="sci">
-                        <li style="--i:1">
-                            <a href="https://sites.google.com/view/ckolay" target="_blank"><i class="fas fa-home"
-                                    aria-hidden="true"></i></a>
-                        </li>
-                        <li style="--i:2">
-                            <a href="mailto:ckolay@iitk.ac.in" target="_blank"><i class="fas fa-envelope"
-                                    aria-hidden="true"></i></a>
-                        </li>
-                    </ul>
-                </div>
 
-            </div>
+  <div class="container" style="text-align: center;">
+    <hr data-aos="slide-up" class="line_team">
+  </div>
 
-        </section>
+  <div class="subheading">
+    <h3 id="subheading1"><u>WEB MASTERS</u></h3>
+  </div>
 
-        <div class="container" style="text-align: center;">
-            <hr data-aos="slide-up" class="line_team">
+  <section class="team_section">
+
+
+    <%web.forEach(function (web){%>
+    <div class="container">
+      <div class="card">
+        <div class="content">
+          <div class="imgBx">
+            <img loading="lazy" src="<%=web.image%>" alt="">
+          </div>
+          <div class="contentBx">
+            <h3>
+              <%=web.name%>
+              <br><span>
+                <%=web.post%>
+              </span>
+            </h3>
+          </div>
         </div>
 
-        <div class="subheading">
-            <h3 id="subheading1"><u>COORDINATOR</u></h3>
+        <ul class="sci">
+          <li style="--i:1">
+            <a href=<%=web.fb%> target="_blank"><i class="fab fa-facebook" aria-hidden="true"></i></a>
+          </li>
+          <li style="--i:2">
+            <a href=<%=web.linkedin%> target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
+          </li>
+          <li style="--i:3">
+            <a href=<%=web.insta%> target="_blank"><i class="fab fa-instagram" id="insta"></i></a>
+          </li>
+          <li style="--i:4">
+            <a href=<%=web.mail%> target="_blank"><i class="fas fa-envelope" aria-hidden="true"></i></a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <% }) %>
+
+
+  </section>
+
+
+  <div class="container" style="text-align: center;">
+    <hr data-aos="slide-up" class="line_team">
+  </div>
+
+  <div class="subheading">
+    <h3 id="subheading1"><u>SECRETARY</u></h3>
+  </div>
+
+  <section class="team_section">
+
+
+    <%secy.forEach(function (secys){%>
+    <div class="container">
+      <div class="card">
+        <div class="content">
+          <div class="imgBx">
+            <img loading="lazy" src="<%=secys.image%>" alt="">
+          </div>
+          <div class="contentBx">
+            <h3>
+              <%=secys.name%><br><span>
+                <%=secys.post%>
+              </span>
+            </h3>
+          </div>
         </div>
 
-        <section class="team_section">
+        <ul class="sci">
+          <li style="--i:1">
+            <a href=<%=secys.fb%> target="_blank"><i class="fab fa-facebook" aria-hidden="true"></i></a>
+          </li>
+          <li style="--i:2">
+            <a href=<%=secys.linkedin%> target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
+          </li>
+          <li style="--i:3">
+            <a href=<%=secys.insta%> target="_blank"><i class="fab fa-instagram" id="insta"></i></a>
+          </li>
+          <li style="--i:4">
+            <a href=<%=secys.mail%> target="_blank"><i class="fas fa-envelope" aria-hidden="true"></i></a>
+          </li>
+        </ul>
+      </div>
+    </div>
 
+    <% }) %>
 
-            <%cordi.forEach(function (cordis){%>
-                <div class="container">
-                    <div class="card">
-                        <div class="content">
-                            <div class="imgBx">
-                                <img loading="lazy" src="<%=cordis.image%>" alt="">
-                            </div>
-                            <div class="contentBx">
-                                <h3>
-                                    <%=cordis.name%><br><span>
-                                            <%=cordis.post%>
-                                        </span>
-                                </h3>
-                            </div>
-                        </div>
+  </section>
 
-                        <ul class="sci">
-                            <li style="--i:1">
-                                <a href=<%=cordis.fb%> target="_blank"><i class="fab fa-facebook"
-                                        aria-hidden="true"></i></a>
-                            </li>
-                            <li style="--i:2">
-                                <a href=<%=cordis.linkedin%> target="_blank"><i class="fab fa-linkedin"
-                                        aria-hidden="true"></i></a>
-                            </li>
-                            <li style="--i:3">
-                                <a href=<%=cordis.insta%> target="_blank"><i class="fab fa-instagram"
-                                        id="insta"></i></a>
-                            </li>
-                            <li style="--i:4">
-                                <a href=<%=cordis.mail%> target="_blank"><i class="fas fa-envelope"
-                                        aria-hidden="true"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
+  <div class="subheading">
+    <h3 id="subheading1"><u>OLD TEAMS</u></h3>
+  </div>
 
-                <% }) %>
-        </section>
+  <div class="subheading">
+    <br>
+    <ul>
+      <li> <a href="/team20">
+          Team 2020-2021
+        </a> </li>
+    </ul>
+    <br>
+    <br>
+  </div>
 
-
-        <div class="container" style="text-align: center;">
-            <hr data-aos="slide-up" class="line_team">
-        </div>
-
-        <div class="subheading">
-            <h3 id="subheading1"><u>WEB MASTERS</u></h3>
-        </div>
-
-        <section class="team_section">
-
-
-            <%web.forEach(function (web){%>
-                <div class="container">
-                    <div class="card">
-                        <div class="content">
-                            <div class="imgBx">
-                                <img loading="lazy" src="<%=web.image%>" alt="">
-                            </div>
-                            <div class="contentBx">
-                                <h3>
-                                    <%=web.name%>
-                                        <br><span>
-                                            <%=web.post%>
-                                        </span>
-                                </h3>
-                            </div>
-                        </div>
-
-                        <ul class="sci">
-                            <li style="--i:1">
-                                <a href=<%=web.fb%> target="_blank"><i class="fab fa-facebook"
-                                        aria-hidden="true"></i></a>
-                            </li>
-                            <li style="--i:2">
-                                <a href=<%=web.linkedin%> target="_blank"><i class="fab fa-linkedin"
-                                        aria-hidden="true"></i></a>
-                            </li>
-                            <li style="--i:3">
-                                <a href=<%=web.insta%> target="_blank"><i class="fab fa-instagram" id="insta"></i></a>
-                            </li>
-                            <li style="--i:4">
-                                <a href=<%=web.mail%> target="_blank"><i class="fas fa-envelope"
-                                        aria-hidden="true"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-
-                <% }) %>
-
-
-        </section>
-
-
-        <div class="container" style="text-align: center;">
-            <hr data-aos="slide-up" class="line_team">
-        </div>
-
-        <div class="subheading">
-            <h3 id="subheading1"><u>SECRETARY</u></h3>
-        </div>
-
-        <section class="team_section">
-
-
-            <%secy.forEach(function (secys){%>
-                <div class="container">
-                    <div class="card">
-                        <div class="content">
-                            <div class="imgBx">
-                                <img loading="lazy" src="<%=secys.image%>" alt="">
-                            </div>
-                            <div class="contentBx">
-                                <h3>
-                                    <%=secys.name%><br><span>
-                                            <%=secys.post%>
-                                        </span>
-                                </h3>
-                            </div>
-                        </div>
-
-                        <ul class="sci">
-                            <li style="--i:1">
-                                <a href=<%=secys.fb%> target="_blank"><i class="fab fa-facebook"
-                                        aria-hidden="true"></i></a>
-                            </li>
-                            <li style="--i:2">
-                                <a href=<%=secys.linkedin%> target="_blank"><i class="fab fa-linkedin"
-                                        aria-hidden="true"></i></a>
-                            </li>
-                            <li style="--i:3">
-                                <a href=<%=secys.insta%> target="_blank"><i class="fab fa-instagram" id="insta"></i></a>
-                            </li>
-                            <li style="--i:4">
-                                <a href=<%=secys.mail%> target="_blank"><i class="fas fa-envelope"
-                                        aria-hidden="true"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-
-                <% }) %>
-
-        </section>
-
-        <div class="subheading">
-            <h3 id="subheading1"><u>OLD TEAMS</u></h3>
-        </div>
-
-        <div class="subheading">
-            <br>
-            <ul>
-                <li> <a href="/team20">
-                        Team 2020-2021
-                    </a> </li>
-            </ul>
-            <br>
-            <br>
-        </div>
-
-    </section>
-    <%- include('partials/footer') %>
+</section>
+<%- include('partials/footer') %>
