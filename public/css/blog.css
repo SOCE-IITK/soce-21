@@ -1,22 +1,22 @@
 ::-webkit-scrollbar {
-  width: 5px;
+  width: 7px;
 }
 
 /* Track */
 ::-webkit-scrollbar-track {
-  box-shadow: inset 0 0 5px grey;
+  box-shadow: inset 0 0 7px black;
   border-radius: 10px;
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: rgb(231, 189, 89);
+  background: #FFB6B9;
   border-radius: 10px;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: rgb(231, 189, 89);
+  background: #F4DADA;
 }
 
 body {
@@ -68,6 +68,7 @@ body {
 }
 
 .blog {
+  font: 1em "Fira Sans", serif;
   width: 70vw;
   margin-left: auto;
   margin-right: auto;
@@ -112,7 +113,7 @@ a :hover {
 }
 
 @media screen and (max-width:1200px) {
-  bofy {
+  body {
     font-size: 4vh;
   }
 
@@ -139,6 +140,10 @@ a :hover {
     margin-left: 10vw;
   }
 
+  .blog h2 {
+    font-size: 120%;
+  }
+
   .blog img {
     border: 2px solid white;
     border-radius: 3px;
@@ -159,6 +164,6 @@ a :hover {
   }
 
   b {
-    font-size: 170%;
+    font-size: 120%;
   }
 }
