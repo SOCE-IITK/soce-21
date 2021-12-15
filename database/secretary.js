@@ -288,7 +288,7 @@ var secy = [{
   //     mail: "mailto:syuvraj20@iitk.ac.in",
   //     image: "img/team/w5.jpg"
   // }
-  
+
 ]
 
 module.exports = secy;
