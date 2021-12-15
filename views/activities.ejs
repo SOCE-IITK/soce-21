@@ -1,73 +1,73 @@
 <%- include('partials/header') %>
 
-    <section class="activities_header" id="activities">
-        <nav>
-            <a href="/">
-                <img data-aos="slide-right" src="/img/SoCE-logo.svg" alt="" id="logo" class="logo"></a>
-            <div class="nav-links" id="nav-links">
-                <i class="fa fa-times bar" onclick="hideMenu()" aria-hidden="true"></i>
-                <ul>
-                    <li data-aos="slide-left"><a href="/">Home</a></li>
-                    <li data-aos="slide-left"><a href="/activities">Activities</a></li>
-                    <li data-aos="slide-left"> <a href="/department">Department</a> </li>
-                    <li data-aos="slide-left"><a href="/student-section">Student's Section</a></li>
-                    <!-- <li data-aos="slide-left"><a href="">Placement Postulates</a></li> -->
-                    <li data-aos="slide-left"><a href="/teams">Team</a></li>
-                </ul>
-            </div>
-            <i class="fa fa-bars bar" onclick="showMenu()" aria-hidden="true"></i>
-        </nav>
+<section class="activities_header" id="activities">
+  <nav>
+    <a href="/">
+      <img data-aos="slide-right" src="/img/SoCE-logo.svg" alt="" id="logo" class="logo"></a>
+    <div class="nav-links" id="nav-links">
+      <i class="fa fa-times bar" onclick="hideMenu()" aria-hidden="true"></i>
+      <ul>
+        <li data-aos="slide-left"><a href="/">Home</a></li>
+        <li data-aos="slide-left"><a href="/activities">Activities</a></li>
+        <li data-aos="slide-left"> <a href="/department">Department</a> </li>
+        <li data-aos="slide-left"><a href="/student-section">Student's Section</a></li>
+        <!-- <li data-aos="slide-left"><a href="">Placement Postulates</a></li> -->
+        <li data-aos="slide-left"><a href="/teams">Team</a></li>
+      </ul>
+    </div>
+    <i class="fa fa-bars bar" onclick="showMenu()" aria-hidden="true"></i>
+  </nav>
 
-        <div class="alpha">
-            <h1 data-aos="slide-down" class="activities_heading"> ACTIVITIES </h1><br>
-            <hr data-aos="slide-up" id="activity_rule" class="rule">
-        </div>
-
-
-        <div data-aos="zoom-in" class="activities_card_deck">
-
-            <div data-aos="zoom-in" class="activities_card" id="fun_event" onclick="fun()">
-                <img class="activities_card_image" src="/img/Activities/icon1.png" alt="SoCE IITK">
-
-                <h3>FUN <br>EVENTS</h3>
+  <div class="alpha">
+    <h1 data-aos="slide-down" class="activities_heading"> ACTIVITIES </h1><br>
+    <hr data-aos="slide-up" id="activity_rule" class="rule">
+  </div>
 
 
-            </div>
+  <div data-aos="zoom-in" class="activities_card_deck">
 
-            <div data-aos="zoom-in" class="activities_card" id="strengths_mag" onclick="strength()">
-                <img class="activities_card_image" src="/img/Activities/icon2.png" alt="SoCE IITK">
+    <div data-aos="zoom-in" class="activities_card" id="fun_event" onclick="fun()">
+      <img class="activities_card_image" src="/img/Activities/icon1.png" alt="SoCE IITK">
 
-                <h3>STRENGTHS MAGAZINE</h3>
-
-
-            </div>
-            <div data-aos="zoom-in" class="activities_card" id="talked" onclick="talks()">
-                <img class="activities_card_image" src="/img/Activities/icon3.png" alt="SoCE IITK">
-
-                <h3>ALUMNI <br> TALKS</h3>
+      <h3>FUN <br>EVENTS</h3>
 
 
-            </div>
-            <div data-aos="zoom-in" class="activities_card" id="get-together" onclick="departmental()">
-                <img class="activities_card_image" src="/img/Activities/icon4.png" alt="SoCE IITK">
+    </div>
 
-                <h3>DEPARTMENTAL GET-TOGETHER</h3>
+    <div data-aos="zoom-in" class="activities_card" id="strengths_mag" onclick="strength()">
+      <img class="activities_card_image" src="/img/Activities/icon2.png" alt="SoCE IITK">
 
-
-            </div>
-
-        </div>
-
-    </section>
+      <h3>STRENGTHS MAGAZINE</h3>
 
 
+    </div>
+    <div data-aos="zoom-in" class="activities_card" id="talked" onclick="talks()">
+      <img class="activities_card_image" src="/img/Activities/icon3.png" alt="SoCE IITK">
 
-    <%- include('activities/fun_events') %>
-        <%- include('activities/strength') %>
-        <%- include('activities/alumniTalks') %> 
-            <%- include('activities/departmental') %>
+      <h3>ALUMNI <br> TALKS</h3>
 
 
-                <script src="js/slider.js"></script>
+    </div>
+    <div data-aos="zoom-in" class="activities_card" id="get-together" onclick="departmental()">
+      <img class="activities_card_image" src="/img/Activities/icon4.png" alt="SoCE IITK">
 
-                <%- include('partials/footer') %>
+      <h3>DEPARTMENTAL GET-TOGETHER</h3>
+
+
+    </div>
+
+  </div>
+
+</section>
+
+
+
+<%- include('activities/fun_events') %>
+<%- include('activities/strength') %>
+<%- include('activities/alumniTalks') %>
+<%- include('activities/departmental') %>
+
+
+<script src="js/slider.js"></script>
+
+<%- include('partials/footer') %>
