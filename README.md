@@ -29,6 +29,7 @@
    * ├─── [fontawesome-free-5.15.4-web](public/fontawesome-free-5.15.4-web/)
    * ├─── [fonts](public/fonts/)
    * ├─── [img](public/img/)
+   * │  ├───blogs
    * │  │   ├───Ashutosh-Ranjan
    * │  │   ├───Chitwan-Garg
    * │  │   ├───Dishaa-Rajora
@@ -93,7 +94,7 @@
  * ├─── [LICENSE](LICENSE)
  * ├─── [README](README.md)
  * └─── [sitemap.xml](sitemap.xml)
-   
+
 
 #### Canva Site Layouts 📝 (Courtesy Shubham)
 
@@ -105,4 +106,3 @@
 
 
 #### Copyrights 2021, SoCE IITK
-
