@@ -69,7 +69,7 @@
      * ├─── [aos.js](public/js/aos.js)
      * ├─── [script.js](public/js/scriot.js)
      * └─── [slider.js](public/js/slider.js)
- * ├─── [views](views/)
+#### ├─── [views](views/)
    * ├─── [activities](views/activities/)
    * │ ├─── [alumniTalks.ejs](views/activities/alumniTalks.ejs)
    * │ ├─── [departmental.ejs](views/activities/departmental.ejs)
