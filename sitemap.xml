@@ -3,113 +3,118 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
   <url>
-    <loc>https://soce-iitk.herokuapp.com/</loc>
-    <lastmod>2021-12-06T12:42:48+00:00</lastmod>
+    <loc>http://soce-iitk.herokuapp.com/</loc>
+    <lastmod>2021-12-15T19:59:02+00:00</lastmod>
     <priority>1.00</priority>
   </url>
   <url>
-    <loc>https://soce-iitk.herokuapp.com/activities</loc>
-    <lastmod>2021-12-06T12:42:48+00:00</lastmod>
+    <loc>http://soce-iitk.herokuapp.com/activities</loc>
+    <lastmod>2021-12-15T19:59:02+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://soce-iitk.herokuapp.com/department</loc>
-    <lastmod>2021-12-06T12:42:48+00:00</lastmod>
+    <loc>http://soce-iitk.herokuapp.com/department</loc>
+    <lastmod>2021-12-15T19:59:02+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://soce-iitk.herokuapp.com/student-section</loc>
-    <lastmod>2021-12-06T12:42:48+00:00</lastmod>
+    <loc>http://soce-iitk.herokuapp.com/student-section</loc>
+    <lastmod>2021-12-15T19:59:02+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://soce-iitk.herokuapp.com/teams</loc>
-    <lastmod>2021-12-06T12:42:48+00:00</lastmod>
+    <loc>http://soce-iitk.herokuapp.com/teams</loc>
+    <lastmod>2021-12-15T19:59:02+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://soce-iitk.herokuapp.com/about</loc>
-    <lastmod>2021-12-06T12:42:48+00:00</lastmod>
+    <loc>http://soce-iitk.herokuapp.com/about</loc>
+    <lastmod>2021-12-15T19:59:02+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://soce-iitk.herokuapp.com/Jeetendra_Kumar_Patel</loc>
-    <lastmod>2021-12-06T12:42:48+00:00</lastmod>
+    <loc>http://soce-iitk.herokuapp.com/Dishant_Parewa</loc>
+    <lastmod>2021-12-15T19:59:02+00:00</lastmod>
     <priority>0.64</priority>
   </url>
   <url>
-    <loc>https://soce-iitk.herokuapp.com/Shuaib_Alam</loc>
-    <lastmod>2021-12-06T12:42:48+00:00</lastmod>
+    <loc>http://soce-iitk.herokuapp.com/Mudit_Kumar</loc>
+    <lastmod>2021-12-15T19:59:02+00:00</lastmod>
     <priority>0.64</priority>
   </url>
   <url>
-    <loc>https://soce-iitk.herokuapp.com/Chitwan_Garg</loc>
-    <lastmod>2021-12-06T12:42:48+00:00</lastmod>
+    <loc>http://soce-iitk.herokuapp.com/Rahul_Gauriyar</loc>
+    <lastmod>2021-12-15T19:59:02+00:00</lastmod>
     <priority>0.64</priority>
   </url>
   <url>
-    <loc>https://soce-iitk.herokuapp.com/Ashutosh_Ranjan</loc>
-    <lastmod>2021-12-06T12:42:48+00:00</lastmod>
+    <loc>http://soce-iitk.herokuapp.com/Gaurav_Kamboj</loc>
+    <lastmod>2021-12-15T19:59:02+00:00</lastmod>
     <priority>0.64</priority>
   </url>
   <url>
-    <loc>https://soce-iitk.herokuapp.com/Dishaa_Rajora</loc>
-    <lastmod>2021-12-06T12:42:48+00:00</lastmod>
+    <loc>http://soce-iitk.herokuapp.com/Krishna_Deo</loc>
+    <lastmod>2021-12-15T19:59:02+00:00</lastmod>
     <priority>0.64</priority>
   </url>
   <url>
-    <loc>https://soce-iitk.herokuapp.com/Krishan_Kumar</loc>
-    <lastmod>2021-12-06T12:42:48+00:00</lastmod>
+    <loc>http://soce-iitk.herokuapp.com/Vineet_Shukla</loc>
+    <lastmod>2021-12-15T19:59:02+00:00</lastmod>
     <priority>0.64</priority>
   </url>
   <url>
-    <loc>https://soce-iitk.herokuapp.com/Vishal_Agarwal</loc>
-    <lastmod>2021-12-06T12:42:48+00:00</lastmod>
+    <loc>http://soce-iitk.herokuapp.com/Rajat_Ghoshal</loc>
+    <lastmod>2021-12-15T19:59:02+00:00</lastmod>
     <priority>0.64</priority>
   </url>
   <url>
-    <loc>https://soce-iitk.herokuapp.com/Shashi_Shekhar</loc>
-    <lastmod>2021-12-06T12:42:48+00:00</lastmod>
+    <loc>http://soce-iitk.herokuapp.com/Samyak_Jain</loc>
+    <lastmod>2021-12-15T19:59:02+00:00</lastmod>
     <priority>0.64</priority>
   </url>
   <url>
-    <loc>https://soce-iitk.herokuapp.com/Samyak_Jain</loc>
-    <lastmod>2021-12-06T12:42:48+00:00</lastmod>
+    <loc>http://soce-iitk.herokuapp.com/Shashi_Shekhar</loc>
+    <lastmod>2021-12-15T19:59:02+00:00</lastmod>
     <priority>0.64</priority>
   </url>
   <url>
-    <loc>https://soce-iitk.herokuapp.com/Rajat_Ghoshal</loc>
-    <lastmod>2021-12-06T12:42:48+00:00</lastmod>
+    <loc>http://soce-iitk.herokuapp.com/Vishal_Agarwal</loc>
+    <lastmod>2021-12-15T19:59:02+00:00</lastmod>
     <priority>0.64</priority>
   </url>
   <url>
-    <loc>https://soce-iitk.herokuapp.com/Vineet_Shukla</loc>
-    <lastmod>2021-12-06T12:42:48+00:00</lastmod>
+    <loc>http://soce-iitk.herokuapp.com/Krishan_Kumar</loc>
+    <lastmod>2021-12-15T19:59:02+00:00</lastmod>
     <priority>0.64</priority>
   </url>
   <url>
-    <loc>https://soce-iitk.herokuapp.com/Krishna_Deo</loc>
-    <lastmod>2021-12-06T12:42:48+00:00</lastmod>
+    <loc>http://soce-iitk.herokuapp.com/Dishaa_Rajora</loc>
+    <lastmod>2021-12-15T19:59:02+00:00</lastmod>
     <priority>0.64</priority>
   </url>
   <url>
-    <loc>https://soce-iitk.herokuapp.com/Gaurav_Kamboj</loc>
-    <lastmod>2021-12-06T12:42:48+00:00</lastmod>
+    <loc>http://soce-iitk.herokuapp.com/Ashutosh_Ranjan</loc>
+    <lastmod>2021-12-15T19:59:02+00:00</lastmod>
     <priority>0.64</priority>
   </url>
   <url>
-    <loc>https://soce-iitk.herokuapp.com/Rahul_Gauriyar</loc>
-    <lastmod>2021-12-06T12:42:48+00:00</lastmod>
+    <loc>http://soce-iitk.herokuapp.com/Chitwan_Garg</loc>
+    <lastmod>2021-12-15T19:59:02+00:00</lastmod>
     <priority>0.64</priority>
   </url>
   <url>
-    <loc>https://soce-iitk.herokuapp.com/Mudit_Kumar</loc>
-    <lastmod>2021-12-06T12:42:48+00:00</lastmod>
+    <loc>http://soce-iitk.herokuapp.com/Shuaib_Alam</loc>
+    <lastmod>2021-12-15T19:59:02+00:00</lastmod>
     <priority>0.64</priority>
   </url>
   <url>
-    <loc>https://soce-iitk.herokuapp.com/Dishant_Parewa</loc>
-    <lastmod>2021-12-06T12:42:48+00:00</lastmod>
+    <loc>http://soce-iitk.herokuapp.com/Jeetendra_Kumar_Patel</loc>
+    <lastmod>2021-12-15T19:59:02+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>http://soce-iitk.herokuapp.com/team20</loc>
+    <lastmod>2021-12-15T19:59:02+00:00</lastmod>
     <priority>0.64</priority>
   </url>
 
