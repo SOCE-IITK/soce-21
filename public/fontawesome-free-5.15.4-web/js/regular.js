@@ -2,7 +2,7 @@
  * Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
  */
-(function () {
+(function() {
   'use strict';
 
   var _WINDOW = {};
@@ -14,8 +14,8 @@
   } catch (e) {}
 
   var _ref = _WINDOW.navigator || {},
-      _ref$userAgent = _ref.userAgent,
-      userAgent = _ref$userAgent === void 0 ? '' : _ref$userAgent;
+    _ref$userAgent = _ref.userAgent,
+    userAgent = _ref$userAgent === void 0 ? '' : _ref$userAgent;
 
   var WINDOW = _WINDOW;
   var DOCUMENT = _DOCUMENT;
@@ -24,7 +24,7 @@
   var IS_IE = ~userAgent.indexOf('MSIE') || ~userAgent.indexOf('Trident/');
 
   var NAMESPACE_IDENTIFIER = '___FONT_AWESOME___';
-  var PRODUCTION = function () {
+  var PRODUCTION = function() {
     try {
       return "production" === 'production';
     } catch (e) {
@@ -63,12 +63,12 @@
       var ownKeys = Object.keys(source);
 
       if (typeof Object.getOwnPropertySymbols === 'function') {
-        ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function (sym) {
+        ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
           return Object.getOwnPropertyDescriptor(source, sym).enumerable;
         }));
       }
 
-      ownKeys.forEach(function (key) {
+      ownKeys.forEach(function(key) {
         _defineProperty(target, key, source[key]);
       });
     }
@@ -86,8 +86,8 @@
   function defineIcons(prefix, icons) {
     var params = arguments.length > 2 && arguments[2] !== undefined ? arguments[2] : {};
     var _params$skipHooks = params.skipHooks,
-        skipHooks = _params$skipHooks === void 0 ? false : _params$skipHooks;
-    var normalized = Object.keys(icons).reduce(function (acc, iconName) {
+      skipHooks = _params$skipHooks === void 0 ? false : _params$skipHooks;
+    var normalized = Object.keys(icons).reduce(function(acc, iconName) {
       var icon = icons[iconName];
       var expanded = !!icon.icon;
 
@@ -273,7 +273,7 @@
     "window-restore": [512, 512, [], "f2d2", "M464 0H144c-26.5 0-48 21.5-48 48v48H48c-26.5 0-48 21.5-48 48v320c0 26.5 21.5 48 48 48h320c26.5 0 48-21.5 48-48v-48h48c26.5 0 48-21.5 48-48V48c0-26.5-21.5-48-48-48zm-96 464H48V256h320v208zm96-96h-48V144c0-26.5-21.5-48-48-48H144V48h320v320z"]
   };
 
-  bunker(function () {
+  bunker(function() {
     defineIcons('far', icons);
   });
 
