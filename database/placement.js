@@ -1,5 +1,4 @@
-var chats = [
-  {
+var chats = [{
     name: "Dishant Parewa (Y17)",
     work: "IIFL",
     text: "Greetings Everyone! My name is Dishant Parewa, currently placed as a Software Developer at IIFL and today I am going to share my story. I hope many students will relate to it.",
