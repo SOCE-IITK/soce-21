@@ -15,7 +15,7 @@
 | <code><img height="80" src = "public/img/team/w5.jpg"> | [**Yuvraj Singh**](https://github.com/Yuvraj1171) | syuvraj20@iitk.ac.in |
 
 ## Repository Tree 📄
-#### ├─── [database](database/)   
+### ├─── [database](database/)   
    * ├─── [achievement.js ](database/achievement.js)
    * ├─── [alumni.js](database/alumni.js)
    * ├─── [coordi.js](database/coordi.js)
@@ -27,7 +27,7 @@
    * └─── [web.js](database/web.js)
 
 
-#### ├─── [public](public)
+### ├─── [public](public)
    * ├─── [css](public/css/)
    * ├─── [fontawesome-free-5.15.4-web](public/fontawesome-free-5.15.4-web/)
    * ├─── [fonts](public/fonts/)
@@ -73,7 +73,7 @@
      * └─── [slider.js](public/js/slider.js)
 
 
-#### ├─── [views](views/)
+### ├─── [views](views/)
    * ├─── [activities](views/activities/)
    * │ ├─── [alumniTalks.ejs](views/activities/alumniTalks.ejs)
    * │ ├─── [departmental.ejs](views/activities/departmental.ejs)
@@ -102,10 +102,10 @@
    * ├─── [teams.ejs](views/activities/teams.ejs)
    * └─── [teams20.ejs](views/activities/teams20.ejs)
 
-#### ├─── [app.js](app.js)   
-#### ├─── [LICENSE](LICENSE)
-#### ├─── [README](README.md)
-#### └─── [sitemap.xml](sitemap.xml)
+### ├─── [app.js](app.js)   
+### ├─── [LICENSE](LICENSE)
+### ├─── [README](README.md)
+### └─── [sitemap.xml](sitemap.xml)
 
 
 #### Canva Site Layouts 📝 (Courtesy Shubham)
