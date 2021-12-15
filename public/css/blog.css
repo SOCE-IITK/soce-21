@@ -143,6 +143,8 @@ a :hover {
   }
 
   body {
+      background-color: black;
+      background-image: linear-gradient(0deg, #161E54, #1C0C5B);
     width: 100vw;
     font-size: 4vw;
   }
