@@ -15,7 +15,7 @@
 | <code><img height="80" src = "public/img/team/w5.jpg"> | [**Yuvraj Singh**](https://github.com/Yuvraj1171) | syuvraj20@iitk.ac.in |
 
 ## Repository Tree 📄
- * ├─── [database](database/)   
+#### ├─── [database](database/)   
    * ├─── [achievement.js ](database/achievement.js)
    * ├─── [alumni.js](database/alumni.js)
    * ├─── [coordi.js](database/coordi.js)
@@ -25,7 +25,7 @@
    * ├─── [secretary.js](database/secretary.js)
    * ├─── [team20](database/team20)
    * └─── [web.js](database/web.js)
-* ├─── [public](public)
+#### ├─── [public](public)
    * ├─── [css](public/css/)
    * ├─── [fontawesome-free-5.15.4-web](public/fontawesome-free-5.15.4-web/)
    * ├─── [fonts](public/fonts/)
