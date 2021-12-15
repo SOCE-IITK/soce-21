@@ -51,6 +51,9 @@ body {
   margin-top: 2vh;
 }
 
+
+/* HEAD CSS */
+
 .head {
   font: small-caps bold 24px/1 sans-serif;
   font-size: 7vh;
@@ -70,6 +73,8 @@ body {
   /* padding-bottom:5vmin; */
   width: 70vw;
 }
+
+/* BLOG CSS */
 
 .blog {
   font: 1em ;
