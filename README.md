@@ -23,11 +23,12 @@
    * ├─── [faculty.js](database/faculty.js)
    * ├─── [placement.js](database/placement.js)
    * ├─── [secretary.js](database/secretary.js)
+   * ├─── [team20](database/team20)
    * └─── [web.js](database/web.js)
- * ├─── [public](public)
+   * ├─── [public](public)
    * ├─── [css](public/css/)
    * ├─── [fontawesome-free-5.15.4-web](public/fontawesome-free-5.15.4-web/)
-   * ├─── [fonts](public/fonts/)
+  * ├─── [fonts](public/fonts/)
    * ├─── [img](public/img/)
    * │  ├───Activities
    * │  │   ├───alumtalk
