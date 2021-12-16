@@ -103,8 +103,8 @@ Copyrights 2021, SoCE IITK
 
 ### List of items
 -  .gitignore
--  LICENSE
--  Procfile
+-  [LICENSE](LICENSE)
+-  [Procfile](Procfile)
 -  README.md
 -  app.js
 -  database/achievement.js
