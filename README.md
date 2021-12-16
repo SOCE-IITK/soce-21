@@ -101,7 +101,7 @@ Copyrights 2021, SoCE IITK
 ### └─── [sitemap.xml](sitemap.xml)
 
 
-### List of items
+### List of files
 -  [.gitignore](.gitignore)
 -  [LICENSE](LICENSE)
 -  [Procfile](Procfile)
