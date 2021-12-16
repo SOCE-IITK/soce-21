@@ -135,7 +135,7 @@ var chats = [
     text: "Hello Everyone! Myself Chitwan Garg Y16, B-Tech graduate in Civil Engineering and a Double Major in Economics. I am a guy who did not have any significant extracurricular involvements during my first year except for those that were made compulsory to remain patriotic to our mother hall with hearts full of hall feeling :p (I enjoyed the escapes from HEC that I made with some of my wingies during takneek).",
     dp: "/img/Student-section/placement-postulates/dp/3.jpg",
     link: "/Chitwan_Garg",
-    thumbnail: "/img/Student-section/placement-postulates/thumbnail/3.jpg",
+    thumbnail: "/img/Student-section/placement-postulates/thumbnail/3.JPG",
     og: "Chitwan_Garg"
   },
 
