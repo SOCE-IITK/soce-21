@@ -134,9 +134,9 @@ Copyrights 2021, SoCE IITK
 -  [public/css/socicon.css](public/css/socicon.css)
 -  [public/css/student.css](public/css/student.css)
 -  [public/css/team.css](public/css/team.css)
--  public/fontawesome-free-5.15.4-web/LICENSE.txt
--  public/fontawesome-free-5.15.4-web/attribution.js
--  public/fontawesome-free-5.15.4-web/css/all.css
+-  [public/fontawesome-free-5.15.4-web/LICENSE.txt](public/fontawesome-free-5.15.4-web/LICENSE.txt)
+-  [public/fontawesome-free-5.15.4-web/attribution.js](public/fontawesome-free-5.15.4-web/attribution.js)
+-  [public/fontawesome-free-5.15.4-web/css/all.css](public/fontawesome-free-5.15.4-web/css/all.css)
 -  public/fontawesome-free-5.15.4-web/css/all.min.css
 -  public/fontawesome-free-5.15.4-web/css/brands.css
 -  public/fontawesome-free-5.15.4-web/css/brands.min.css
