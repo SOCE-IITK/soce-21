@@ -144,12 +144,12 @@ Copyrights 2021, SoCE IITK
 -  [public/fontawesome-free-5.15.4-web/css/fontawesome.min.css](public/fontawesome-free-5.15.4-web/css/fontawesome.min.css)
 -  [public/fontawesome-free-5.15.4-web/css/regular.css](public/fontawesome-free-5.15.4-web/css/regular.css)
 -  [public/fontawesome-free-5.15.4-web/css/regular.min.css](public/fontawesome-free-5.15.4-web/css/regular.min.css)
--  public/fontawesome-free-5.15.4-web/css/solid.css
+-  [public/fontawesome-free-5.15.4-web/css/solid.css](public/fontawesome-free-5.15.4-web/css/solid.css)
 -  [public/fontawesome-free-5.15.4-web/css/solid.min.css](public/fontawesome-free-5.15.4-web/css/solid.min.css)
--  public/fontawesome-free-5.15.4-web/css/svg-with-js.css
--  public/fontawesome-free-5.15.4-web/css/svg-with-js.min.css
--  public/fontawesome-free-5.15.4-web/css/v4-shims.css
--  public/fontawesome-free-5.15.4-web/css/v4-shims.min.css
+-  [public/fontawesome-free-5.15.4-web/css/svg-with-js.css](public/fontawesome-free-5.15.4-web/css/svg-with-js.css)
+-  [public/fontawesome-free-5.15.4-web/css/svg-with-js.min.css](public/fontawesome-free-5.15.4-web/css/svg-with-js.min.css)
+-  [public/fontawesome-free-5.15.4-web/css/v4-shims.css](public/fontawesome-free-5.15.4-web/css/v4-shims.css)
+-  [public/fontawesome-free-5.15.4-web/css/v4-shims.min.css](public/fontawesome-free-5.15.4-web/css/v4-shims.min.css)
 -  public/fontawesome-free-5.15.4-web/js/all.js
 -  [public/fontawesome-free-5.15.4-web/js/all.min.js](public/fontawesome-free-5.15.4-web/js/all.min.js)
 
