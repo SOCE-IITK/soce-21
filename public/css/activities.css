@@ -338,6 +338,46 @@ a {
   color: #88E0EF;
   cursor: pointer;
 }
+/* -----------------Alumni Talk--------------- */
+
+.alum_card_deck {
+  margin-top: 5%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.alum_card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  align-items: center;
+  width: 40vh;
+  margin: 2vh;
+}
+
+.alum_card :hover {
+  opacity: 1;
+}
+
+.alum_card h3 {
+  font-family: 'Jost', sans-serif;
+  padding: 12px 16px;
+  color: white;
+  background-color: #222222;
+  text-align: center;
+}
+
+.alum_card_image {
+  width: 100%;
+  opacity: 0.7;
+  margin-top: 2vh;
+}
+
+.alum_card_image :hover {
+  opacity: 1;
+}
+
 
 /* ----------------------------Strengths-------------------------------------------- */
 .strength {
@@ -388,10 +428,10 @@ a {
 }
 
 #talks {
+  background-image: url("/img/bg-default.png");
   display: none;
   min-height: 100vh;
   width: 100vw;
-  background-image: url("/img/bg-global.png");
   background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
@@ -400,7 +440,23 @@ a {
 /*-----Strengths' Magzine Media Query*/
 @media(max-width:700px) {
 
-  /* ---------------------fun events media queries------------------- */
+  /* ---------------------alum talk media queries------------------- */
+  .alum_card {
+    box-shadow: 0 4px 8px 0 #00000033;
+    transition: 0.3s;
+    align-items: center;
+    width: 60%;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    margin-right: 5%;
+  }
+
+  .alum_card_image {
+    opacity: 1;
+    border-style: solid;
+  }
+
   /* ---------------------magazine media queries------------------- */
   .magazine_card {
     box-shadow: 0 4px 8px 0 #00000033;
