@@ -62,7 +62,7 @@ Copyrights 2021, SoCE IITK
 -   │  └───team
 -   └─── [js](public/js/)
     -   ├─── [aos.js](public/js/aos.js)
-    -   ├─── [script.js](public/js/scriot.js)
+    -   ├─── [script.js](public/js/script.js)
     -   └─── [slider.js](public/js/slider.js)
 
 ### ├─── [views](views/)
