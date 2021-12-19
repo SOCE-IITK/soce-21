@@ -1,10 +1,7 @@
 # SoCE-IITK 2021
-
-<code><img height="100" src = "public/img/SoCE-logo.svg"></code>
-
+<code><img height="80" src = "public/img/SoCE-logo.svg"></code>
 
 ## SoCE IITK 2021 website @ [soce-iitk.herokuapp.com](https://soce-iitk.herokuapp.com/) 🎉🎉
-
 
 <code><img height="250" src = "public/ss/soce-pc.png"></code>
 <code><img height="250" src = "public/ss/soce-mobile.png"></code>
