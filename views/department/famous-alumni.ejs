@@ -10,10 +10,10 @@
         </div>
     </section>
 
-        <section class="faculty_section">
+    <section class="faculty_section">
 
-            <div class="container_faculty">
-                
+        <div class="container_faculty">
+
             <%alumni.forEach(function (alum){%>
                 <div class="card">
                     <div class="content">
@@ -21,16 +21,21 @@
                             <img loading="lazy" src=<%=alum.image%> title="Famous Alumni">
                         </div>
                         <div class="contentBx">
-                            <h3 style="color: #FACE7F;"><%=alum.name%> <br> <%=alum.batch%> <br> <span> <%=alum.post%>  </span></h3>
+                            <h3 style="color: #FACE7F;">
+                                <%=alum.name%> <br>
+                                    <%=alum.batch%> <br> <span>
+                                            <%=alum.post%>
+                                        </span>
+                            </h3>
                         </div>
                     </div>
 
                 </div>
                 <% }) %>
-            </div>
+        </div>
 
 
-        </section>
+    </section>
 
     <div style="text-align:center;">
         <i class="fas fa-chevron-up" style="color: #fff;" onclick="upAlumnus()" aria-hidden="true"></i>
