@@ -1,21 +1,29 @@
 <section id="achievements">
     <div class="alpha">
-        <h1 style="margin-top: 3%;" data-aos="slide-down" class="activities_heading about_heading"> AWARDS AND ACHIEVEMENTS </h1><br>
+        <h1 style="margin-top: 3%;" data-aos="slide-down" class="activities_heading about_heading"> AWARDS AND
+            ACHIEVEMENTS </h1><br>
         <hr data-aos="slide-up" id="achievements_rule" class="rule">
     </div>
 
     <div class="civil_card_deck">
-        <% award.forEach(function(awards){ %> 
-        <div data-aos="zoom-in" class="award_card">
-            
-            <ul style="color: #fff;">  <li> <h3><a target="_blank"><%=awards.text%></a> </li> </ul><br>
-        </h3>
-    
-        </div>
-        <% }) %> 
-      </div>
+        <% award.forEach(function(awards){ %>
+            <div data-aos="zoom-in" class="award_card">
+
+                <ul style="color: #fff;">
+                    <li>
+                        <h3><a target="_blank">
+                                <%=awards.text%>
+                            </a>
+                    </li>
+                </ul><br>
+                </h3>
+
+            </div>
+            <% }) %>
+    </div>
 
     <div style="text-align:center;">
-        <i class="fas fa-chevron-up" style="color: #fff; margin-bottom: 15px;" onclick="upAchievements()" aria-hidden="true"></i>
+        <i class="fas fa-chevron-up" style="color: #fff; margin-bottom: 15px;" onclick="upAchievements()"
+            aria-hidden="true"></i>
     </div>
 </section>
