@@ -1,0 +1,88 @@
+#project-form{
+    margin-bottom: 5%;
+    color: #fff;
+    font-family: 'Oswald', sans-serif;
+}
+#project-form a{
+    color: aqua;
+    text-decoration: underline ;
+}
+
+.project_ul{
+    list-style-type: none;
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
+.project_ul li{
+    color: #fff;
+    margin-left: 5%;
+}
+#project_title{
+    color: #fff;
+    font-size: 1.5rem;
+}
+#specific{
+    margin-top: 1%;
+}
+.govind{
+    font-size:1.2rem;
+    letter-spacing:1px;
+    line-height:2;
+    color: #fff;
+}
+#specific li h2{
+    color: rgb(231, 189, 89);
+}
+
+.project_line{
+    margin-left: 0%;
+    width: 70vw;
+    margin-top: 0.5%;
+    border: 1px solid #fff;
+}
+
+@media(max-width:1024px){
+    .project_line{
+        width: 90vw;
+    }
+    .project_ul li{
+        color: #fff;
+        margin-left: 3%;
+    }
+   
+}
+
+@media(max-width:768px){
+    #project-form{
+        margin:1.5%;
+        margin-bottom: 8%;
+        line-height: 1;
+    }
+   #project-form h1{
+       font-size:1rem ;
+   }
+   #project-form small{
+       font-size: 0.8rem;
+   }
+    .project_line{
+        width: 95vw;
+    }
+    .project_ul li{
+        color: #fff;
+        margin-left: 3%;
+        margin-right: 2%;
+    }
+    #project_title{
+        color: #fff;
+        font-size: 1rem;
+    }
+    .govind{
+        font-size:1rem;
+        letter-spacing:0.5px;
+        line-height:1.5;
+        color: #fff;
+    }
+
+    #specific li h2{
+        font-size: 1rem;
+    }
+}

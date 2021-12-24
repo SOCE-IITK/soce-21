@@ -67,6 +67,10 @@ app.get("/team20", (req, res) => {
   });
 });
 
+app.get('/projects',(req,res)=>{
+  res.render('project',{title:"Projects"})
+})
+
 app.get("/sitemap.xml", (req, res) => {
   res.contentType("application/xml");
   res.sendFile(path.join(__dirname, "sitemap.xml"));
