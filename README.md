@@ -8,7 +8,7 @@
 
 Copyrights 2021, SoCE IITK
 
-## Website Developed By 💻
+## 💻 Website Developed By 
 
 | Photo                                                  | Name                                                  | Email                  |
 | ------------------------------------------------------ | ----------------------------------------------------- | ---------------------- |
@@ -20,7 +20,7 @@ Copyrights 2021, SoCE IITK
 | <code><img height="80" src = "public/img/team/w5.jpg"> | [**Yuvraj Singh**](https://github.com/Yuvraj1171)     | syuvraj20@iitk.ac.in   |
 
 
-## Repository Tree 📄
+## 📄 Repository Tree 
 
 ### ├─── [database](database/)
 
@@ -157,7 +157,7 @@ Copyrights 2021, SoCE IITK
 -  [public/fontawesome-free-5.15.4-web/js/all.min.js](public/fontawesome-free-5.15.4-web/js/all.min.js)
 
 
-#### Canva Site Layouts 📝 (Courtesy Shubham)
+#### 📝 Canva Site Layouts (Courtesy Shubham)
 
 -   [SoCE Website](https://www.canva.com/design/DAEsiQTOrrM/Tq0m9SvyOg_elmVW0HdLgA/view?website#2:title-page)
 -   [About-Us](https://www.canva.com/design/DAEuaxDQGYc/XGKazHkNxQipher1FWnJDQ/view?website#2)
