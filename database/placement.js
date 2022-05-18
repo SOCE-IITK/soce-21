@@ -1,5 +1,14 @@
 var chats = [
   {
+    name: "Yashkrit Gupta",
+    work: "Barclays",
+    text: "Hey Everyone, This is Yashkrit Gupta, a Final year UG student in civil engineering, currently placed in Barclays for the Quantitative Analyst role. Through this blog, I would love to share the journey of my placement season. This blog will be centered around my experience.",
+    dp: "/img/Student-section/placement-postulates/dp/17.jpg",
+    link: "/Yashkrit_Gupta",
+    thumbnail: "/img/Student-section/placement-postulates/thumbnail/17.jpg",
+    og: "Yashkrit_Gupta"
+  },
+  {
     name: "Dishant Parewa (Y17)",
     work: "IIFL",
     text: "Greetings Everyone! My name is Dishant Parewa, currently placed as a Software Developer at IIFL and today I am going to share my story. I hope many students will relate to it.",
