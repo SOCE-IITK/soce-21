@@ -1,6 +1,15 @@
 var chats = [
   {
-    name: "Yashkrit Gupta",
+    name: "Naman Jain (Y18)",
+    work: "Clear Tax",
+    text: "Hello everyone, this is Naman Jain, a final year undergraduate student pursuing Civil Engineering currently placed in Clear Tax as Business Analyst. This postulate will be more focused on my experience rather than preparation tips. Honestly, I don’t have much to share on the preparation side, as I did the minimalist preparation possible.",
+    dp: "/img/Student-section/placement-postulates/dp/18.jpg",
+    link: "/Naman_Jain",
+    thumbnail: "/img/Student-section/placement-postulates/thumbnail/18.jpg",
+    og: "Naman_Jain"
+  },
+  {
+    name: "Yashkrit Gupta (Y18)",
     work: "Barclays",
     text: "Hey Everyone, This is Yashkrit Gupta, a Final year UG student in civil engineering, currently placed in Barclays for the Quantitative Analyst role. Through this blog, I would love to share the journey of my placement season. This blog will be centered around my experience.",
     dp: "/img/Student-section/placement-postulates/dp/17.jpg",
