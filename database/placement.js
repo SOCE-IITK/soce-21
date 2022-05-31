@@ -1,5 +1,14 @@
 var chats = [
   {
+    name: "Neha Aggarwal (Y18)",
+    work: "Zomato",
+    text: "I am Neha Aggarwal, a final year undergraduate majoring in Civil Engineering and hoping to complete my minors in IME. I will be joining Zomato as a Product Engineer (SDE 1). In my 3rd year summers, I did a Data Science internship in Mobileum Inc which was not from campus internship season.",
+    dp: "/img/Student-section/placement-postulates/dp/19.jpg",
+    link: "/Neha-Aggarwal",
+    thumbnail: "/img/Student-section/placement-postulates/thumbnail/19.jpg",
+    og: "Neha_Aggarwal"
+  },
+  {
     name: "Naman Jain (Y18)",
     work: "Clear Tax",
     text: "Hello everyone, this is Naman Jain, a final year undergraduate student pursuing Civil Engineering currently placed in Clear Tax as Business Analyst. This postulate will be more focused on my experience rather than preparation tips. Honestly, I don’t have much to share on the preparation side, as I did the minimalist preparation possible.",
