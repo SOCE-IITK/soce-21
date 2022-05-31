@@ -4,7 +4,7 @@ var chats = [
     work: "Zomato",
     text: "I am Neha Aggarwal, a final year undergraduate majoring in Civil Engineering and hoping to complete my minors in IME. I will be joining Zomato as a Product Engineer (SDE 1). In my 3rd year summers, I did a Data Science internship in Mobileum Inc which was not from campus internship season.",
     dp: "/img/Student-section/placement-postulates/dp/19.jpg",
-    link: "/Neha-Aggarwal",
+    link: "/Neha_Aggarwal",
     thumbnail: "/img/Student-section/placement-postulates/thumbnail/19.jpg",
     og: "Neha_Aggarwal"
   },
