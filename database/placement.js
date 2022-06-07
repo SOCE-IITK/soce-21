@@ -1,5 +1,14 @@
 var chats = [
   {
+    name: "Mradul Chaudhary (Y18)",
+    work: "Samagra",
+    text: "Hi, I am Mradul Chaudhary, incoming associate consultant at Samagra. 2 Most important attributes that flipped cards for me were Confidence and Communication. My placement experience will be a little different from other blogs because I got placed off-campus before placement season.",
+    dp: "/img/Student-section/placement-postulates/dp/20.jpg",
+    link: "/Mradul_Chaudhary",
+    thumbnail: "/img/Student-section/placement-postulates/thumbnail/20.jpg",
+    og: "Mradul_Chaudhary"
+  },
+  {
     name: "Neha Aggarwal (Y18)",
     work: "Zomato",
     text: "I am Neha Aggarwal, a final year undergraduate majoring in Civil Engineering and hoping to complete my minors in IME. I will be joining Zomato as a Product Engineer (SDE 1). In my 3rd year summers, I did a Data Science internship in Mobileum Inc which was not from campus internship season.",
