@@ -1,5 +1,5 @@
 var alumni = [{
-    name: "Mr. Yadupati Sunghania",
+    name: "Mr. Yadupati Singhania",
     batch: "(BT/CE/1977)",
     post: "Chairman/MD, JK Cements Ltd.",
     image: "/img/Department/alumni/yadupati.jpg",
