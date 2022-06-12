@@ -1,5 +1,14 @@
 var chats = [
   {
+    name: "Piyush Senwal (Y18)",
+    work: "Micron Technology",
+    text: "Hi everyone, this is Piyush Senwar, who will be joining Micron Technology as an Associate Data Science Engineer. Through this postulate, I would like to take you to my placement journey, what challenges I faced, a bit of my journey on how I got into data science,",
+    dp: "/img/Student-section/placement-postulates/dp/21.jpg",
+    link: "/Piyush_Senwal",
+    thumbnail: "/img/Student-section/placement-postulates/thumbnail/21.jpg",
+    og: "Piyush_Senwal"
+  },
+  {
     name: "Mradul Chaudhary (Y18)",
     work: "Samagra",
     text: "Hi, I am Mradul Chaudhary, incoming associate consultant at Samagra. 2 Most important attributes that flipped cards for me were Confidence and Communication. My placement experience will be a little different from other blogs because I got placed off-campus before placement season.",
