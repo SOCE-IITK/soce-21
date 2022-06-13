@@ -71,15 +71,6 @@ var secy = [{
   //     image: "/img/team/d2.jpg"
   // },
   {
-    name: "Mushtaq Ahmed",
-    post: "Secretary, Design",
-    fb: "https://www.facebook.com/mushtaq.kohli.148",
-    insta: "https://www.instagram.com/_mushtaq_18_/%22%22",
-    linkedin: "https://www.linkedin.com/in/mushtaq-ahmed-b7b3231b4",
-    mail: "mailto:amushtaq20@iitk.ac.in",
-    image: "img/team/d3.jpg"
-  },
-  {
     name: "Shruti Hansika",
     post: "Secretary, Design",
     fb: "https://www.facebook.com/shruti.hansika",
@@ -97,15 +88,6 @@ var secy = [{
   //     mail: "mailto:shubhamku20@iitk.ac.in",
   //     image: "img/team/d5.jpg"
   // },
-  {
-    name: "Anushka Pal",
-    post: "Secretary, Events",
-    fb: "https://www.facebook.com/profile.php?id=100058689681474",
-    insta: "#",
-    linkedin: "#",
-    mail: "mailto:anushkap20@iitk.ac.in",
-    image: "img/team/e1.jpg"
-  },
   {
     name: "Mandvi Rajpoot",
     post: "Secretary, Events",
@@ -188,15 +170,6 @@ var secy = [{
     image: "img/team/f3.jpg"
   },
   {
-    name: "Swati Kumari",
-    post: "Secretary, Finance",
-    fb: "https://www.facebook.com/profile.php?id=100056586146526",
-    insta: "https://instagram.com/swati_dev123?utm_medium=copy_link",
-    linkedin: "https://www.linkedin.com/in/swati-kumari-a86426209",
-    mail: "mailto:swatik20@iitk.ac.in",
-    image: "img/team/f4.jpg"
-  },
-  {
     name: "Ashish Gautam",
     post: "Secretary, Marketing",
     fb: "https://www.facebook.com/profile.php?id=100009844478632",
@@ -231,15 +204,6 @@ var secy = [{
     linkedin: "https://www.linkedin.com/in/shivangi-nauhwar-044b12217/",
     mail: "mailto:shivangi20@iitk.ac.in",
     image: "img/team/m4.jpg"
-  },
-  {
-    name: "Tanu Denwal",
-    post: "Secretary, Marketing",
-    fb: "https://www.facebook.com/tanu.denwal.7",
-    insta: "https://instagram.com/_taniya_0511?utm_medium=copy_link",
-    linkedin: "https://soce-iitk.github.io/soce/sections/team/",
-    mail: "mailto:tanudenwal20@iitk.ac",
-    image: "img/team/m5.jpg"
   },
 
 
