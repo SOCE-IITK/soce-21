@@ -1,12 +1,4 @@
-var web = [{
-    name: "Akshat Arya",
-    post: "Secretary, Web Development",
-    fb: "https://www.facebook.com/profile.php?id=100057133705422",
-    insta: "https://www.instagram.com/forget_that__/",
-    linkedin: "https://www.linkedin.com/in/akshat-arya-4b0318202/",
-    mail: "mailto:akshatarya20@iitk.ac.in",
-    image: "img/team/w1.jpg"
-  },
+var web = [
   {
     name: "Aman Kumar Singh",
     post: "Secretary, Design",
