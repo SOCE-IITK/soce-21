@@ -14,6 +14,9 @@ const award = require("./database/achievement");
 const web = require("./database/web");
 const cordi19 = require("./database/team20/cordi19");
 const secy19 = require("./database/team20/secy19");
+const cordi20 = require("./database/team21/cordi20");
+const secy20 = require("./database/team21/secy20");
+const web20 = require("./database/team21/web20");
 
 const PORT = process.env.PORT || 3000;
 
@@ -64,6 +67,15 @@ app.get("/team20", (req, res) => {
     secy19: secy19,
     cordi19: cordi19,
     title: "Team 2020",
+  });
+});
+
+app.get("/team21", (req, res) => {
+  res.render("teams21", {
+    secy20: secy20,
+    cordi20: cordi20,
+    web20: web20,
+    title: "Team 2021",
   });
 });
 
