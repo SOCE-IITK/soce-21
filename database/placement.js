@@ -1,5 +1,14 @@
 var chats = [
   {
+    name: "Samyak Jain (Y18)",
+    work: "Amazon",
+    text: "Hi Everyone; I am Samyak Jain, a senior undergrad in Civil Engineering. I am currently placed at Amazon as a Software Development Engineer-I (SDE-I).",
+    dp: "/img/Student-section/placement-postulates/dp/22.jpg",
+    link: "/Samyak_Jain_Y18",
+    thumbnail: "/img/Student-section/placement-postulates/thumbnail/22.jpg",
+    og: "Samyak_Jain_Y18"
+  },
+  {
     name: "Piyush Senwar (Y18)",
     work: "Micron Technology",
     text: "Hi everyone, this is Piyush Senwar, who will be joining Micron Technology as an Associate Data Science Engineer. Through this postulate, I would like to take you to my placement journey, what challenges I faced, a bit of my journey on how I got into data science,",
