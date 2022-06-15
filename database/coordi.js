@@ -32,7 +32,7 @@ var cordi = [{
     insta: "https://www.instagram.com/shubham.kumar_007/",
     linkedin: "https://www.linkedin.com/mwlite/in/shubham-kumar-9926b9209",
     mail: "mailto:shubhamku20@iitk.ac.in",
-    image: "img/team/cordi4.jpg"
+    image: "img/team/cordi4.jpeg"
   }
 ]
 
