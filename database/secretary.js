@@ -289,10 +289,10 @@ var secy = [{
 {
   name: "Ishu Singh",
   post: "Secretary Marketing & Finance",
-  fb: "",
-  insta: "",
-  linkedin: "",
-  mail: "mailto:",
+  fb: "https://www.facebook.com/profile.php?id=100008697333618",
+  insta: "http://instgram.com/ishu_iitk",
+  linkedin: "https://www.linkedIn.com/in/ishu-singh-58a484242",
+  mail: "mailto:ishusingh21@iitk.ac.in ",
   image: "img/team/m5.jpg"
 },
 {
