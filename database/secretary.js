@@ -95,7 +95,7 @@ var secy = [{
   insta: "https://instagram.com/shaliniii_2206?igshid=YmMyMTA2M2Y=",
   linkedin: "https://www.linkedin.com/in/shalini-kurva-a05640232",
   mail: "mailto:shalini21@iitk.ac.in",
-  image: "img/team/c5.jpg"
+  image: "img/team/d4.jpg"
 },
 {
   name: "Prateek Mishra",
@@ -104,7 +104,7 @@ var secy = [{
   insta: "",
   linkedin: "",
   mail: "mailto:mprateek21@iitk.ac.in",
-  image: "img/team/c5.jpg"
+  image: "img/team/d5.jpg"
 },
 {
   name: "Sanchit Hari",
@@ -113,7 +113,7 @@ var secy = [{
   insta: "",
   linkedin: "https://www.linkedin.com/in/sanchithari",
   mail: "mailto:sanchit21@iitk.ac.in",
-  image: "img/team/c5.jpg"
+  image: "img/team/d6.jpg"
 },
 {
   name: "Sanju Kakerwar",
@@ -122,7 +122,7 @@ var secy = [{
   insta: "www.instagram.com/_.sanjukakerwar._/",
   linkedin: "",
   mail: "mailto:sanjuk21@iitk.ac.in",
-  image: "img/team/c5.jpg"
+  image: "img/team/d7.jpg"
 },
 {
   name: "Abhiraj Singh",
