@@ -2,7 +2,7 @@ var cordi = [{
     name: "Aman Kumar Singh",
     post: "Coordinator",
     fb: "https://www.facebook.com/amanks20",
-    insta: "https://www.instagram.com/protonaman",
+    insta: "https://www.instagram.com/amanks20a",
     linkedin: "https://www.linkedin.com/in/amanks20/",
     mail: "mailto:amanks20@iitk.ac.in",
     image: "img/team/cordi1.jpg"
