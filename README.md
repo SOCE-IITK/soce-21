@@ -12,12 +12,12 @@ Copyrights 2021, SoCE IITK
 
 | Photo                                                  | Name                                                  | Email                  |
 | ------------------------------------------------------ | ----------------------------------------------------- | ---------------------- |
-| <code><img height="80" src = "public/img/team/d2.jpg"> | [**Aman Kumar Singh**](https://github.com/amanks-20)  | amanks20@iitk.ac.in    |
-| <code><img height="80" src = "public/img/team/w2.jpg"> | [**Faiza Khan**](https://github.com/faizak31)         | faizakhan20@iitk.ac.in |
-| <code><img height="80" src = "public/img/team/w3.jpg"> | [**Kumar Abhishek**](https://github.com/kabhishek20)  | kabhishek20@iitk.ac.in |
-| <code><img height="80" src = "public/img/team/w4.jpg"> | [**Saurabh Sahay**](https://github.com/sahay-saurabh) | ssahay20@iitk.ac.in    |
-| <code><img height="80" src = "public/img/team/d5.jpg"> | [**Shubham Kumar**](https://github.com/Shubham-707)   | shubhamku20@iitk.ac.in |
-| <code><img height="80" src = "public/img/team/w5.jpg"> | [**Yuvraj Singh**](https://github.com/Yuvraj1171)     | syuvraj20@iitk.ac.in   |
+| <code><img height="80" src = "public/img/team/team21/d2.jpg"> | [**Aman Kumar Singh**](https://github.com/amanks-20)  | amanks20@iitk.ac.in    |
+| <code><img height="80" src = "public/img/team/team21/w2.jpg"> | [**Faiza Khan**](https://github.com/faizak31)         | faizakhan20@iitk.ac.in |
+| <code><img height="80" src = "public/img/team/team21/w3.jpg"> | [**Kumar Abhishek**](https://github.com/kabhishek20)  | kabhishek20@iitk.ac.in |
+| <code><img height="80" src = "public/img/team/team21/w4.jpg"> | [**Saurabh Sahay**](https://github.com/sahay-saurabh) | ssahay20@iitk.ac.in    |
+| <code><img height="80" src = "public/img/team/team21/d5.jpg"> | [**Shubham Kumar**](https://github.com/Shubham-707)   | shubhamku20@iitk.ac.in |
+| <code><img height="80" src = "public/img/team/team21/w5.jpg"> | [**Yuvraj Singh**](https://github.com/Yuvraj1171)     | syuvraj20@iitk.ac.in   |
 
 
 ## 📄 Repository Tree 
