@@ -67,7 +67,7 @@ var secy = [{
   fb: " ",
   insta: "",
   linkedin: "",
-  mail: "mailto:",
+  mail: "mailto:arneshd21@iitk.ac.in ",
   image: "img/team/d1.jpg"
 },
 {
