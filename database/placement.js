@@ -1,5 +1,15 @@
 var chats = [
   {
+    name: "Aditya Dikshit(Y18)",
+    work: "Accenture Strategy",
+    text: "Hello everyone ,    I am Aditya Dikshit, a final year undergraduate (Y18) in Civil Engineering. I have secured an Associate role at Accenture Strategy in Phase 1 of the placement season 2021-22.",
+    dp: "/img/Student-section/placement-postulates/dp/23.jpg",
+    link: "/Aditya_Dikshit",
+    thumbnail: "/img/Student-section/placement-postulates/thumbnail/23.jpg",
+    og: "Aditya_Dikshit"
+  },
+
+  {
     name: "Samyak Jain (Y18)",
     work: "Amazon",
     text: "Hi Everyone; I am Samyak Jain, a senior undergrad in Civil Engineering. I am currently placed at Amazon as a Software Development Engineer-I (SDE-I).",
@@ -8,6 +18,7 @@ var chats = [
     thumbnail: "/img/Student-section/placement-postulates/thumbnail/22.jpg",
     og: "Samyak_Jain_Y18"
   },
+
   {
     name: "Piyush Senwar (Y18)",
     work: "Micron Technology",
@@ -26,6 +37,7 @@ var chats = [
     thumbnail: "/img/Student-section/placement-postulates/thumbnail/20.jpg",
     og: "Mradul_Chaudhary"
   },
+
   {
     name: "Neha Aggarwal (Y18)",
     work: "Zomato",
@@ -35,6 +47,7 @@ var chats = [
     thumbnail: "/img/Student-section/placement-postulates/thumbnail/19.jpg",
     og: "Neha_Aggarwal"
   },
+
   {
     name: "Naman Jain (Y18)",
     work: "Clear Tax",
@@ -44,6 +57,7 @@ var chats = [
     thumbnail: "/img/Student-section/placement-postulates/thumbnail/18.jpg",
     og: "Naman_Jain"
   },
+
   {
     name: "Yashkrit Gupta (Y18)",
     work: "Barclays",
@@ -53,6 +67,7 @@ var chats = [
     thumbnail: "/img/Student-section/placement-postulates/thumbnail/17.jpg",
     og: "Yashkrit_Gupta"
   },
+  
   {
     name: "Dishant Parewa (Y17)",
     work: "IIFL",
