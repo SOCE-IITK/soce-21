@@ -1,6 +1,15 @@
 var chats = [
   {
-    name: "Aditya Dikshit(Y18)",
+    name: "Gaurav Jiwan (Y18)",
+    work: "PwC",
+    text: "Hi there! I am Gaurav Jiwan (Y18, CE) and was placed in PwC in their consulting practice during the 2021-22 placement season. The previous accounts on the SoCE page have done an exceptional job in explaining the technicalities of placements and I highly recommend going through them.",
+    dp: "/img/Student-section/placement-postulates/dp/24.jpg",
+    link: "/Gaurav_Jiwan",
+    thumbnail: "/img/Student-section/placement-postulates/thumbnail/24.png",
+    og: "Gaurav_Jiwan"
+  },
+  {
+    name: "Aditya Dikshit (Y18)",
     work: "Accenture Strategy",
     text: "Hello everyone ,    I am Aditya Dikshit, a final year undergraduate (Y18) in Civil Engineering. I have secured an Associate role at Accenture Strategy in Phase 1 of the placement season 2021-22.",
     dp: "/img/Student-section/placement-postulates/dp/23.jpg",
