@@ -1,5 +1,14 @@
 var chats = [
   {
+    name: "Yashvardhan Raizada (Y18)",
+    work: "Microsoft",
+    text: "Hi there! I am Gaurav Jiwan (Y18, CE) and was placed in PwC in their consulting practice during the 2021-22 placement season. The previous accounts on the SoCE page have done an exceptional job in explaining the technicalities of placements and I highly recommend going through them.",
+    dp: "/img/Student-section/placement-postulates/dp/25.jpg",
+    link: "/Yashvardhan_Raizada",
+    thumbnail: "/img/Student-section/placement-postulates/thumbnail/25.png",
+    og: "Yashvardhan_Raizada"
+  },
+  {
     name: "Gaurav Jiwan (Y18)",
     work: "PwC",
     text: "Hi there! I am Gaurav Jiwan (Y18, CE) and was placed in PwC in their consulting practice during the 2021-22 placement season. The previous accounts on the SoCE page have done an exceptional job in explaining the technicalities of placements and I highly recommend going through them.",
