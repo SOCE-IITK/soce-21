@@ -1,6 +1,6 @@
 var chats = [
   {
-    name: "Yashvardhan Raizada (Y18)",
+    name: "Yash Vardhan Raizada (Y18)",
     work: "Microsoft",
     text: "Hi there! I am Yash Vardhan Raizada, currently a Final Year Undergraduate in the Department of Civil Engineering at IIT Kanpur. In the upcoming summers, after graduating, I will be joining Microsoft as a full-time employee in the role of Software Engineer.",
     dp: "/img/Student-section/placement-postulates/dp/25.jpg",
