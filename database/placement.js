@@ -2,7 +2,7 @@ var chats = [
   {
     name: "Yashvardhan Raizada (Y18)",
     work: "Microsoft",
-    text: "Hi there! I am Gaurav Jiwan (Y18, CE) and was placed in PwC in their consulting practice during the 2021-22 placement season. The previous accounts on the SoCE page have done an exceptional job in explaining the technicalities of placements and I highly recommend going through them.",
+    text: "Hi there! I am Yash Vardhan Raizada, currently a Final Year Undergraduate in the Department of Civil Engineering at IIT Kanpur. In the upcoming summers, after graduating, I will be joining Microsoft as a full-time employee in the role of Software Engineer.",
     dp: "/img/Student-section/placement-postulates/dp/25.jpg",
     link: "/Yashvardhan_Raizada",
     thumbnail: "/img/Student-section/placement-postulates/thumbnail/25.png",
