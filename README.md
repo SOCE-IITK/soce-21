@@ -157,7 +157,7 @@ The official Website of the Society of Civil Engineers, IIT Kanpur
 -  [public/fontawesome-free-5.15.4-web/js/all.min.js](public/fontawesome-free-5.15.4-web/js/all.min.js)
 
 
-#### 📝 Canva Site Layouts (Courtesy Shubham)
+#### 📝 Canva Site Layouts
 
 -   [SoCE Website](https://www.canva.com/design/DAEsiQTOrrM/Tq0m9SvyOg_elmVW0HdLgA/view?website#2:title-page)
 -   [About-Us](https://www.canva.com/design/DAEuaxDQGYc/XGKazHkNxQipher1FWnJDQ/view?website#2)
