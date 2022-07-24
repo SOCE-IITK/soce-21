@@ -8,8 +8,6 @@ The official Website of the Society of Civil Engineers, IIT Kanpur
 <code><img height="250" src = "public/ss/soce-pc.png"></code>
 <code><img height="250" src = "public/ss/soce-mobile.png"></code>
 
-Copyrights 2021, SoCE IITK
-
 ## 💻 Website Developed By 
 
 | Photo                                                  | Name                                                  | Email                  |
