@@ -1,7 +1,8 @@
-# SoCE-IITK 2021 New Website
+# SoCE-IITK New Website
 <code><img height="80" src = "public/img/SoCE-logo.svg"></code>
+The official Website of the Society of Civil Engineers, IIT Kanpur
 
-### SoCE IITK website @ [soce-iitk.herokuapp.com](https://soce-iitk.herokuapp.com/) 🎉🎉
+### [soce-iitk.herokuapp.com](https://soce-iitk.herokuapp.com/) 
 
 <code><img height="250" src = "public/ss/soce-pc.png"></code>
 <code><img height="250" src = "public/ss/soce-mobile.png"></code>
