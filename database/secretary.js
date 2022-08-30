@@ -152,22 +152,13 @@ var secy = [{
   image: "img/team/e3.jpg"
 },
 {
-  name: "Manuja Pandey",
-  post: "Secretary Events",
-  fb: " https://www.facebook.com/manuja.pandey.1",
-  insta: "",
-  linkedin: "",
-  mail: "mailto:manujap21@iitk.ac.in",
-  image: "img/team/e4.jpg"
-},
-{
   name: "Mayank Shekhar",
   post: "Secretary Events",
   fb: "https://www.facebook.com/mayank.shekhar.710",
   insta: "https://instagram.com/mayank___shekhar?igshid=YmMyMTA2M2Y=",
   linkedin: "https://www.linkedin.com/in/mayank-shekhar-a71589232",
   mail: "mailto:mshekhar21@iitk.ac.in",
-  image: "img/team/e5.jpg"
+  image: "img/team/e4.jpg"
 },
 {
   name: "Saurabh Meena",
@@ -176,7 +167,7 @@ var secy = [{
   insta: "https://instagram.com/master_saurabh001?igshid=YmMyMTA2M2Y=",
   linkedin: "https://www.linkedin.com/in/saurabh-meena-94600223b",
   mail: "mailto:msaurabh21@iitk.ac.in",
-  image: "img/team/e6.jpg"
+  image: "img/team/e5.jpg"
 },
 {
   name: "Shambhavi Agarwal",
@@ -185,7 +176,7 @@ var secy = [{
   insta: "https://instagram.com/i_shambhavi?igshid=YmMyMTA2M2Y=",
   linkedin: "https://www.linkedin.com/in/shambhavi-agarwal-15b47b242",
   mail: "mailto:shambhavi21@iitk.ac.in",
-  image: "img/team/e7.jpg"
+  image: "img/team/e6.jpg"
 },
 {
   name: "Srishti",
@@ -194,7 +185,7 @@ var secy = [{
   insta: "https://www.instagram.com/eunoia_ish/",
   linkedin: "https://www.linkedin.com/in/srishti-s-557129236/",
   mail: "mailto:srishti21@iitk.ac.in",
-  image: "img/team/e8.jpg"
+  image: "img/team/e7.jpg"
 },
 {
   name: "Aashruti",
