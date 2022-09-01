@@ -5,7 +5,7 @@ var chats = [
     text: "Hey everyone, I am Aryaman Shandilya. I am a Y18 BT/CE student, and I am currently working as an Associate Product Manager at Zomato. Through this piece, I will try my best to help you prepare for your placements. While this may apply more to some than others, I hope every one who is taking the time out to read this is able to take something out of this.",
     dp: "/img/Student-section/placement-postulates/dp/26.jpg",
     link: "/Aryaman_Shandilya",
-    thumbnail: "/img/Student-section/placement-postulates/thumbnail/26.jpg",
+    thumbnail: "/img/Student-section/placement-postulates/thumbnail/26.png",
     og: "Aryaman_Shandilyaa"
   },
   {
