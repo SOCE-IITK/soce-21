@@ -124,6 +124,15 @@ var secy = [{
   mail: "mailto:sanjuk21@iitk.ac.in",
   image: "img/team/d7.jpg"
 },
+// {
+//   name: "Yagyavalkya Soan",
+//   post: "Secretary Design",
+//   fb: "https://www.facebook.com/yash.soan.3956",
+//   insta: "https://www.instagram.com/yash_soan/",
+//   linkedin: "",
+//   mail: "mailto:ysoan21@iitk.ac.in",
+//   image: "img/team/d8.jpg"
+// },
 {
   name: "Abhiraj Singh",
   post: "Secretary Events",
@@ -196,15 +205,15 @@ var secy = [{
   mail: "mailto:aashruti21@iitk.ac.in ",
   image: "img/team/w1.jpg"
 },
-{
-  name: "Ambuj Pyne",
-  post: "Secretary Web Development",
-  fb: "https://www.facebook.com/profile.php?id=100075328710987",
-  insta: "https://www.instagram.com/ambujpyne/",
-  linkedin: "https://www.linkedin.com/in/ambuj-pyne-427b9022b",
-  mail: "mailto:ambujp21@iitk.ac.in",
-  image: "img/team/w2.jpg"
-},
+// {
+//   name: "Abhimanyu Jain",
+//   post: "Secretary Web Development",
+//   fb: "",
+//   insta: "",
+//   linkedin: "",
+//   mail: "mailto:",
+//   image: "img/team/w2.jpg"
+// },
 {
   name: "Arpit Kaithwar",
   post: "Secretary Web Development",
