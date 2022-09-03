@@ -129,7 +129,7 @@ var secy = [{
 //   post: "Secretary Design",
 //   fb: "https://www.facebook.com/yash.soan.3956",
 //   insta: "https://www.instagram.com/yash_soan/",
-//   linkedin: "",
+//   linkedin: "https://www.linkedin.com/in/yash-soan-9845a31a3",
 //   mail: "mailto:ysoan21@iitk.ac.in",
 //   image: "img/team/d8.jpg"
 // },
@@ -224,22 +224,13 @@ var secy = [{
   image: "img/team/w3.jpg"
 },
 {
-  name: "MD Rahbar",
-  post: "Secretary Web Development",
-  fb: "https://www.facebook.com/rahbar.khan.355",
-  insta: "https://instagram.com/rowdyrahbar",
-  linkedin: "https://www.linkedin.com/in/md-rahbar-0576071a7",
-  mail: "mailto:mdrahbar21@iitk.ac.in",
-  image: "img/team/w4.jpg"
-},
-{
   name: "Saurav Kumar",
   post: "Secretary Web Development",
   fb: "https://www.facebook.com/profile.php?id=100035038578902",
   insta: "https://www.instagram.com/kr_saurav35/",
   linkedin: "https://www.linkedin.com/in/saurav-kumar-1894a5226",
   mail: "mailto:sauravkr21@iitk.ac.in",
-  image: "img/team/w5.jpg"
+  image: "img/team/w4.jpg"
 },
 {
   name: "Zoya Manjer",
@@ -248,7 +239,7 @@ var secy = [{
   insta: "https://www.instagram.com/invites/contact/?i=176y5tfiw2etu&utm_content=3kxm38f",
   linkedin: "https://www.linkedin.com/in/zoya-manjer-5a347b242",
   mail: "mailto:zoyam21@iitk.ac.in",
-  image: "img/team/w6.jpg"
+  image: "img/team/w5.jpg"
 },
 {
   name: "Aadya Umrao",
