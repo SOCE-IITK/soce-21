@@ -124,15 +124,15 @@ var secy = [{
   mail: "mailto:sanjuk21@iitk.ac.in",
   image: "img/team/d7.jpg"
 },
-// {
-//   name: "Yagyavalkya Soan",
-//   post: "Secretary Design",
-//   fb: "https://www.facebook.com/yash.soan.3956",
-//   insta: "https://www.instagram.com/yash_soan/",
-//   linkedin: "https://www.linkedin.com/in/yash-soan-9845a31a3",
-//   mail: "mailto:ysoan21@iitk.ac.in",
-//   image: "img/team/d8.jpg"
-// },
+{
+  name: "Yagyavalkya Soan",
+  post: "Secretary Design",
+  fb: "https://www.facebook.com/yash.soan.3956",
+  insta: "https://www.instagram.com/yash_soan/",
+  linkedin: "https://www.linkedin.com/in/yash-soan-9845a31a3",
+  mail: "mailto:ysoan21@iitk.ac.in",
+  image: "img/team/d8.jpg"
+},
 {
   name: "Abhiraj Singh",
   post: "Secretary Events",
