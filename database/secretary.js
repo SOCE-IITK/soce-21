@@ -205,15 +205,15 @@ var secy = [{
   mail: "mailto:aashruti21@iitk.ac.in ",
   image: "img/team/w1.jpg"
 },
-// {
-//   name: "Abhimanyu Jain",
-//   post: "Secretary Web Development",
-//   fb: "",
-//   insta: "",
-//   linkedin: "",
-//   mail: "mailto:",
-//   image: "img/team/w2.jpg"
-// },
+{
+  name: "Abhimanyu Jain",
+  post: "Secretary Web Development",
+  fb: "",
+  insta: "https://www.instagram.com/_abhimanyu_jain_/",
+  linkedin: "",
+  mail: "mailto:",
+  image: "img/team/w2.jpg"
+},
 {
   name: "Arpit Kaithwar",
   post: "Secretary Web Development",
