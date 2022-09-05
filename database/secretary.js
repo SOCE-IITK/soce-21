@@ -211,7 +211,7 @@ var secy = [{
   fb: "",
   insta: "https://www.instagram.com/_abhimanyu_jain_/",
   linkedin: "",
-  mail: "mailto:",
+  mail: "mailto:abhimanyuj21@iitk.ac.in",
   image: "img/team/w2.jpg"
 },
 {
