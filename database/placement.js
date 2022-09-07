@@ -1,13 +1,22 @@
 var chats = [
   {
-    name: "Himanshu Mishra (Y18)",
-    work: "Accenture",
-    text: "Hello everyone,    I am Himanshu Mishra, will be joining Accenture Japan as a Digital Consultant. My 4 years (practically 2.5 years) at IIT Kanpur is just as exhilarating, with ups and downs like a roller coaster ride. There were thrilling moments mixed in with tense, anxious, frightened and triumphant ones. The college years are a truly surprising and delightful time in our lives, when we make numerous friends, finalize our careers, and prepare for the trials of the real world. But, if I have to conclude in one word, I will say “Life at campus is Beautiful”",
-    dp: "/img/Student-section/placement-postulates/dp/27.jpg",
-    link: "/Himanshu_Mishra",
-    thumbnail: "/img/Student-section/placement-postulates/thumbnail/27.png",
-    og: "/Himanshu_Mishra"
+    name: "Ankit Kumar (Y18)",
+    work: "Myntra",
+    text: "Hello everyone!    Since you have reached here, so you know who I am. So, skipping the formal introduction part, I would like to clear it in the very beginning that if you are the one who has been academically well throughout your time at IITK or you are the one who always got what you wanted easily then this blog isn’t for you. This blog is for the people who are tensed about their career but don’t know what to do or for the people who are doubting themselves if they will be getting placed or not. Also, you may think that I am writing this very late according to the placements timeline but as mentioned above, the people for whom I am writing this must be really worried about placements from the last few weeks only. And yes, these ‘people’ can be from any batches, be it Y19 sitting in the placements or be it Y21, I would try my best to state things very clearly without any diplomacy.",
+    dp: "/img/Student-section/placement-postulates/dp/28.jpg",
+    link: "/Ankit_Kumar",
+    thumbnail: "/img/Student-section/placement-postulates/thumbnail/28.png",
+    og: "/Ankit_Kumar"
   },
+  // {
+  //   name: "Himanshu Mishra (Y18)",
+  //   work: "Accenture",
+  //   text: "Hello everyone,    I am Himanshu Mishra, will be joining Accenture Japan as a Digital Consultant. My 4 years (practically 2.5 years) at IIT Kanpur is just as exhilarating, with ups and downs like a roller coaster ride. There were thrilling moments mixed in with tense, anxious, frightened and triumphant ones. The college years are a truly surprising and delightful time in our lives, when we make numerous friends, finalize our careers, and prepare for the trials of the real world. But, if I have to conclude in one word, I will say “Life at campus is Beautiful”",
+  //   dp: "/img/Student-section/placement-postulates/dp/27.jpg",
+  //   link: "/Himanshu_Mishra",
+  //   thumbnail: "/img/Student-section/placement-postulates/thumbnail/27.png",
+  //   og: "/Himanshu_Mishra"
+  // },
   {
     name: "Aryaman Shandilya (Y18)",
     work: "Zomato",
