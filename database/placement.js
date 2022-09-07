@@ -1,12 +1,21 @@
 var chats = [
   {
+    name: "Himanshu Mishra (Y18)",
+    work: "Accenture",
+    text: "Hello everyone,    I am Himanshu Mishra, will be joining Accenture Japan as a Digital Consultant. My 4 years (practically 2.5 years) at IIT Kanpur is just as exhilarating, with ups and downs like a roller coaster ride. There were thrilling moments mixed in with tense, anxious, frightened and triumphant ones. The college years are a truly surprising and delightful time in our lives, when we make numerous friends, finalize our careers, and prepare for the trials of the real world. But, if I have to conclude in one word, I will say “Life at campus is Beautiful”",
+    dp: "/img/Student-section/placement-postulates/dp/27.jpg",
+    link: "/Himanshu_Mishra",
+    thumbnail: "/img/Student-section/placement-postulates/thumbnail/27.png",
+    og: "/Himanshu_Mishra"
+  },
+  {
     name: "Aryaman Shandilya (Y18)",
     work: "Zomato",
     text: "Hey everyone, I am Aryaman Shandilya. I am a Y18 BT/CE student, and I am currently working as an Associate Product Manager at Zomato. Through this piece, I will try my best to help you prepare for your placements. While this may apply more to some than others, I hope every one who is taking the time out to read this is able to take something out of this.",
     dp: "/img/Student-section/placement-postulates/dp/26.jpg",
     link: "/Aryaman_Shandilya",
     thumbnail: "/img/Student-section/placement-postulates/thumbnail/26.png",
-    og: "Aryaman_Shandilyaa"
+    og: "Aryaman_Shandilya"
   },
   {
     name: "Yash Vardhan Raizada (Y18)",
