@@ -8,15 +8,15 @@ var chats = [
     thumbnail: "/img/Student-section/placement-postulates/thumbnail/28.jpg",
     og: "/Ankit_Kumar"
   },
-  // {
-  //   name: "Himanshu Mishra (Y18)",
-  //   work: "Accenture",
-  //   text: "Hello everyone,    I am Himanshu Mishra, will be joining Accenture Japan as a Digital Consultant. My 4 years (practically 2.5 years) at IIT Kanpur is just as exhilarating, with ups and downs like a roller coaster ride. There were thrilling moments mixed in with tense, anxious, frightened and triumphant ones. The college years are a truly surprising and delightful time in our lives, when we make numerous friends, finalize our careers, and prepare for the trials of the real world. But, if I have to conclude in one word, I will say “Life at campus is Beautiful”",
-  //   dp: "/img/Student-section/placement-postulates/dp/27.jpg",
-  //   link: "/Himanshu_Mishra",
-  //   thumbnail: "/img/Student-section/placement-postulates/thumbnail/27.png",
-  //   og: "/Himanshu_Mishra"
-  // },
+   {
+    name: "Himanshu Mishra (Y18)",
+    work: "Accenture",
+    text: "Hello everyone,    I am Himanshu Mishra, will be joining Accenture Japan as a Digital Consultant. My 4 years (practically 2.5 years) at IIT Kanpur is just as exhilarating, with ups and downs like a roller coaster ride. There were thrilling moments mixed in with tense, anxious, frightened and triumphant ones. The college years are a truly surprising and delightful time in our lives, when we make numerous friends, finalize our careers, and prepare for the trials of the real world. But, if I have to conclude in one word, I will say “Life at campus is Beautiful”",
+    dp: "/img/Student-section/placement-postulates/dp/27.jpg",
+    link: "/Himanshu_Mishra",
+    thumbnail: "/img/Student-section/placement-postulates/thumbnail/27.png",
+    og: "/Himanshu_Mishra"
+  },
   {
     name: "Aryaman Shandilya (Y18)",
     work: "Zomato",
