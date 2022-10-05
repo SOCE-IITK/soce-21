@@ -191,7 +191,7 @@ var secy = [{
   name: "Srishti",
   post: "Secretary Events",
   fb: "https://www.facebook.com/srishti.s.10",
-  insta: "https://www.instagram.com/eunoia_ish/",
+  insta: "https://www.instagram.com/ish_eunoia/",
   linkedin: "https://www.linkedin.com/in/srishti-s-557129236/",
   mail: "mailto:srishti21@iitk.ac.in",
   image: "img/team/e7.jpg"
